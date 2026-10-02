@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/631635.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/631635.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/631635t.webp"
+          }
+        },
+        "mal_id": 295655,
+        "name": "Ayase, Ruka",
+        "url": "https://myanimelist.net/character/295655/Ruka_Ayase"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/631636.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/631636.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/631636t.webp"
+          }
+        },
+        "mal_id": 295656,
+        "name": "Suzuki, Tomohiko",
+        "url": "https://myanimelist.net/character/295656/Tomohiko_Suzuki"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/384977.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/384977.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/384977t.webp"
+          }
+        },
+        "mal_id": 156979,
+        "name": "Kamitsuki, Nori",
+        "url": "https://myanimelist.net/character/156979/Nori_Kamitsuki"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1867,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/64015.jpg"
+              }
+            },
+            "mal_id": 46066,
+            "name": "Kajiwara, Gakuto",
+            "url": "https://myanimelist.net/people/46066/Gakuto_Kajiwara"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621474.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621474.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/621474t.webp"
+          }
+        },
+        "mal_id": 160928,
+        "name": "Shinooka, Kyou",
+        "url": "https://myanimelist.net/character/160928/Kyou_Shinooka"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621472.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621472.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/621472t.webp"
+          }
+        },
+        "mal_id": 160927,
+        "name": "Todoroki, Otoya",
+        "url": "https://myanimelist.net/character/160927/Otoya_Todoroki"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 28,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60641.jpg"
+              }
+            },
+            "mal_id": 39127,
+            "name": "Kasama, Jun",
+            "url": "https://myanimelist.net/people/39127/Jun_Kasama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/622235.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/622235.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/622235t.webp"
+          }
+        },
+        "mal_id": 162484,
+        "name": "Ieki, Teruna",
+        "url": "https://myanimelist.net/character/162484/Teruna_Ieki"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

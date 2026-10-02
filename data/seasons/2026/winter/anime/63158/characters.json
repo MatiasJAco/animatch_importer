@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/631826.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/631826.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/631826t.webp"
+          }
+        },
+        "mal_id": 295775,
+        "name": "Misaki, Reina",
+        "url": "https://myanimelist.net/character/295775/Reina_Misaki"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/631825.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/631825.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/631825t.webp"
+          }
+        },
+        "mal_id": 295774,
+        "name": "Saeki",
+        "url": "https://myanimelist.net/character/295774/Saeki"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631827.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631827.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/631827t.webp"
+          }
+        },
+        "mal_id": 295776,
+        "name": "Tomomi",
+        "url": "https://myanimelist.net/character/295776/Tomomi"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

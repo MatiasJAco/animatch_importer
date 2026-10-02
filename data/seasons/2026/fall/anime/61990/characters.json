@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/637270.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/637270.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/637270t.webp"
+          }
+        },
+        "mal_id": 299239,
+        "name": "Carax, Roman",
+        "url": "https://myanimelist.net/character/299239/Roman_Carax"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 115,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/79678.jpg"
+              }
+            },
+            "mal_id": 64337,
+            "name": "Terasawa, Momoka",
+            "url": "https://myanimelist.net/people/64337/Momoka_Terasawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/638257.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/638257.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/638257t.webp"
+          }
+        },
+        "mal_id": 299240,
+        "name": "D",
+        "url": "https://myanimelist.net/character/299240/D"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 18995,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/63405.jpg"
+              }
+            },
+            "mal_id": 1764,
+            "name": "Uchiyama, Kouki",
+            "url": "https://myanimelist.net/people/1764/Kouki_Uchiyama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/640338.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/640338.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/640338t.webp"
+          }
+        },
+        "mal_id": 299242,
+        "name": "Kingsley, Weak",
+        "url": "https://myanimelist.net/character/299242/Weak_Kingsley"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 32,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/68367.jpg"
+              }
+            },
+            "mal_id": 10571,
+            "name": "Tone, Kentarou",
+            "url": "https://myanimelist.net/people/10571/Kentarou_Tone"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/80901.jpg"
+              }
+            },
+            "mal_id": 75538,
+            "name": "Brown, Clancy",
+            "url": "https://myanimelist.net/people/75538/Clancy_Brown"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/637273.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/637273.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/637273t.webp"
+          }
+        },
+        "mal_id": 299241,
+        "name": "Yang, Talia",
+        "url": "https://myanimelist.net/character/299241/Talia_Yang"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 10994,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/70148.jpg"
+              }
+            },
+            "mal_id": 34951,
+            "name": "Kitou, Akari",
+            "url": "https://myanimelist.net/people/34951/Akari_Kitou"
+          }
+        }
+      ]
+    }
+  ]
+}

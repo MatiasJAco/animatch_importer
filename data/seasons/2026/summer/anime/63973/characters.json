@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 295136,
+        "name": "Ben",
+        "url": "https://myanimelist.net/character/295136/Ben"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 103104,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/69318.jpg"
+              }
+            },
+            "mal_id": 185,
+            "name": "Hanazawa, Kana",
+            "url": "https://myanimelist.net/people/185/Kana_Hanazawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 295137,
+        "name": "Masaru",
+        "url": "https://myanimelist.net/character/295137/Masaru"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 7895,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/70845.jpg"
+              }
+            },
+            "mal_id": 22,
+            "name": "Miki, Shinichiro",
+            "url": "https://myanimelist.net/people/22/Shinichiro_Miki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 295135,
+        "name": "Minato",
+        "url": "https://myanimelist.net/character/295135/Minato"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 286,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/87913.jpg"
+              }
+            },
+            "mal_id": 64264,
+            "name": "ano",
+            "url": "https://myanimelist.net/people/64264/ano"
+          }
+        }
+      ]
+    }
+  ]
+}

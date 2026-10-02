@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/623077.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/623077.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/623077t.webp"
+          }
+        },
+        "mal_id": 290510,
+        "name": "Bai, Xiaotao",
+        "url": "https://myanimelist.net/character/290510/Xiaotao_Bai"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/78987.jpg"
+              }
+            },
+            "mal_id": 69978,
+            "name": "Duoduo poi",
+            "url": "https://myanimelist.net/people/69978/Duoduo_poi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/623076.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/623076.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/623076t.webp"
+          }
+        },
+        "mal_id": 290509,
+        "name": "Sun, Zhiya",
+        "url": "https://myanimelist.net/character/290509/Zhiya_Sun"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/73854.jpg"
+              }
+            },
+            "mal_id": 64063,
+            "name": "Geng, Minglin",
+            "url": "https://myanimelist.net/people/64063/Minglin_Geng"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/623078.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/623078.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/623078t.webp"
+          }
+        },
+        "mal_id": 290511,
+        "name": "Ye, Xi",
+        "url": "https://myanimelist.net/character/290511/Xi_Ye"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/83187.jpg"
+              }
+            },
+            "mal_id": 80656,
+            "name": "Jin, Na",
+            "url": "https://myanimelist.net/people/80656/Na_Jin"
+          }
+        }
+      ]
+    }
+  ]
+}

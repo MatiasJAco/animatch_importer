@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/644312.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/644312.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/644312t.webp"
+          }
+        },
+        "mal_id": 291998,
+        "name": "Dino",
+        "url": "https://myanimelist.net/character/291998/Dino"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 105,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89219.jpg"
+              }
+            },
+            "mal_id": 36557,
+            "name": "Morinaga, Chitose",
+            "url": "https://myanimelist.net/people/36557/Chitose_Morinaga"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/644310.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/644310.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/644310t.webp"
+          }
+        },
+        "mal_id": 291996,
+        "name": "Kitadani, Tetori",
+        "url": "https://myanimelist.net/character/291996/Tetori_Kitadani"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 121,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/72820.jpg"
+              }
+            },
+            "mal_id": 388,
+            "name": "Sakakihara, Yuuki",
+            "url": "https://myanimelist.net/people/388/Yuuki_Sakakihara"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/644311.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/644311.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/644311t.webp"
+          }
+        },
+        "mal_id": 291997,
+        "name": "Nakazato, Kanna",
+        "url": "https://myanimelist.net/character/291997/Kanna_Nakazato"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 94,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/82365.jpg"
+              }
+            },
+            "mal_id": 56917,
+            "name": "Nakamura, Kanna",
+            "url": "https://myanimelist.net/people/56917/Kanna_Nakamura"
+          }
+        }
+      ]
+    }
+  ]
+}

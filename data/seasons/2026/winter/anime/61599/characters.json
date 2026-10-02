@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/601229.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/601229.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/601229t.webp"
+          }
+        },
+        "mal_id": 276247,
+        "name": "Misha",
+        "url": "https://myanimelist.net/character/276247/Misha"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 81,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/40773.jpg"
+              }
+            },
+            "mal_id": 37591,
+            "name": "Tomonaga, Maki",
+            "url": "https://myanimelist.net/people/37591/Maki_Tomonaga"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/601228.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/601228.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/601228t.webp"
+          }
+        },
+        "mal_id": 276246,
+        "name": "Norun",
+        "url": "https://myanimelist.net/character/276246/Norun"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/646350.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/646350.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/646350t.webp"
+          }
+        },
+        "mal_id": 304556,
+        "name": "Rabimea",
+        "url": "https://myanimelist.net/character/304556/Rabimea"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

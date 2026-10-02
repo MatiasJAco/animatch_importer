@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/445784.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/445784.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/445784t.webp"
+          }
+        },
+        "mal_id": 175696,
+        "name": "Jiu Yue",
+        "url": "https://myanimelist.net/character/175696/Jiu_Yue"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/51192.jpg"
+              }
+            },
+            "mal_id": 47448,
+            "name": "Yang, Ning",
+            "url": "https://myanimelist.net/people/47448/Ning_Yang"
+          }
+        }
+      ]
+    }
+  ]
+}

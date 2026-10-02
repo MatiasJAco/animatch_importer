@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/630636.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/630636.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/630636t.webp"
+          }
+        },
+        "mal_id": 295038,
+        "name": "Oota, Takuma",
+        "url": "https://myanimelist.net/character/295038/Takuma_Oota"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/630637.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/630637.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/630637t.webp"
+          }
+        },
+        "mal_id": 295039,
+        "name": "Yukihira, Shizune",
+        "url": "https://myanimelist.net/character/295039/Shizune_Yukihira"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

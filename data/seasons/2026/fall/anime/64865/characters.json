@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/361574.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/361574.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/361574t.webp"
+          }
+        },
+        "mal_id": 163648,
+        "name": "Cheat",
+        "url": "https://myanimelist.net/character/163648/Cheat"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/361564.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/361564.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/361564t.webp"
+          }
+        },
+        "mal_id": 163645,
+        "name": "Patch",
+        "url": "https://myanimelist.net/character/163645/Patch"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/361560.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/361560.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/361560t.webp"
+          }
+        },
+        "mal_id": 163644,
+        "name": "Sher, Publi",
+        "url": "https://myanimelist.net/character/163644/Publi_Sher"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

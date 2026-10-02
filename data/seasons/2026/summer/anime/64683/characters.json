@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/635561.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/635561.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/635561t.webp"
+          }
+        },
+        "mal_id": 298111,
+        "name": "Ji, Eun-O",
+        "url": "https://myanimelist.net/character/298111/Eun-O_Ji"
+      },
+      "favorites": 14,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/578187.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/578187.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/578187t.webp"
+          }
+        },
+        "mal_id": 263837,
+        "name": "Song, Uyun",
+        "url": "https://myanimelist.net/character/263837/Uyun_Song"
+      },
+      "favorites": 33,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/578189.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/578189.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/578189t.webp"
+          }
+        },
+        "mal_id": 263838,
+        "name": "Woo, Jinhyeong",
+        "url": "https://myanimelist.net/character/263838/Jinhyeong_Woo"
+      },
+      "favorites": 58,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/635558.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/635558.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/635558t.webp"
+          }
+        },
+        "mal_id": 298108,
+        "name": "Lee, Seong-Rik",
+        "url": "https://myanimelist.net/character/298108/Seong-Rik_Lee"
+      },
+      "favorites": 4,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

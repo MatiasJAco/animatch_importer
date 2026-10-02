@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/348954.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/348954.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/348954t.webp"
+          }
+        },
+        "mal_id": 76348,
+        "name": "Beerus",
+        "url": "https://myanimelist.net/character/76348/Beerus"
+      },
+      "favorites": 1021,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1625,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/73614.jpg"
+              }
+            },
+            "mal_id": 11,
+            "name": "Yamadera, Kouichi",
+            "url": "https://myanimelist.net/people/11/Kouichi_Yamadera"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/72546.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/72546t.webp"
+          }
+        },
+        "mal_id": 246,
+        "name": "Son, Gokuu",
+        "url": "https://myanimelist.net/character/246/Gokuu_Son"
+      },
+      "favorites": 30782,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 3864,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/77340.jpg"
+              }
+            },
+            "mal_id": 557,
+            "name": "Nozawa, Masako",
+            "url": "https://myanimelist.net/people/557/Masako_Nozawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/86185.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/86185.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/86185t.webp"
+          }
+        },
+        "mal_id": 913,
+        "name": "Vegeta",
+        "url": "https://myanimelist.net/character/913/Vegeta"
+      },
+      "favorites": 21626,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1101,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/63540.jpg"
+              }
+            },
+            "mal_id": 518,
+            "name": "Horikawa, Ryo",
+            "url": "https://myanimelist.net/people/518/Ryo_Horikawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/359258.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/359258.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/359258t.webp"
+          }
+        },
+        "mal_id": 3694,
+        "name": "Freeza",
+        "url": "https://myanimelist.net/character/3694/Freeza"
+      },
+      "favorites": 1762,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1500,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/65678.jpg"
+              }
+            },
+            "mal_id": 259,
+            "name": "Nakao, Ryuusei",
+            "url": "https://myanimelist.net/people/259/Ryuusei_Nakao"
+          }
+        }
+      ]
+    }
+  ]
+}

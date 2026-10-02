@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/635497.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/635497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/635497t.webp"
+          }
+        },
+        "mal_id": 186456,
+        "name": "Cappuccino",
+        "url": "https://myanimelist.net/character/186456/Cappuccino"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/635498.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/635498.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/635498t.webp"
+          }
+        },
+        "mal_id": 119385,
+        "name": "Chiffon",
+        "url": "https://myanimelist.net/character/119385/Chiffon"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/179623.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/179623.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/179623t.webp"
+          }
+        },
+        "mal_id": 30286,
+        "name": "Cinnamoroll",
+        "url": "https://myanimelist.net/character/30286/Cinnamoroll"
+      },
+      "favorites": 228,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/635500.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/635500.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/635500t.webp"
+          }
+        },
+        "mal_id": 186461,
+        "name": "Espresso",
+        "url": "https://myanimelist.net/character/186461/Espresso"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/506770.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/506770.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/506770t.webp"
+          }
+        },
+        "mal_id": 186457,
+        "name": "Milk",
+        "url": "https://myanimelist.net/character/186457/Milk"
+      },
+      "favorites": 10,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

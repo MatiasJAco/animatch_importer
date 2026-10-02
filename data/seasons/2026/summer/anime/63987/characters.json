@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/639624.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/639624.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/639624t.webp"
+          }
+        },
+        "mal_id": 300466,
+        "name": "Li, Xiongmao",
+        "url": "https://myanimelist.net/character/300466/Xiongmao_Li"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/639423.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/639423.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/639423t.webp"
+          }
+        },
+        "mal_id": 300469,
+        "name": "Chu Qi",
+        "url": "https://myanimelist.net/character/300469/Chu_Qi"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643954.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643954.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643954t.webp"
+          }
+        },
+        "mal_id": 302906,
+        "name": "Hong, Yu",
+        "url": "https://myanimelist.net/character/302906/Yu_Hong"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/643955.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/643955.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/643955t.webp"
+          }
+        },
+        "mal_id": 302907,
+        "name": "Lin, Meimei",
+        "url": "https://myanimelist.net/character/302907/Meimei_Lin"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643953.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643953.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643953t.webp"
+          }
+        },
+        "mal_id": 300468,
+        "name": "Qingliang",
+        "url": "https://myanimelist.net/character/300468/Qingliang"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89898.jpg"
+              }
+            },
+            "mal_id": 47459,
+            "name": "Xu, Jing",
+            "url": "https://myanimelist.net/people/47459/Jing_Xu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/643952.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/643952.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/643952t.webp"
+          }
+        },
+        "mal_id": 300467,
+        "name": "Shen, Chao",
+        "url": "https://myanimelist.net/character/300467/Chao_Shen"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89688.jpg"
+              }
+            },
+            "mal_id": 92681,
+            "name": "Wei, Yifan",
+            "url": "https://myanimelist.net/people/92681/Yifan_Wei"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643956.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643956.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643956t.webp"
+          }
+        },
+        "mal_id": 302909,
+        "name": "Wan, Yang",
+        "url": "https://myanimelist.net/character/302909/Yang_Wan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

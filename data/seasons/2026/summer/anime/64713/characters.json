@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/643942.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/643942.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/643942t.webp"
+          }
+        },
+        "mal_id": 302901,
+        "name": "Xiao Mo",
+        "url": "https://myanimelist.net/character/302901/Xiao_Mo"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/643943.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/643943.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/643943t.webp"
+          }
+        },
+        "mal_id": 302902,
+        "name": "Meng Mo",
+        "url": "https://myanimelist.net/character/302902/Meng_Mo"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643944.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643944.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643944t.webp"
+          }
+        },
+        "mal_id": 302903,
+        "name": "Tu, Mi",
+        "url": "https://myanimelist.net/character/302903/Mi_Tu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

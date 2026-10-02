@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/626663.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/626663.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/626663t.webp"
+          }
+        },
+        "mal_id": 227445,
+        "name": "Gotou, Shinpei",
+        "url": "https://myanimelist.net/character/227445/Shinpei_Gotou"
+      },
+      "favorites": 166,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 18995,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/63405.jpg"
+              }
+            },
+            "mal_id": 1764,
+            "name": "Uchiyama, Kouki",
+            "url": "https://myanimelist.net/people/1764/Kouki_Uchiyama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/626662.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/626662.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/626662t.webp"
+          }
+        },
+        "mal_id": 227444,
+        "name": "Kirigaya, Satoko",
+        "url": "https://myanimelist.net/character/227444/Satoko_Kirigaya"
+      },
+      "favorites": 37,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1530,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/74860.jpg"
+              }
+            },
+            "mal_id": 10929,
+            "name": "Lynn",
+            "url": "https://myanimelist.net/people/10929/Lynn"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/641679.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/641679.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/641679t.webp"
+          }
+        },
+        "mal_id": 301602,
+        "name": "Mitsueda",
+        "url": "https://myanimelist.net/character/301602/Mitsueda"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 58392,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/63379.jpg"
+              }
+            },
+            "mal_id": 591,
+            "name": "Tsuda, Kenjirou",
+            "url": "https://myanimelist.net/people/591/Kenjirou_Tsuda"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/641678.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/641678.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/641678t.webp"
+          }
+        },
+        "mal_id": 235817,
+        "name": "Ogawa, Kotarou",
+        "url": "https://myanimelist.net/character/235817/Kotarou_Ogawa"
+      },
+      "favorites": 2,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 813,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/71104.jpg"
+              }
+            },
+            "mal_id": 41297,
+            "name": "Itou, Kent",
+            "url": "https://myanimelist.net/people/41297/Kent_Itou"
+          }
+        }
+      ]
+    }
+  ]
+}

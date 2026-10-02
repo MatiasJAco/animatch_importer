@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 290045,
+        "name": "Narrator",
+        "url": "https://myanimelist.net/character/290045/Narrator"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 791,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87607.jpg"
+              }
+            },
+            "mal_id": 255,
+            "name": "Chiba, Shigeru",
+            "url": "https://myanimelist.net/people/255/Shigeru_Chiba"
+          }
+        }
+      ]
+    }
+  ]
+}

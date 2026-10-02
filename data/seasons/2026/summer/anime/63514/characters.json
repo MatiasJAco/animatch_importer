@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 297429,
+        "name": "Kuji, Akihito",
+        "url": "https://myanimelist.net/character/297429/Akihito_Kuji"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 200,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/74493.jpg"
+              }
+            },
+            "mal_id": 14155,
+            "name": "Azakami, Youhei",
+            "url": "https://myanimelist.net/people/14155/Youhei_Azakami"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 297430,
+        "name": "Takatsuki, Sae",
+        "url": "https://myanimelist.net/character/297430/Sae_Takatsuki"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 5277,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/74733.jpg"
+              }
+            },
+            "mal_id": 18227,
+            "name": "Saitou, Souma",
+            "url": "https://myanimelist.net/people/18227/Souma_Saitou"
+          }
+        }
+      ]
+    }
+  ]
+}

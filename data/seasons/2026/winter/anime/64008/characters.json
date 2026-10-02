@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/638519.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/638519.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/638519t.webp"
+          }
+        },
+        "mal_id": 287568,
+        "name": "Satou, Yaniko",
+        "url": "https://myanimelist.net/character/287568/Yaniko_Satou"
+      },
+      "favorites": 272,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/638518.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/638518.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/638518t.webp"
+          }
+        },
+        "mal_id": 293411,
+        "name": "Etsushimaru, Yakuko",
+        "url": "https://myanimelist.net/character/293411/Yakuko_Etsushimaru"
+      },
+      "favorites": 132,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

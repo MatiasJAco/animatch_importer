@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/629091.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/629091.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/629091t.webp"
+          }
+        },
+        "mal_id": 294204,
+        "name": "Pan Dorobou",
+        "url": "https://myanimelist.net/character/294204/Pan_Dorobou"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 323,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87274.jpg"
+              }
+            },
+            "mal_id": 25773,
+            "name": "Asai, Ayaka",
+            "url": "https://myanimelist.net/people/25773/Ayaka_Asai"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/646100.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/646100.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/646100t.webp"
+          }
+        },
+        "mal_id": 304377,
+        "name": "Baker",
+        "url": "https://myanimelist.net/character/304377/Baker"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 29386,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/85515.jpg"
+              }
+            },
+            "mal_id": 95,
+            "name": "Suwabe, Junichi",
+            "url": "https://myanimelist.net/people/95/Junichi_Suwabe"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/646101.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/646101.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/646101t.webp"
+          }
+        },
+        "mal_id": 304378,
+        "name": "Fake Pan Dorobou",
+        "url": "https://myanimelist.net/character/304378/Fake_Pan_Dorobou"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 10028,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/82665.jpg"
+              }
+            },
+            "mal_id": 599,
+            "name": "Toyosaki, Aki",
+            "url": "https://myanimelist.net/people/599/Aki_Toyosaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/646102.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/646102.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/646102t.webp"
+          }
+        },
+        "mal_id": 304379,
+        "name": "Mysterious France Pan",
+        "url": "https://myanimelist.net/character/304379/Mysterious_France_Pan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 6278,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/77190.jpg"
+              }
+            },
+            "mal_id": 17215,
+            "name": "Tanezaki, Atsumi",
+            "url": "https://myanimelist.net/people/17215/Atsumi_Tanezaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 304380,
+        "name": "Narrator",
+        "url": "https://myanimelist.net/character/304380/Narrator"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 103104,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/69318.jpg"
+              }
+            },
+            "mal_id": 185,
+            "name": "Hanazawa, Kana",
+            "url": "https://myanimelist.net/people/185/Kana_Hanazawa"
+          }
+        }
+      ]
+    }
+  ]
+}

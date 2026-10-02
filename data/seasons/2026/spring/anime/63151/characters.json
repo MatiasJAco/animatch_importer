@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/616494.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/616494.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/616494t.webp"
+          }
+        },
+        "mal_id": 286243,
+        "name": "Same-nyan",
+        "url": "https://myanimelist.net/character/286243/Same-nyan"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1189,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/69339.jpg"
+              }
+            },
+            "mal_id": 17209,
+            "name": "Kubo, Yurika",
+            "url": "https://myanimelist.net/people/17209/Yurika_Kubo"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/616496.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/616496.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/616496t.webp"
+          }
+        },
+        "mal_id": 286245,
+        "name": "Chibi-nyan",
+        "url": "https://myanimelist.net/character/286245/Chibi-nyan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 117,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53801.jpg"
+              }
+            },
+            "mal_id": 44059,
+            "name": "Sashide, Maria",
+            "url": "https://myanimelist.net/people/44059/Maria_Sashide"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/616497.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/616497.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/616497t.webp"
+          }
+        },
+        "mal_id": 286246,
+        "name": "Ichigo-nyan",
+        "url": "https://myanimelist.net/character/286246/Ichigo-nyan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 418,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/64448.jpg"
+              }
+            },
+            "mal_id": 48147,
+            "name": "Maeda, Kaori",
+            "url": "https://myanimelist.net/people/48147/Kaori_Maeda"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/616495.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/616495.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/616495t.webp"
+          }
+        },
+        "mal_id": 286244,
+        "name": "Shachi-nyan",
+        "url": "https://myanimelist.net/character/286244/Shachi-nyan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 592,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89997.jpg"
+              }
+            },
+            "mal_id": 723,
+            "name": "Akesaka, Satomi",
+            "url": "https://myanimelist.net/people/723/Satomi_Akesaka"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/616498.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/616498.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/616498t.webp"
+          }
+        },
+        "mal_id": 286247,
+        "name": "Usa-nyan",
+        "url": "https://myanimelist.net/character/286247/Usa-nyan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 911,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/72328.jpg"
+              }
+            },
+            "mal_id": 105,
+            "name": "Gotou, Yuuko",
+            "url": "https://myanimelist.net/people/105/Yuuko_Gotou"
+          }
+        }
+      ]
+    }
+  ]
+}

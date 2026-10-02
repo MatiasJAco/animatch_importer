@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/495893.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/495893.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/495893t.webp"
+          }
+        },
+        "mal_id": 221185,
+        "name": "Jashin-kun",
+        "url": "https://myanimelist.net/character/221185/Jashin-kun"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1296,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/64697.jpg"
+              }
+            },
+            "mal_id": 98,
+            "name": "Hatano, Wataru",
+            "url": "https://myanimelist.net/people/98/Wataru_Hatano"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/569529.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/569529.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/569529t.webp"
+          }
+        },
+        "mal_id": 253645,
+        "name": "Katori, Niika",
+        "url": "https://myanimelist.net/character/253645/Niika_Katori"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 35,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/87069.jpg"
+              }
+            },
+            "mal_id": 56386,
+            "name": "Hishikawa, Hana",
+            "url": "https://myanimelist.net/people/56386/Hana_Hishikawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/495631.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/495631.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/495631t.webp"
+          }
+        },
+        "mal_id": 221184,
+        "name": "Kirifuda, Win",
+        "url": "https://myanimelist.net/character/221184/Win_Kirifuda"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 7,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53762.jpg"
+              }
+            },
+            "mal_id": 11660,
+            "name": "Uzawa, Shoutarou",
+            "url": "https://myanimelist.net/people/11660/Shoutarou_Uzawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 268448,
+        "name": "Tsukumoya, Wayumi",
+        "url": "https://myanimelist.net/character/268448/Wayumi_Tsukumoya"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 8383,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/92267.jpg"
+              }
+            },
+            "mal_id": 655,
+            "name": "Ise, Mariya",
+            "url": "https://myanimelist.net/people/655/Mariya_Ise"
+          }
+        }
+      ]
+    }
+  ]
+}

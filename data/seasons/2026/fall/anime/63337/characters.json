@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/619696.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/619696.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/619696t.webp"
+          }
+        },
+        "mal_id": 288282,
+        "name": "Fukuga, Kurumi",
+        "url": "https://myanimelist.net/character/288282/Kurumi_Fukuga"
+      },
+      "favorites": 7,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 994,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/62963.jpg"
+              }
+            },
+            "mal_id": 36461,
+            "name": "Suzuki, Aina",
+            "url": "https://myanimelist.net/people/36461/Aina_Suzuki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/641615.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/641615.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/641615t.webp"
+          }
+        },
+        "mal_id": 301554,
+        "name": "Kogane, Mochiko",
+        "url": "https://myanimelist.net/character/301554/Mochiko_Kogane"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 8781,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/65839.jpg"
+              }
+            },
+            "mal_id": 11787,
+            "name": "Seto, Asami",
+            "url": "https://myanimelist.net/people/11787/Asami_Seto"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/641616.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/641616.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/641616t.webp"
+          }
+        },
+        "mal_id": 301556,
+        "name": "Takane, Yasuko",
+        "url": "https://myanimelist.net/character/301556/Yasuko_Takane"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1474,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87620.jpg"
+              }
+            },
+            "mal_id": 47918,
+            "name": "Okasaki, Miho",
+            "url": "https://myanimelist.net/people/47918/Miho_Okasaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/641617.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/641617.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/641617t.webp"
+          }
+        },
+        "mal_id": 301555,
+        "name": "Yamashi, Mebuki",
+        "url": "https://myanimelist.net/character/301555/Mebuki_Yamashi"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 450,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/87707.jpg"
+              }
+            },
+            "mal_id": 23997,
+            "name": "Itou, Ayasa",
+            "url": "https://myanimelist.net/people/23997/Ayasa_Itou"
+          }
+        }
+      ]
+    }
+  ]
+}

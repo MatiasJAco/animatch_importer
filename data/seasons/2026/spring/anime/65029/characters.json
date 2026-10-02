@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/646513.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/646513.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/646513t.webp"
+          }
+        },
+        "mal_id": 304664,
+        "name": "Hotori",
+        "url": "https://myanimelist.net/character/304664/Hotori"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/51679.jpg"
+              }
+            },
+            "mal_id": 47758,
+            "name": "Du, Qingqing",
+            "url": "https://myanimelist.net/people/47758/Qingqing_Du"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/646515.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/646515.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/646515t.webp"
+          }
+        },
+        "mal_id": 304666,
+        "name": "Lacrimosa",
+        "url": "https://myanimelist.net/character/304666/Lacrimosa"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/73854.jpg"
+              }
+            },
+            "mal_id": 64063,
+            "name": "Geng, Minglin",
+            "url": "https://myanimelist.net/people/64063/Minglin_Geng"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646518.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646518.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/646518t.webp"
+          }
+        },
+        "mal_id": 304669,
+        "name": "Nanally",
+        "url": "https://myanimelist.net/character/304669/Nanally"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/78944.jpg"
+              }
+            },
+            "mal_id": 69981,
+            "name": "Song, Yuanyuan",
+            "url": "https://myanimelist.net/people/69981/Yuanyuan_Song"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646514.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646514.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/646514t.webp"
+          }
+        },
+        "mal_id": 304665,
+        "name": "Shinku",
+        "url": "https://myanimelist.net/character/304665/Shinku"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/646516.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/646516.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/646516t.webp"
+          }
+        },
+        "mal_id": 304667,
+        "name": "Zankou",
+        "url": "https://myanimelist.net/character/304667/Zankou"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/82512.jpg"
+              }
+            },
+            "mal_id": 79039,
+            "name": "Chen, Tingting",
+            "url": "https://myanimelist.net/people/79039/Tingting_Chen"
+          }
+        }
+      ]
+    }
+  ]
+}

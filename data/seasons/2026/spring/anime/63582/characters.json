@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/590438.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/590438.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/590438t.webp"
+          }
+        },
+        "mal_id": 270233,
+        "name": "Fujiwara, Emi",
+        "url": "https://myanimelist.net/character/270233/Emi_Fujiwara"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 40,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/40094.jpg"
+              }
+            },
+            "mal_id": 37934,
+            "name": "Suzuya, Maya",
+            "url": "https://myanimelist.net/people/37934/Maya_Suzuya"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/590433.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/590433.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/590433t.webp"
+          }
+        },
+        "mal_id": 270228,
+        "name": "Okumura, Sae",
+        "url": "https://myanimelist.net/character/270228/Sae_Okumura"
+      },
+      "favorites": 5,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/75854.jpg"
+              }
+            },
+            "mal_id": 66287,
+            "name": "Akeno, Miyuki",
+            "url": "https://myanimelist.net/people/66287/Miyuki_Akeno"
+          }
+        }
+      ]
+    }
+  ]
+}

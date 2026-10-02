@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/343344.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/343344.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/343344t.webp"
+          }
+        },
+        "mal_id": 109929,
+        "name": "Kageyama, Shigeo",
+        "url": "https://myanimelist.net/character/109929/Shigeo_Kageyama"
+      },
+      "favorites": 28151,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 298,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/80435.jpg"
+              }
+            },
+            "mal_id": 27243,
+            "name": "Itou, Setsuo",
+            "url": "https://myanimelist.net/people/27243/Setsuo_Itou"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/308364.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/308364.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/308364t.webp"
+          }
+        },
+        "mal_id": 109931,
+        "name": "Reigen, Arataka",
+        "url": "https://myanimelist.net/character/109931/Arataka_Reigen"
+      },
+      "favorites": 42779,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 25357,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/85504.jpg"
+              }
+            },
+            "mal_id": 79,
+            "name": "Sakurai, Takahiro",
+            "url": "https://myanimelist.net/people/79/Takahiro_Sakurai"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/299395.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/299395.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/299395t.webp"
+          }
+        },
+        "mal_id": 125034,
+        "name": "Ekubo",
+        "url": "https://myanimelist.net/character/125034/Ekubo"
+      },
+      "favorites": 1917,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 5583,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/90723.jpg"
+              }
+            },
+            "mal_id": 146,
+            "name": "Ootsuka, Akio",
+            "url": "https://myanimelist.net/people/146/Akio_Ootsuka"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/306667.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/306667.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/306667t.webp"
+          }
+        },
+        "mal_id": 124786,
+        "name": "Kurata, Tome",
+        "url": "https://myanimelist.net/character/124786/Tome_Kurata"
+      },
+      "favorites": 244,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 6278,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/77190.jpg"
+              }
+            },
+            "mal_id": 17215,
+            "name": "Tanezaki, Atsumi",
+            "url": "https://myanimelist.net/people/17215/Atsumi_Tanezaki"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/643737.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/643737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/643737t.webp"
+          }
+        },
+        "mal_id": 302758,
+        "name": "Fujino, Saya",
+        "url": "https://myanimelist.net/character/302758/Saya_Fujino"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/643738.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/643738.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/643738t.webp"
+          }
+        },
+        "mal_id": 302759,
+        "name": "Sano, Akiho",
+        "url": "https://myanimelist.net/character/302759/Akiho_Sano"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

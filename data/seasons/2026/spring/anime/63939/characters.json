@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/628554.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/628554.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/628554t.webp"
+          }
+        },
+        "mal_id": 293920,
+        "name": "Betty",
+        "url": "https://myanimelist.net/character/293920/Betty"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 973,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/68031.jpg"
+              }
+            },
+            "mal_id": 348,
+            "name": "Shiraishi, Ryouko",
+            "url": "https://myanimelist.net/people/348/Ryouko_Shiraishi"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 50,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/90043.jpg"
+              }
+            },
+            "mal_id": 52695,
+            "name": "Yatco, Anne",
+            "url": "https://myanimelist.net/people/52695/Anne_Yatco"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/628561.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/628561.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/628561t.webp"
+          }
+        },
+        "mal_id": 293922,
+        "name": "Mary",
+        "url": "https://myanimelist.net/character/293922/Mary"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/80620.jpg"
+              }
+            },
+            "mal_id": 74777,
+            "name": "Ohira, Ahiru",
+            "url": "https://myanimelist.net/people/74777/Ahiru_Ohira"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 246,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/53534.jpg"
+              }
+            },
+            "mal_id": 8492,
+            "name": "Huynh, Xanthe",
+            "url": "https://myanimelist.net/people/8492/Xanthe_Huynh"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/628559.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/628559.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/628559t.webp"
+          }
+        },
+        "mal_id": 293921,
+        "name": "Seeka",
+        "url": "https://myanimelist.net/character/293921/Seeka"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 9,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87259.jpg"
+              }
+            },
+            "mal_id": 46005,
+            "name": "Aoyama, Reina",
+            "url": "https://myanimelist.net/people/46005/Reina_Aoyama"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 70,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/54883.jpg"
+              }
+            },
+            "mal_id": 47410,
+            "name": "Stahl, Laura",
+            "url": "https://myanimelist.net/people/47410/Laura_Stahl"
+          }
+        }
+      ]
+    }
+  ]
+}

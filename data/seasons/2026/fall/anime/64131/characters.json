@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/646944.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/646944.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/646944t.webp"
+          }
+        },
+        "mal_id": 295534,
+        "name": "Hidaka, Takeru",
+        "url": "https://myanimelist.net/character/295534/Takeru_Hidaka"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/90367.jpg"
+              }
+            },
+            "mal_id": 95807,
+            "name": "Nagaike, Ryuuga",
+            "url": "https://myanimelist.net/people/95807/Ryuuga_Nagaike"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/631655.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/631655.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/631655t.webp"
+          }
+        },
+        "mal_id": 295535,
+        "name": "Koga, Kaori",
+        "url": "https://myanimelist.net/character/295535/Kaori_Koga"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/90368.jpg"
+              }
+            },
+            "mal_id": 82716,
+            "name": "Hashi, Sayaka",
+            "url": "https://myanimelist.net/people/82716/Sayaka_Hashi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/635346.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/635346.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/635346t.webp"
+          }
+        },
+        "mal_id": 283241,
+        "name": "Yoshioka, Tomoko",
+        "url": "https://myanimelist.net/character/283241/Tomoko_Yoshioka"
+      },
+      "favorites": 5,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/90369.jpg"
+              }
+            },
+            "mal_id": 10637,
+            "name": "Hase, Miki",
+            "url": "https://myanimelist.net/people/10637/Miki_Hase"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/644915.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/644915.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/644915t.webp"
+          }
+        },
+        "mal_id": 303559,
+        "name": "Kaori's Mother",
+        "url": "https://myanimelist.net/character/303559/Kaoris_Mother"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 929,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/92154.jpg"
+              }
+            },
+            "mal_id": 141,
+            "name": "Yuzuki, Ryouka",
+            "url": "https://myanimelist.net/people/141/Ryouka_Yuzuki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/644916.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/644916.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/644916t.webp"
+          }
+        },
+        "mal_id": 303558,
+        "name": "Miyuki",
+        "url": "https://myanimelist.net/character/303558/Miyuki"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 152,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/84197.jpg"
+              }
+            },
+            "mal_id": 47414,
+            "name": "Sugiyama, Riho",
+            "url": "https://myanimelist.net/people/47414/Riho_Sugiyama"
+          }
+        }
+      ]
+    }
+  ]
+}

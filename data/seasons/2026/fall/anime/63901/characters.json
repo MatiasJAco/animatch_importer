@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/644576.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/644576.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/644576t.webp"
+          }
+        },
+        "mal_id": 292822,
+        "name": "Shirotan",
+        "url": "https://myanimelist.net/character/292822/Shirotan"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 37143,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/67808.jpg"
+              }
+            },
+            "mal_id": 6686,
+            "name": "Yuuki, Aoi",
+            "url": "https://myanimelist.net/people/6686/Aoi_Yuuki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/644577.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/644577.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/644577t.webp"
+          }
+        },
+        "mal_id": 303352,
+        "name": "Rakkoinu",
+        "url": "https://myanimelist.net/character/303352/Rakkoinu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/83772.jpg"
+              }
+            },
+            "mal_id": 81938,
+            "name": "Hanasaki, Miyu",
+            "url": "https://myanimelist.net/people/81938/Miyu_Hanasaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/644580.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/644580.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/644580t.webp"
+          }
+        },
+        "mal_id": 303354,
+        "name": "Ramune",
+        "url": "https://myanimelist.net/character/303354/Ramune"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/91787.jpg"
+              }
+            },
+            "mal_id": 98211,
+            "name": "Iwai, Riyo",
+            "url": "https://myanimelist.net/people/98211/Riyo_Iwai"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/644579.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/644579.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/644579t.webp"
+          }
+        },
+        "mal_id": 303353,
+        "name": "Shell",
+        "url": "https://myanimelist.net/character/303353/Shell"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 3168,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/75757.jpg"
+              }
+            },
+            "mal_id": 5250,
+            "name": "Hidaka, Rina",
+            "url": "https://myanimelist.net/people/5250/Rina_Hidaka"
+          }
+        }
+      ]
+    }
+  ]
+}

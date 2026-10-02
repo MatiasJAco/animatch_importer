@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/645010.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/645010.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/645010t.webp"
+          }
+        },
+        "mal_id": 301616,
+        "name": "Rubuna",
+        "url": "https://myanimelist.net/character/301616/Rubuna"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 44,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/60674.jpg"
+              }
+            },
+            "mal_id": 52117,
+            "name": "Kagami, Karin",
+            "url": "https://myanimelist.net/people/52117/Karin_Kagami"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645009.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645009.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/645009t.webp"
+          }
+        },
+        "mal_id": 301617,
+        "name": "Santi",
+        "url": "https://myanimelist.net/character/301617/Santi"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 66,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/88241.jpg"
+              }
+            },
+            "mal_id": 51704,
+            "name": "Nishio, Yuka",
+            "url": "https://myanimelist.net/people/51704/Yuka_Nishio"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645793.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645793.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/645793t.webp"
+          }
+        },
+        "mal_id": 304183,
+        "name": "Krysrain",
+        "url": "https://myanimelist.net/character/304183/Krysrain"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

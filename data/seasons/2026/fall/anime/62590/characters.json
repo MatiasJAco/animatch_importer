@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/597776.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/597776.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/597776t.webp"
+          }
+        },
+        "mal_id": 266504,
+        "name": "Haizaki, Sara",
+        "url": "https://myanimelist.net/character/266504/Sara_Haizaki"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 11,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/86006.jpg"
+              }
+            },
+            "mal_id": 82906,
+            "name": "Shirahama, Hinano",
+            "url": "https://myanimelist.net/people/82906/Hinano_Shirahama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/598495.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/598495.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/598495t.webp"
+          }
+        },
+        "mal_id": 266503,
+        "name": "Hoshi, Ikurou",
+        "url": "https://myanimelist.net/character/266503/Ikurou_Hoshi"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 7799,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/87906.jpg"
+              }
+            },
+            "mal_id": 26705,
+            "name": "Kobayashi, Yuusuke",
+            "url": "https://myanimelist.net/people/26705/Yuusuke_Kobayashi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/625040.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/625040.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/625040t.webp"
+          }
+        },
+        "mal_id": 291984,
+        "name": "Kirihara, Shiba",
+        "url": "https://myanimelist.net/character/291984/Shiba_Kirihara"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1600,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/82639.jpg"
+              }
+            },
+            "mal_id": 53824,
+            "name": "Youmiya, Hina",
+            "url": "https://myanimelist.net/people/53824/Hina_Youmiya"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 304765,
+        "name": "Yoda, Subaru",
+        "url": "https://myanimelist.net/character/304765/Subaru_Yoda"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 2317,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/74244.jpg"
+              }
+            },
+            "mal_id": 37562,
+            "name": "Chiba, Shouya",
+            "url": "https://myanimelist.net/people/37562/Shouya_Chiba"
+          }
+        }
+      ]
+    }
+  ]
+}

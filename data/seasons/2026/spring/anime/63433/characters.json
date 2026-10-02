@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/624481.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/624481.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/624481t.webp"
+          }
+        },
+        "mal_id": 289757,
+        "name": "Norn",
+        "url": "https://myanimelist.net/character/289757/Norn"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 771,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/70280.jpg"
+              }
+            },
+            "mal_id": 17297,
+            "name": "Tadokoro, Azusa",
+            "url": "https://myanimelist.net/people/17297/Azusa_Tadokoro"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/624478.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/624478.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/624478t.webp"
+          }
+        },
+        "mal_id": 289756,
+        "name": "Riddle",
+        "url": "https://myanimelist.net/character/289756/Riddle"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 3015,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87043.jpg"
+              }
+            },
+            "mal_id": 30853,
+            "name": "Enoki, Junya",
+            "url": "https://myanimelist.net/people/30853/Junya_Enoki"
+          }
+        },
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 5583,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/90723.jpg"
+              }
+            },
+            "mal_id": 146,
+            "name": "Ootsuka, Akio",
+            "url": "https://myanimelist.net/people/146/Akio_Ootsuka"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/624483.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/624483.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/624483t.webp"
+          }
+        },
+        "mal_id": 291519,
+        "name": "Darthan",
+        "url": "https://myanimelist.net/character/291519/Darthan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1192,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/66417.jpg"
+              }
+            },
+            "mal_id": 12018,
+            "name": "Hatanaka, Tasuku",
+            "url": "https://myanimelist.net/people/12018/Tasuku_Hatanaka"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/624485.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/624485.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/624485t.webp"
+          }
+        },
+        "mal_id": 291520,
+        "name": "Lordos",
+        "url": "https://myanimelist.net/character/291520/Lordos"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 6403,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/62795.jpg"
+              }
+            },
+            "mal_id": 735,
+            "name": "Suzuki, Tatsuhisa",
+            "url": "https://myanimelist.net/people/735/Tatsuhisa_Suzuki"
+          }
+        }
+      ]
+    }
+  ]
+}

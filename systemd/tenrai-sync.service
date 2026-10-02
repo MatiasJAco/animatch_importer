@@ -1,0 +1,14 @@
+[Unit]
+Description=Tenrai raw download and PostgreSQL import
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=tenrai
+Group=tenrai
+WorkingDirectory=/opt/tenrai-importer
+EnvironmentFile=/opt/tenrai-importer/.env
+ExecStart=/opt/tenrai-importer/venv/bin/python -m tenrai_importer.cli sync --year 2026 --people-limit 100
+Nice=10
+TimeoutStartSec=infinity

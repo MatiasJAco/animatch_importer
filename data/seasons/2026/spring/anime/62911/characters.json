@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/529090.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/529090.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/529090t.webp"
+          }
+        },
+        "mal_id": 238044,
+        "name": "Fang, Han",
+        "url": "https://myanimelist.net/character/238044/Han_Fang"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88151.jpg"
+              }
+            },
+            "mal_id": 70076,
+            "name": "Liu, Kang",
+            "url": "https://myanimelist.net/people/70076/Kang_Liu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/529091.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/529091.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/529091t.webp"
+          }
+        },
+        "mal_id": 238045,
+        "name": "Fang, Qingxue",
+        "url": "https://myanimelist.net/character/238045/Qingxue_Fang"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/78204.jpg"
+              }
+            },
+            "mal_id": 70012,
+            "name": "He, Wenxiao",
+            "url": "https://myanimelist.net/people/70012/Wenxiao_He"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/529093.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/529093.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/529093t.webp"
+          }
+        },
+        "mal_id": 238047,
+        "name": "Hong Yi",
+        "url": "https://myanimelist.net/character/238047/Hong_Yi"
+      },
+      "favorites": 2,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/92059.jpg"
+              }
+            },
+            "mal_id": 98518,
+            "name": "Zhang, Yumeng",
+            "url": "https://myanimelist.net/people/98518/Yumeng_Zhang"
+          }
+        }
+      ]
+    }
+  ]
+}

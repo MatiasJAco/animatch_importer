@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/465710.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/465710.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/465710t.webp"
+          }
+        },
+        "mal_id": 206558,
+        "name": "Lü, Shu",
+        "url": "https://myanimelist.net/character/206558/Shu_Lü"
+      },
+      "favorites": 130,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/618117.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/618117.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/618117t.webp"
+          }
+        },
+        "mal_id": 208033,
+        "name": "Lü, Xiaoyu",
+        "url": "https://myanimelist.net/character/208033/Xiaoyu_Lü"
+      },
+      "favorites": 53,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/645931.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/645931.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/645931t.webp"
+          }
+        },
+        "mal_id": 304256,
+        "name": "Carol",
+        "url": "https://myanimelist.net/character/304256/Carol"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/469092.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/469092.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/469092t.webp"
+          }
+        },
+        "mal_id": 208034,
+        "name": "Nie, Ting",
+        "url": "https://myanimelist.net/character/208034/Ting_Nie"
+      },
+      "favorites": 5,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646141.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/646141.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/646141t.webp"
+          }
+        },
+        "mal_id": 304394,
+        "name": "Sakurai, Yaeko",
+        "url": "https://myanimelist.net/character/304394/Yaeko_Sakurai"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

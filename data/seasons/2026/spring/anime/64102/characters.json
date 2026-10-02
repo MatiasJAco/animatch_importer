@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 295666,
+        "name": "Poet",
+        "url": "https://myanimelist.net/character/295666/Poet"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 34,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/66418.jpg"
+              }
+            },
+            "mal_id": 49263,
+            "name": "Oowara, Sumito",
+            "url": "https://myanimelist.net/people/49263/Sumito_Oowara"
+          }
+        }
+      ]
+    }
+  ]
+}

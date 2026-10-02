@@ -1,0 +1,322 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/645766.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/645766.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/645766t.webp"
+          }
+        },
+        "mal_id": 209610,
+        "name": "Bai, Zhong",
+        "url": "https://myanimelist.net/character/209610/Zhong_Bai"
+      },
+      "favorites": 28,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/645775.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/645775.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/645775t.webp"
+          }
+        },
+        "mal_id": 209608,
+        "name": "Fang, Tang",
+        "url": "https://myanimelist.net/character/209608/Tang_Fang"
+      },
+      "favorites": 17,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645768.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645768.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/645768t.webp"
+          }
+        },
+        "mal_id": 299401,
+        "name": "Guan, Chao",
+        "url": "https://myanimelist.net/character/299401/Chao_Guan"
+      },
+      "favorites": 54,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641694.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641694.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/641694t.webp"
+          }
+        },
+        "mal_id": 301187,
+        "name": "Bu, Fu",
+        "url": "https://myanimelist.net/character/301187/Fu_Bu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 70082,
+            "name": "Chen, Ningxi",
+            "url": "https://myanimelist.net/people/70082/Ningxi_Chen"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/645767.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/645767.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/645767t.webp"
+          }
+        },
+        "mal_id": 301193,
+        "name": "Crux Star",
+        "url": "https://myanimelist.net/character/301193/Crux_Star"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89668.jpg"
+              }
+            },
+            "mal_id": 62505,
+            "name": "Guan, Shuai",
+            "url": "https://myanimelist.net/people/62505/Shuai_Guan"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641700.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641700.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/641700t.webp"
+          }
+        },
+        "mal_id": 301608,
+        "name": "He, Mingshuo",
+        "url": "https://myanimelist.net/character/301608/Mingshuo_He"
+      },
+      "favorites": 17,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 5,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/87815.jpg"
+              }
+            },
+            "mal_id": 91362,
+            "name": "Shi, Zekun",
+            "url": "https://myanimelist.net/people/91362/Zekun_Shi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/645785.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/645785.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/645785t.webp"
+          }
+        },
+        "mal_id": 301192,
+        "name": "Hui, Huo",
+        "url": "https://myanimelist.net/character/301192/Huo_Hui"
+      },
+      "favorites": 3,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/645791.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/645791.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/645791t.webp"
+          }
+        },
+        "mal_id": 301195,
+        "name": "Protagonist Halo",
+        "url": "https://myanimelist.net/character/301195/Protagonist_Halo"
+      },
+      "favorites": 14,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/79499.jpg"
+              }
+            },
+            "mal_id": 72407,
+            "name": "Zhao, Yikai",
+            "url": "https://myanimelist.net/people/72407/Yikai_Zhao"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/641702.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/641702.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/641702t.webp"
+          }
+        },
+        "mal_id": 301194,
+        "name": "Qian, Jun",
+        "url": "https://myanimelist.net/character/301194/Jun_Qian"
+      },
+      "favorites": 6,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88738.jpg"
+              }
+            },
+            "mal_id": 92941,
+            "name": "Liu, Zhixiao",
+            "url": "https://myanimelist.net/people/92941/Zhixiao_Liu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/641698.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/641698.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/641698t.webp"
+          }
+        },
+        "mal_id": 301188,
+        "name": "Ran, Deng",
+        "url": "https://myanimelist.net/character/301188/Deng_Ran"
+      },
+      "favorites": 9,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/88384.jpg"
+              }
+            },
+            "mal_id": 68566,
+            "name": "Deng, Youxi",
+            "url": "https://myanimelist.net/people/68566/Youxi_Deng"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641706.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/641706.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/641706t.webp"
+          }
+        },
+        "mal_id": 301190,
+        "name": "Vindicator",
+        "url": "https://myanimelist.net/character/301190/Vindicator"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/644378.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/644378.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/644378t.webp"
+          }
+        },
+        "mal_id": 301185,
+        "name": "Xiao  Yi",
+        "url": "https://myanimelist.net/character/301185/Xiao_Yi"
+      },
+      "favorites": 22,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

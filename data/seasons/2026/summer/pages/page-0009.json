@@ -1,0 +1,665 @@
+{
+  "data": [
+    {
+      "aired": {
+        "from": "2026-07-11T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 11,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 11, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "8 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1409/158784.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/158784l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/158784t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1409/158784.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1409/158784l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1409/158784t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64510,
+      "members": 85,
+      "popularity": 29993,
+      "producers": [],
+      "rank": 20226,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 3,
+      "season": "summer",
+      "source": "Web manga",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 3389,
+          "name": "Moxie Studio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3389/Moxie_Studio"
+        }
+      ],
+      "synopsis": "Thirteenth season of Ruguo Lishi Shi Yiqun Miao.",
+      "themes": [
+        {
+          "mal_id": 56,
+          "name": "Educational",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        },
+        {
+          "mal_id": 13,
+          "name": "Historical",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "title": "Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian",
+      "title_english": null,
+      "title_japanese": "如果历史是一群喵 大明皇朝篇",
+      "title_synonyms": [
+        "如果历史是一群喵 第十三季",
+        "Ruguo Lishi Shi Yiqun Mia 13th Season"
+      ],
+      "titles": [
+        {
+          "title": "Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian",
+          "type": "Default"
+        },
+        {
+          "title": "如果历史是一群喵 大明皇朝篇",
+          "type": "Japanese"
+        },
+        {
+          "title": "如果历史是一群喵 第十三季",
+          "type": "Synonym"
+        },
+        {
+          "title": "Ruguo Lishi Shi Yiqun Mia 13th Season",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64510/Ruguo_Lishi_Shi_Yiqun_Miao__Daming_Huangchao_Pian",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 1, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1836/158518.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/158518l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/158518t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1836/158518.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1836/158518l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1836/158518t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64416,
+      "members": 80,
+      "popularity": 30087,
+      "producers": [],
+      "rank": 22648,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 7,
+      "season": "summer",
+      "source": "Other",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 2412,
+          "name": "FUNNY MOVIE",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2412/FUNNY_MOVIE"
+        }
+      ],
+      "synopsis": "New season of Yurukawa Mell-chan.",
+      "themes": [],
+      "title": "Yurukawa Mell-chan (ONA)",
+      "title_english": null,
+      "title_japanese": "ゆるかわメルちゃん",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Yurukawa Mell-chan (ONA)",
+          "type": "Default"
+        },
+        {
+          "title": "ゆるかわメルちゃん",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64416/Yurukawa_Mell-chan_ONA",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-08-29T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 29,
+            "month": 8,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 29, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "Unknown",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1287/159744.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/159744l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/159744t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1287/159744.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1287/159744l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1287/159744t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64873,
+      "members": 75,
+      "popularity": 30172,
+      "producers": [],
+      "rank": 18874,
+      "rating": "None",
+      "score": null,
+      "scored_by": 7,
+      "season": "summer",
+      "source": "Music",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 103,
+          "name": "Tatsunoko Production",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+        }
+      ],
+      "synopsis": "The anime centers on the character Matsuken and his dog partner Matsu Inu, who cheerfully \"vanquish\" various hazy feelings or frustrations of the everyday modern life.\n\n(Source: ANN)",
+      "themes": [
+        {
+          "mal_id": 19,
+          "name": "Music",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/19/Music"
+        }
+      ],
+      "title": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
+      "title_english": "Matsuken Anime: Can I Pass Judgment on This?",
+      "title_japanese": "マツケンアニメ~コレ成敗してもいいですか？～",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
+          "type": "Default"
+        },
+        {
+          "title": "マツケンアニメ~コレ成敗してもいいですか？～",
+          "type": "Japanese"
+        },
+        {
+          "title": "Matsuken Anime: Can I Pass Judgment on This?",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64873/Matsuken_Anime__Kore_Seibaishite_mo_Ii_desu_ka",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-08-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 21,
+            "month": 8,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 21, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 hr 28 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1455/159712.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/159712l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/159712t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1455/159712.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1455/159712l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1455/159712t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64863,
+      "members": 55,
+      "popularity": 30398,
+      "producers": [],
+      "rank": 21508,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 4,
+      "season": "summer",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 51,
+          "name": "Anthropomorphic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "title": "Tudou Xia: Wo Yao Dang Da Xia",
+      "title_english": "Potato Man",
+      "title_japanese": "土豆侠之我要当大侠",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Tudou Xia: Wo Yao Dang Da Xia",
+          "type": "Default"
+        },
+        {
+          "title": "土豆侠之我要当大侠",
+          "type": "Japanese"
+        },
+        {
+          "title": "Potato Man",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/64863/Tudou_Xia__Wo_Yao_Dang_Da_Xia",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 25, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1526/160252.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1526/160252l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1526/160252t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1526/160252.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1526/160252l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1526/160252t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 65067,
+      "members": 41,
+      "popularity": 30488,
+      "producers": [],
+      "rank": 18082,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 4,
+      "season": "summer",
+      "source": "Other",
+      "status": "Currently Airing",
+      "studios": [],
+      "synopsis": "A series of online shorts for Kakuseihunter Omegahorn.",
+      "themes": [
+        {
+          "mal_id": 82,
+          "name": "Urban Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+        }
+      ],
+      "title": "Kakujuu Anime: Chou Mukashibanashi",
+      "title_english": "Kakujuu Anime: Super Ancient Tales",
+      "title_japanese": "【角獣アニメ】～ちょうむかしばなし～",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Kakujuu Anime: Chou Mukashibanashi",
+          "type": "Default"
+        },
+        {
+          "title": "【角獣アニメ】～ちょうむかしばなし～",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kakujuu Anime: Super Ancient Tales",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/65067/Kakujuu_Anime__Chou_Mukashibanashi",
+      "year": 2026
+    }
+  ],
+  "pagination": {
+    "current_page": 9,
+    "has_next_page": false,
+    "items": {
+      "count": 5,
+      "per_page": 25,
+      "total": 205
+    },
+    "last_visible_page": 9
+  }
+}

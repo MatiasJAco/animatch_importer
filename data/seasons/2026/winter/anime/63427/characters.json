@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/621837.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/621837.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/621837t.webp"
+          }
+        },
+        "mal_id": 289733,
+        "name": "Tang, Zhi",
+        "url": "https://myanimelist.net/character/289733/Zhi_Tang"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 20,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60510.jpg"
+              }
+            },
+            "mal_id": 51913,
+            "name": "Ma, Zhengyang",
+            "url": "https://myanimelist.net/people/51913/Zhengyang_Ma"
+          }
+        }
+      ]
+    }
+  ]
+}

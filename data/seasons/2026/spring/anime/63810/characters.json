@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/643450.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/643450.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/643450t.webp"
+          }
+        },
+        "mal_id": 294845,
+        "name": "Munakata, Hoshi",
+        "url": "https://myanimelist.net/character/294845/Hoshi_Munakata"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 294844,
+        "name": "Munakata, Momone",
+        "url": "https://myanimelist.net/character/294844/Momone_Munakata"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 294843,
+        "name": "Munakata, Suika",
+        "url": "https://myanimelist.net/character/294843/Suika_Munakata"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

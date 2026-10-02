@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/643819.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/643819.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/643819t.webp"
+          }
+        },
+        "mal_id": 300038,
+        "name": "Gu, An",
+        "url": "https://myanimelist.net/character/300038/An_Gu"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/643960.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/643960.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/643960t.webp"
+          }
+        },
+        "mal_id": 300044,
+        "name": "Han, Ya",
+        "url": "https://myanimelist.net/character/300044/Ya_Han"
+      },
+      "favorites": 1,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89676.jpg"
+              }
+            },
+            "mal_id": 47458,
+            "name": "Yu, Lan",
+            "url": "https://myanimelist.net/people/47458/Lan_Yu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/640782.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/640782.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/640782t.webp"
+          }
+        },
+        "mal_id": 300042,
+        "name": "Lei, Zhuangzhuang",
+        "url": "https://myanimelist.net/character/300042/Zhuangzhuang_Lei"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89688.jpg"
+              }
+            },
+            "mal_id": 92681,
+            "name": "Wei, Yifan",
+            "url": "https://myanimelist.net/people/92681/Yifan_Wei"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/640979.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/640979.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/640979t.webp"
+          }
+        },
+        "mal_id": 300039,
+        "name": "Luo, Qi",
+        "url": "https://myanimelist.net/character/300039/Qi_Luo"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/638798.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/638798.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/638798t.webp"
+          }
+        },
+        "mal_id": 300040,
+        "name": "Ma, Li'ao",
+        "url": "https://myanimelist.net/character/300040/Liao_Ma"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/86058.jpg"
+              }
+            },
+            "mal_id": 86950,
+            "name": "Jiang, Yingjun",
+            "url": "https://myanimelist.net/people/86950/Yingjun_Jiang"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/643961.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/643961.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/643961t.webp"
+          }
+        },
+        "mal_id": 302910,
+        "name": "Pei, Zhishu",
+        "url": "https://myanimelist.net/character/302910/Zhishu_Pei"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/645294.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/645294.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/645294t.webp"
+          }
+        },
+        "mal_id": 303827,
+        "name": "Wu, Lu",
+        "url": "https://myanimelist.net/character/303827/Lu_Wu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/643957.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/643957.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/643957t.webp"
+          }
+        },
+        "mal_id": 300043,
+        "name": "Xu, Nuo",
+        "url": "https://myanimelist.net/character/300043/Nuo_Xu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

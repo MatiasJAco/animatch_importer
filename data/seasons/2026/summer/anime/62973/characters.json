@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 294028,
+        "name": "Kyoutarou",
+        "url": "https://myanimelist.net/character/294028/Kyoutarou"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/73084.jpg"
+              }
+            },
+            "mal_id": 62848,
+            "name": "Okayama, Amane",
+            "url": "https://myanimelist.net/people/62848/Amane_Okayama"
+          }
+        },
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89717.jpg"
+              }
+            },
+            "mal_id": 94460,
+            "name": "Nakagome, Tasuku",
+            "url": "https://myanimelist.net/people/94460/Tasuku_Nakagome"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 294027,
+        "name": "Tsubasa",
+        "url": "https://myanimelist.net/character/294027/Tsubasa"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/81204.jpg"
+              }
+            },
+            "mal_id": 76201,
+            "name": "Bandou, Ryouta",
+            "url": "https://myanimelist.net/people/76201/Ryouta_Bandou"
+          }
+        },
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89716.jpg"
+              }
+            },
+            "mal_id": 94459,
+            "name": "Maki, Yuuto",
+            "url": "https://myanimelist.net/people/94459/Yuuto_Maki"
+          }
+        }
+      ]
+    }
+  ]
+}

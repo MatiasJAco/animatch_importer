@@ -1,0 +1,345 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/637588.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/637588.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/637588t.webp"
+          }
+        },
+        "mal_id": 299383,
+        "name": "Lie",
+        "url": "https://myanimelist.net/character/299383/Lie"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89680.jpg"
+              }
+            },
+            "mal_id": 82673,
+            "name": "Zhang, Fuzheng",
+            "url": "https://myanimelist.net/people/82673/Fuzheng_Zhang"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/637667.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/637667.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/637667t.webp"
+          }
+        },
+        "mal_id": 299255,
+        "name": "Wang, Xiaoming",
+        "url": "https://myanimelist.net/character/299255/Xiaoming_Wang"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89712.jpg"
+              }
+            },
+            "mal_id": 48747,
+            "name": "Gu, Jiangshan",
+            "url": "https://myanimelist.net/people/48747/Jiangshan_Gu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/640887.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/640887.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/640887t.webp"
+          }
+        },
+        "mal_id": 301105,
+        "name": "A Ba",
+        "url": "https://myanimelist.net/character/301105/A_Ba"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 7,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/54995.jpg"
+              }
+            },
+            "mal_id": 48746,
+            "name": "Guo, Haoran",
+            "url": "https://myanimelist.net/people/48746/Haoran_Guo"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/642032.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/642032.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/642032t.webp"
+          }
+        },
+        "mal_id": 301776,
+        "name": "District 10 Chief",
+        "url": "https://myanimelist.net/character/301776/District_10_Chief"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/642033.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/642033.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/642033t.webp"
+          }
+        },
+        "mal_id": 301777,
+        "name": "District 10 Chief's Assistant",
+        "url": "https://myanimelist.net/character/301777/District_10_Chiefs_Assistant"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 301109,
+        "name": "Fake King Lie",
+        "url": "https://myanimelist.net/character/301109/Fake_King_Lie"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/637590.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/637590.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/637590t.webp"
+          }
+        },
+        "mal_id": 299384,
+        "name": "Hong",
+        "url": "https://myanimelist.net/character/299384/Hong"
+      },
+      "favorites": 1,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89681.jpg"
+              }
+            },
+            "mal_id": 80302,
+            "name": "Nie, Xiying",
+            "url": "https://myanimelist.net/people/80302/Xiying_Nie"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/637603.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/637603.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/637603t.webp"
+          }
+        },
+        "mal_id": 299387,
+        "name": "Hong's Father",
+        "url": "https://myanimelist.net/character/299387/Hongs_Father"
+      },
+      "favorites": 1,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/86960.jpg"
+              }
+            },
+            "mal_id": 89829,
+            "name": "Li, Nan",
+            "url": "https://myanimelist.net/people/89829/Nan_Li"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/637601.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/637601.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/637601t.webp"
+          }
+        },
+        "mal_id": 299388,
+        "name": "Huang",
+        "url": "https://myanimelist.net/character/299388/Huang"
+      },
+      "favorites": 2,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/637604.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/637604.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/637604t.webp"
+          }
+        },
+        "mal_id": 299386,
+        "name": "Lan",
+        "url": "https://myanimelist.net/character/299386/Lan"
+      },
+      "favorites": 2,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/637592.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/637592.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/637592t.webp"
+          }
+        },
+        "mal_id": 299385,
+        "name": "Lei, Wan",
+        "url": "https://myanimelist.net/character/299385/Wan_Lei"
+      },
+      "favorites": 2,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 301106,
+        "name": "Liang",
+        "url": "https://myanimelist.net/character/301106/Liang"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 301107,
+        "name": "Ram",
+        "url": "https://myanimelist.net/character/301107/Ram"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 301110,
+        "name": "Xiaoming's Mother",
+        "url": "https://myanimelist.net/character/301110/Xiaomings_Mother"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

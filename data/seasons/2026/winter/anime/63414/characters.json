@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 289540,
+        "name": "Luca",
+        "url": "https://myanimelist.net/character/289540/Luca"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 17912,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/76640.jpg"
+              }
+            },
+            "mal_id": 890,
+            "name": "Tomatsu, Haruka",
+            "url": "https://myanimelist.net/people/890/Haruka_Tomatsu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 289541,
+        "name": "Nene",
+        "url": "https://myanimelist.net/character/289541/Nene"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 14,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89177.jpg"
+              }
+            },
+            "mal_id": 52720,
+            "name": "Tachibana, Mirai",
+            "url": "https://myanimelist.net/people/52720/Mirai_Tachibana"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 289542,
+        "name": "Classmate",
+        "url": "https://myanimelist.net/character/289542/Classmate"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/61182.jpg"
+              }
+            },
+            "mal_id": 52724,
+            "name": "Miyazawa, Koharu",
+            "url": "https://myanimelist.net/people/52724/Koharu_Miyazawa"
+          }
+        }
+      ]
+    }
+  ]
+}

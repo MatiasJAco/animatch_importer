@@ -1,0 +1,642 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/616321.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/616321.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/616321t.webp"
+          }
+        },
+        "mal_id": 265290,
+        "name": "Blue Cop",
+        "url": "https://myanimelist.net/character/265290/Blue_Cop"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Korean",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/88134.jpg"
+              }
+            },
+            "mal_id": 91922,
+            "name": "Kwak, Yoon-sang",
+            "url": "https://myanimelist.net/people/91922/Yoon-sang_Kwak"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580729.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580729.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/580729t.webp"
+          }
+        },
+        "mal_id": 265289,
+        "name": "Grant, Jun",
+        "url": "https://myanimelist.net/character/265289/Jun_Grant"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Korean",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/91740.jpg"
+              }
+            },
+            "mal_id": 91923,
+            "name": "Jang, Ye-na",
+            "url": "https://myanimelist.net/people/91923/Ye-na_Jang"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/580739.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/580739.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/580739t.webp"
+          }
+        },
+        "mal_id": 265299,
+        "name": "Heavy Iron",
+        "url": "https://myanimelist.net/character/265299/Heavy_Iron"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/580731.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/580731.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/580731t.webp"
+          }
+        },
+        "mal_id": 265291,
+        "name": "Anna",
+        "url": "https://myanimelist.net/character/265291/Anna"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617322.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617322.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/617322t.webp"
+          }
+        },
+        "mal_id": 286859,
+        "name": "Barnes",
+        "url": "https://myanimelist.net/character/286859/Barnes"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/580743.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/580743.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/580743t.webp"
+          }
+        },
+        "mal_id": 265303,
+        "name": "Black Hook",
+        "url": "https://myanimelist.net/character/265303/Black_Hook"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580745.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580745.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/580745t.webp"
+          }
+        },
+        "mal_id": 265305,
+        "name": "Buffalo Crush",
+        "url": "https://myanimelist.net/character/265305/Buffalo_Crush"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580744.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580744.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/580744t.webp"
+          }
+        },
+        "mal_id": 265304,
+        "name": "Buster Gallon",
+        "url": "https://myanimelist.net/character/265304/Buster_Gallon"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/617354.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/617354.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/617354t.webp"
+          }
+        },
+        "mal_id": 286876,
+        "name": "Cielo",
+        "url": "https://myanimelist.net/character/286876/Cielo"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/580732.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/580732.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/580732t.webp"
+          }
+        },
+        "mal_id": 265292,
+        "name": "Crest",
+        "url": "https://myanimelist.net/character/265292/Crest"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617493.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617493.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/617493t.webp"
+          }
+        },
+        "mal_id": 286968,
+        "name": "Deep Bite",
+        "url": "https://myanimelist.net/character/286968/Deep_Bite"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580741.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580741.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/580741t.webp"
+          }
+        },
+        "mal_id": 265301,
+        "name": "Dexter",
+        "url": "https://myanimelist.net/character/265301/Dexter"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/580734.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/580734.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/580734t.webp"
+          }
+        },
+        "mal_id": 265294,
+        "name": "Edo",
+        "url": "https://myanimelist.net/character/265294/Edo"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/580742.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/580742.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/580742t.webp"
+          }
+        },
+        "mal_id": 265302,
+        "name": "Fleta Z",
+        "url": "https://myanimelist.net/character/265302/Fleta_Z"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/617356.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/617356.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/617356t.webp"
+          }
+        },
+        "mal_id": 286878,
+        "name": "Gigantrex",
+        "url": "https://myanimelist.net/character/286878/Gigantrex"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617357.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617357.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/617357t.webp"
+          }
+        },
+        "mal_id": 286879,
+        "name": "Glober",
+        "url": "https://myanimelist.net/character/286879/Glober"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617319.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/617319.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/617319t.webp"
+          }
+        },
+        "mal_id": 286856,
+        "name": "Grant, Johan",
+        "url": "https://myanimelist.net/character/286856/Johan_Grant"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/617318.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/617318.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/617318t.webp"
+          }
+        },
+        "mal_id": 286855,
+        "name": "Grant, Yuri",
+        "url": "https://myanimelist.net/character/286855/Yuri_Grant"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/617326.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/617326.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/617326t.webp"
+          }
+        },
+        "mal_id": 286863,
+        "name": "Jack",
+        "url": "https://myanimelist.net/character/286863/Jack"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/617348.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/617348.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/617348t.webp"
+          }
+        },
+        "mal_id": 286870,
+        "name": "Maruru",
+        "url": "https://myanimelist.net/character/286870/Maruru"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/580736.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/580736.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/580736t.webp"
+          }
+        },
+        "mal_id": 265296,
+        "name": "Mega Ambler",
+        "url": "https://myanimelist.net/character/265296/Mega_Ambler"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580735.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/580735.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/580735t.webp"
+          }
+        },
+        "mal_id": 265295,
+        "name": "Mega Trucker",
+        "url": "https://myanimelist.net/character/265295/Mega_Trucker"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/617355.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/617355.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/617355t.webp"
+          }
+        },
+        "mal_id": 286877,
+        "name": "Musclehyde",
+        "url": "https://myanimelist.net/character/286877/Musclehyde"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/617328.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/617328.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/617328t.webp"
+          }
+        },
+        "mal_id": 286866,
+        "name": "Peruru",
+        "url": "https://myanimelist.net/character/286866/Peruru"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/580737.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/580737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/580737t.webp"
+          }
+        },
+        "mal_id": 265297,
+        "name": "Phoenix Fire",
+        "url": "https://myanimelist.net/character/265297/Phoenix_Fire"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/617323.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/617323.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/617323t.webp"
+          }
+        },
+        "mal_id": 286860,
+        "name": "Ravi",
+        "url": "https://myanimelist.net/character/286860/Ravi"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/617353.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/617353.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/617353t.webp"
+          }
+        },
+        "mal_id": 286875,
+        "name": "Red Blitz",
+        "url": "https://myanimelist.net/character/286875/Red_Blitz"
+      },
+      "favorites": 1,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617494.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617494.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/617494t.webp"
+          }
+        },
+        "mal_id": 286969,
+        "name": "Rock Crush",
+        "url": "https://myanimelist.net/character/286969/Rock_Crush"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/580738.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/580738.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/580738t.webp"
+          }
+        },
+        "mal_id": 265298,
+        "name": "Shadow X",
+        "url": "https://myanimelist.net/character/265298/Shadow_X"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580733.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/580733.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/580733t.webp"
+          }
+        },
+        "mal_id": 265293,
+        "name": "Theo",
+        "url": "https://myanimelist.net/character/265293/Theo"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/580740.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/580740.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/580740t.webp"
+          }
+        },
+        "mal_id": 265300,
+        "name": "Wild Guardy",
+        "url": "https://myanimelist.net/character/265300/Wild_Guardy"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617321.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/617321.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/617321t.webp"
+          }
+        },
+        "mal_id": 286858,
+        "name": "Williams, Wella",
+        "url": "https://myanimelist.net/character/286858/Wella_Williams"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

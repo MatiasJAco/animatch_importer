@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/357416.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/357416.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/357416t.webp"
+          }
+        },
+        "mal_id": 141710,
+        "name": "Feng, Baobao",
+        "url": "https://myanimelist.net/character/141710/Baobao_Feng"
+      },
+      "favorites": 269,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89898.jpg"
+              }
+            },
+            "mal_id": 47459,
+            "name": "Xu, Jing",
+            "url": "https://myanimelist.net/people/47459/Jing_Xu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/308084.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/308084.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/308084t.webp"
+          }
+        },
+        "mal_id": 141709,
+        "name": "Zhang, Chulan",
+        "url": "https://myanimelist.net/character/141709/Chulan_Zhang"
+      },
+      "favorites": 43,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/83305.jpg"
+              }
+            },
+            "mal_id": 47539,
+            "name": "Cao, Xupeng",
+            "url": "https://myanimelist.net/people/47539/Xupeng_Cao"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/344484.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/344484.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/344484t.webp"
+          }
+        },
+        "mal_id": 156123,
+        "name": "Wang, Ye",
+        "url": "https://myanimelist.net/character/156123/Ye_Wang"
+      },
+      "favorites": 16,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49922.jpg"
+              }
+            },
+            "mal_id": 46368,
+            "name": "Song, Ming",
+            "url": "https://myanimelist.net/people/46368/Ming_Song"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/641100.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/641100.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/641100t.webp"
+          }
+        },
+        "mal_id": 141721,
+        "name": "Zhang, Lingyu",
+        "url": "https://myanimelist.net/character/141721/Lingyu_Zhang"
+      },
+      "favorites": 6,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 224,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/49897.jpg"
+              }
+            },
+            "mal_id": 46317,
+            "name": "Zhang, Jie",
+            "url": "https://myanimelist.net/people/46317/Jie_Zhang"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/395400.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/395400.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/395400t.webp"
+          }
+        },
+        "mal_id": 153175,
+        "name": "Li, Nie",
+        "url": "https://myanimelist.net/character/153175/Nie_Li"
+      },
+      "favorites": 151,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/461196.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/461196.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/461196t.webp"
+          }
+        },
+        "mal_id": 176412,
+        "name": "Xiao, Ninger",
+        "url": "https://myanimelist.net/character/176412/Ninger_Xiao"
+      },
+      "favorites": 28,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/413792.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/413792.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/413792t.webp"
+          }
+        },
+        "mal_id": 176411,
+        "name": "Ye, Ziyun",
+        "url": "https://myanimelist.net/character/176411/Ziyun_Ye"
+      },
+      "favorites": 13,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

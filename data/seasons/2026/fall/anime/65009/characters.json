@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 304373,
+        "name": "Shedar",
+        "url": "https://myanimelist.net/character/304373/Shedar"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 75461,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89058.jpg"
+              }
+            },
+            "mal_id": 672,
+            "name": "Kaji, Yuuki",
+            "url": "https://myanimelist.net/people/672/Yuuki_Kaji"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 264610,
+        "name": "Welsh",
+        "url": "https://myanimelist.net/character/264610/Welsh"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 19,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88216.jpg"
+              }
+            },
+            "mal_id": 47773,
+            "name": "Yasuda, Rikuya",
+            "url": "https://myanimelist.net/people/47773/Rikuya_Yasuda"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/641435.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/641435.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/641435t.webp"
+          }
+        },
+        "mal_id": 301459,
+        "name": "Ye, Feng",
+        "url": "https://myanimelist.net/character/301459/Feng_Ye"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89688.jpg"
+              }
+            },
+            "mal_id": 92681,
+            "name": "Wei, Yifan",
+            "url": "https://myanimelist.net/people/92681/Yifan_Wei"
+          }
+        }
+      ]
+    }
+  ]
+}

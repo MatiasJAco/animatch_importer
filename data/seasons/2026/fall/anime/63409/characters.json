@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621541.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621541.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/621541t.webp"
+          }
+        },
+        "mal_id": 289592,
+        "name": "Azm, Harij",
+        "url": "https://myanimelist.net/character/289592/Harij_Azm"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 200,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/74493.jpg"
+              }
+            },
+            "mal_id": 14155,
+            "name": "Azakami, Youhei",
+            "url": "https://myanimelist.net/people/14155/Youhei_Azakami"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/621540.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/621540.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/621540t.webp"
+          }
+        },
+        "mal_id": 289591,
+        "name": "Rose",
+        "url": "https://myanimelist.net/character/289591/Rose"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 3094,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/69581.jpg"
+              }
+            },
+            "mal_id": 10071,
+            "name": "Komatsu, Mikako",
+            "url": "https://myanimelist.net/people/10071/Mikako_Komatsu"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/645974.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/645974.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/645974t.webp"
+          }
+        },
+        "mal_id": 289594,
+        "name": "Kong, Tien",
+        "url": "https://myanimelist.net/character/289594/Tien_Kong"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 11030,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/61089.jpg"
+              }
+            },
+            "mal_id": 356,
+            "name": "Shimono, Hiro",
+            "url": "https://myanimelist.net/people/356/Hiro_Shimono"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645973.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/645973.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/645973t.webp"
+          }
+        },
+        "mal_id": 289593,
+        "name": "Villaura",
+        "url": "https://myanimelist.net/character/289593/Villaura"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 169,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/83666.jpg"
+              }
+            },
+            "mal_id": 32943,
+            "name": "Sekine, Akira",
+            "url": "https://myanimelist.net/people/32943/Akira_Sekine"
+          }
+        }
+      ]
+    }
+  ]
+}

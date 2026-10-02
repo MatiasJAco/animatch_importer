@@ -1,0 +1,4964 @@
+{
+  "data": [
+    {
+      "aired": {
+        "from": "2026-07-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 28,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 6, 2026 to Sep 28, 2026",
+        "to": "2026-09-28T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Mondays",
+        "string": "Mondays at 00:00 (JST)",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 14,
+      "explicit_genres": [],
+      "favorites": 4448,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1527/158340.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1527/158340.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1527/158340t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 59193,
+      "members": 350281,
+      "popularity": 815,
+      "producers": [
+        {
+          "mal_id": 61,
+          "name": "Frontier Works",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/61/Frontier_Works"
+        },
+        {
+          "mal_id": 245,
+          "name": "TOHO",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/245/TOHO"
+        },
+        {
+          "mal_id": 306,
+          "name": "Magic Capsule",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1333,
+          "name": "Hakuhodo DY Music & Pictures",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1333/Hakuhodo_DY_Music_Pictures"
+        },
+        {
+          "mal_id": 1416,
+          "name": "BS11",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 1444,
+          "name": "Egg Firm",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1444/Egg_Firm"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 2229,
+          "name": "TOHO Music",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2229/TOHO_Music"
+        },
+        {
+          "mal_id": 2289,
+          "name": "GREE Entertainment",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2289/GREE_Entertainment"
+        }
+      ],
+      "rank": 68,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.7,
+      "scored_by": 116603,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1993,
+          "name": "Studio Bind",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1993/Studio_Bind"
+        }
+      ],
+      "synopsis": "Third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "name": "Reincarnation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        },
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "title_english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "title_japanese": "無職転生 III ～異世界行ったら本気だす～",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "type": "Default"
+        },
+        {
+          "title": "無職転生 III ～異世界行ったら本気だす～",
+          "type": "Japanese"
+        },
+        {
+          "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 2111,
+        "dislikes": 306,
+        "duration": "PT1M11S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ODxfIvSgWuo?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ODxfIvSgWuo/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ODxfIvSgWuo/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ODxfIvSgWuo/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ODxfIvSgWuo/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ODxfIvSgWuo/sddefault.jpg"
+        },
+        "likes": 42877,
+        "privacy_status": "public",
+        "published_at": "2026-06-04T10:00:20.000Z",
+        "region_restriction": null,
+        "title": "『無職転生Ⅲ ～異世界行ったら本気だす～』本PV／EDテーマ：「祈り、終われば」中島美嘉／7月4日(土)第1・2話特別連続放送(TOKYO MX,ABEMA,dアニメストア1日先行)",
+        "url": "https://www.youtube.com/watch?v=ODxfIvSgWuo",
+        "views": 1435142,
+        "youtube_id": "ODxfIvSgWuo"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/59193/Mushoku_Tensei_III__Isekai_Ittara_Honki_Dasu",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 23,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 8, 2026 to Sep 23, 2026",
+        "to": "2026-09-23T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Wednesdays",
+        "string": "Wednesdays at 21:30 (JST)",
+        "time": "21:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 3926,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1917/158371.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/158371l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/158371t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1917/158371.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1917/158371l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1917/158371t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 49233,
+      "members": 272995,
+      "popularity": 1052,
+      "producers": [
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 306,
+          "name": "Magic Capsule",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1345,
+          "name": "Sammy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 2106,
+          "name": "Sony Music Solutions",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2106/Sony_Music_Solutions"
+        }
+      ],
+      "rank": 576,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.12,
+      "scored_by": 39811,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1567,
+          "name": "Nut",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1567/Nut"
+        }
+      ],
+      "synopsis": "Second season of Youjo Senki.",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 38,
+          "name": "Military",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/38/Military"
+        },
+        {
+          "mal_id": 72,
+          "name": "Reincarnation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "title": "Youjo Senki II",
+      "title_english": "Saga of Tanya the Evil II",
+      "title_japanese": "幼女戦記 II",
+      "title_synonyms": [
+        "The Military Chronicles of a Little Girl II",
+        "Youjo Senki 2nd Season"
+      ],
+      "titles": [
+        {
+          "title": "Youjo Senki II",
+          "type": "Default"
+        },
+        {
+          "title": "幼女戦記 II",
+          "type": "Japanese"
+        },
+        {
+          "title": "Saga of Tanya the Evil II",
+          "type": "English"
+        },
+        {
+          "title": "The Military Chronicles of a Little Girl II",
+          "type": "Synonym"
+        },
+        {
+          "title": "Youjo Senki 2nd Season",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 1274,
+        "dislikes": 70,
+        "duration": "PT1M31S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/kUvhvkPDvm0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/kUvhvkPDvm0/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/kUvhvkPDvm0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/kUvhvkPDvm0/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/kUvhvkPDvm0/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/kUvhvkPDvm0/sddefault.jpg"
+        },
+        "likes": 23224,
+        "privacy_status": "public",
+        "published_at": "2026-07-01T09:00:33.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『幼女戦記Ⅱ』メインPV第2弾｜《2026年7月8日(水)放送開始！》",
+        "url": "https://www.youtube.com/watch?v=kUvhvkPDvm0",
+        "views": 1714561,
+        "youtube_id": "kUvhvkPDvm0"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/49233/Youjo_Senki_II",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-10T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 10, 2026 to Sep 25, 2026",
+        "to": "2026-09-25T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "The first six episodes, divided into 12 mini-episodes, were streamed in advance on June 3, 2026, on Abema and Crunchyroll. Regular broadcasting began on July 10, 2026.",
+      "broadcast": {
+        "day": "Thursdays",
+        "string": "Thursdays at 23:56 (JST)",
+        "time": "23:56",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 2115,
+      "genres": [
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1768/156339.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/156339t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1768/156339.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1768/156339l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1768/156339t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62076,
+      "members": 254160,
+      "popularity": 1147,
+      "producers": [
+        {
+          "mal_id": 145,
+          "name": "TBS",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 517,
+          "name": "Asmik Ace",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+          "mal_id": 1585,
+          "name": "Nichion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1585/Nichion"
+        },
+        {
+          "mal_id": 1659,
+          "name": "AbemaTV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1659/AbemaTV"
+        },
+        {
+          "mal_id": 1986,
+          "name": "arma bianca",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1986/arma_bianca"
+        },
+        {
+          "mal_id": 2074,
+          "name": "Bit grooove promotion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        },
+        {
+          "mal_id": 2232,
+          "name": "ADK Marketing Solutions",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2232/ADK_Marketing_Solutions"
+        }
+      ],
+      "rank": 397,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.25,
+      "scored_by": 90536,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 406,
+          "name": "Asahi Production",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/406/Asahi_Production"
+        }
+      ],
+      "synopsis": "The sole thing that gets the middle-aged Sasaki through his soul-sucking job is a cheerful smile from Yamada—the young woman who works at a nearby 24-hour supermarket he frequents. After every tiring day of getting berated by his boss, Sasaki stops by the store to have his spirit healed by his favorite cashier.\n\nAfter a particularly grueling day, Sasaki shows up at the supermarket, only to find that Yamada's shift has already ended. Disappointed, he searches for a place to smoke when a woman from behind the store calls him over to join her. The bold and dangerously playful Tayama is quick to call out Sasaki's peculiar habit of always seeking out her coworker—even going as far as telling Yamada about Sasaki's vested interest in her.\n\nNow, in addition to seeing his adored cashier Yamada, Sasaki also visits the store to see if his new smoking partner Tayama is around. But there is more to Tayama's mischievousness than she initially lets on. With every cigarette, an unlikely friendship begins to blossom.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 50,
+          "name": "Adult Cast",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 74,
+          "name": "Love Status Quo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/74/Love_Status_Quo"
+        }
+      ],
+      "title": "Super no Ura de Yani Suu Futari",
+      "title_english": "Smoking Behind the Supermarket with You",
+      "title_japanese": "スーパーの裏でヤニ吸うふたり",
+      "title_synonyms": [
+        "Behind the Supermarket",
+        "Smoking with You.",
+        "Super no Ura de Yani Suu Hanashi",
+        "A Story About Smoking at the Back of the Supermarket",
+        "YaniSuu"
+      ],
+      "titles": [
+        {
+          "title": "Super no Ura de Yani Suu Futari",
+          "type": "Default"
+        },
+        {
+          "title": "スーパーの裏でヤニ吸うふたり",
+          "type": "Japanese"
+        },
+        {
+          "title": "Smoking Behind the Supermarket with You",
+          "type": "English"
+        },
+        {
+          "title": "Behind the Supermarket, Smoking with You.",
+          "type": "Synonym"
+        },
+        {
+          "title": "Super no Ura de Yani Suu Hanashi, A Story About Smoking at the Back of the Supermarket",
+          "type": "Synonym"
+        },
+        {
+          "title": "YaniSuu",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 295,
+        "dislikes": 3,
+        "duration": "PT1M40S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/aOOwNK6Ul6E?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/aOOwNK6Ul6E/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/aOOwNK6Ul6E/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/aOOwNK6Ul6E/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/aOOwNK6Ul6E/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/aOOwNK6Ul6E/sddefault.jpg"
+        },
+        "likes": null,
+        "privacy_status": "public",
+        "published_at": "2026-06-11T10:00:30.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ「スーパーの裏でヤニ吸うふたり」メインPV第2弾",
+        "url": "https://www.youtube.com/watch?v=aOOwNK6Ul6E",
+        "views": 1910341,
+        "youtube_id": "aOOwNK6Ul6E"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62076/Super_no_Ura_de_Yani_Suu_Futari",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-19T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 19, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        },
+        {
+          "mal_id": 27,
+          "name": "Shounen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "duration": "25 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 8282,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 7,
+          "name": "Mystery",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 37,
+          "name": "Supernatural",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1065/158884.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1065/158884.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/158884t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 61469,
+      "members": 240131,
+      "popularity": 1212,
+      "producers": [
+        {
+          "mal_id": 415,
+          "name": "Warner Bros. Japan",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/415/Warner_Bros_Japan"
+        },
+        {
+          "mal_id": 719,
+          "name": "Studio Mausu",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1783,
+          "name": "ONEMUSIC",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1783/ONEMUSIC"
+        }
+      ],
+      "rank": 5,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 9.06,
+      "scored_by": 108024,
+      "season": "winter",
+      "source": "Manga",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 287,
+          "name": "David Production",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/287/David_Production"
+        }
+      ],
+      "synopsis": "In the American Old West, the world's greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball Run is truly a one-of-a-kind event.\n\nThe youthful Johnny Joestar, a crippled former horse racer, has come to San Diego to watch the start of the race. There he encounters Gyro Zeppeli, a racer with two steel balls at his waist instead of a gun. Johnny witnesses Gyro using one of his steel balls to unleash a fantastical power, compelling a man to fire his gun at himself during a duel. In the midst of the action, Johnny happens to touch the steel ball and feels a power surging through his legs, allowing him to stand up for the first time in two years. Vowing to find the secret of the steel balls, Johnny decides to compete in the race, and so begins his bizarre adventure across America on the Steel Ball Run.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 13,
+          "name": "Historical",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        },
+        {
+          "mal_id": 3,
+          "name": "Racing",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/3/Racing"
+        }
+      ],
+      "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+      "title_english": "Steel Ball Run: JoJo's Bizarre Adventure",
+      "title_japanese": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+      "title_synonyms": [
+        "JoJo's Bizarre Adventure Part 7: Steel Ball Run",
+        "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+        "SBR"
+      ],
+      "titles": [
+        {
+          "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+          "type": "Default"
+        },
+        {
+          "title": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+          "type": "Japanese"
+        },
+        {
+          "title": "Steel Ball Run: JoJo's Bizarre Adventure",
+          "type": "English"
+        },
+        {
+          "title": "JoJo's Bizarre Adventure Part 7: Steel Ball Run",
+          "type": "Synonym"
+        },
+        {
+          "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+          "type": "Synonym"
+        },
+        {
+          "title": "SBR",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 2362,
+        "dislikes": 165,
+        "duration": "PT1M44S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/jXtG_lcR9P4?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/jXtG_lcR9P4/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/jXtG_lcR9P4/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/jXtG_lcR9P4/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/jXtG_lcR9P4/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/jXtG_lcR9P4/sddefault.jpg"
+        },
+        "likes": 60988,
+        "privacy_status": "public",
+        "published_at": "2026-07-03T23:00:13.000Z",
+        "region_restriction": null,
+        "title": "PV 第2弾　アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』｜2nd Trailer !!　\"STEEL BALL RUN JoJo’s Bizarre Adventure\"",
+        "url": "https://www.youtube.com/watch?v=jXtG_lcR9P4",
+        "views": 1658016,
+        "youtube_id": "jXtG_lcR9P4"
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-25T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 25,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 27,
+            "month": 10,
+            "year": 2026
+          }
+        },
+        "string": "Jul 25, 2026 to Oct 27, 2026",
+        "to": "2026-10-27T00:00:00+00:00"
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Saturdays",
+        "string": "Saturdays at 23:00 (JST)",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 27,
+          "name": "Shounen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "duration": "24 min per ep",
+      "episodes": 10,
+      "explicit_genres": [],
+      "favorites": 2426,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 37,
+          "name": "Supernatural",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1275/158595.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1275/158595.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1275/158595t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 60636,
+      "members": 172824,
+      "popularity": 1627,
+      "producers": [
+        {
+          "mal_id": 1,
+          "name": "Studio Pierrot",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1/Studio_Pierrot"
+        },
+        {
+          "mal_id": 16,
+          "name": "TV Tokyo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 17,
+          "name": "Aniplex",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        },
+        {
+          "mal_id": 53,
+          "name": "Dentsu",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 1365,
+          "name": "Shueisha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 1392,
+          "name": "Zack Promotion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1392/Zack_Promotion"
+        }
+      ],
+      "rank": 11,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 9.02,
+      "scored_by": 35254,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 2951,
+          "name": "Pierrot Films",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2951/Pierrot_Films"
+        }
+      ],
+      "synopsis": "Final part of Bleach: Sennen Kessen-hen.",
+      "themes": [],
+      "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+      "title_english": "Bleach: Thousand-Year Blood War - The Calamity",
+      "title_japanese": "BLEACH 千年血戦篇-禍進譚-",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+          "type": "Default"
+        },
+        {
+          "title": "BLEACH 千年血戦篇-禍進譚-",
+          "type": "Japanese"
+        },
+        {
+          "title": "Bleach: Thousand-Year Blood War - The Calamity",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 3194,
+        "dislikes": 237,
+        "duration": "PT2M1S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/IJONbpfIlUg?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/IJONbpfIlUg/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/IJONbpfIlUg/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/IJONbpfIlUg/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/IJONbpfIlUg/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/IJONbpfIlUg/sddefault.jpg"
+        },
+        "likes": 69691,
+        "privacy_status": "public",
+        "published_at": "2026-07-05T01:00:06.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『BLEACH 千年血戦篇-禍進譚-』ファイナルPV｜2026.7.25 sat 23:00 ON AIR",
+        "url": "https://www.youtube.com/watch?v=IJONbpfIlUg",
+        "views": 2231012,
+        "youtube_id": "IJONbpfIlUg"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/60636/Bleach__Sennen_Kessen-hen_-_Kashin-tan",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 3, 2026 to Sep 25, 2026",
+        "to": "2026-09-25T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Fridays",
+        "string": "Fridays at 00:30 (JST)",
+        "time": "00:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 868,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1281/156496.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/156496l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/156496t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1281/156496.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1281/156496l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1281/156496t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63403,
+      "members": 145998,
+      "popularity": 1856,
+      "producers": [
+        {
+          "mal_id": 159,
+          "name": "Kodansha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 306,
+          "name": "Magic Capsule",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1211,
+          "name": "Tokyo MX",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        }
+      ],
+      "rank": 2138,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.52,
+      "scored_by": 44785,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1722,
+          "name": "Bibury Animation Studios",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+        }
+      ],
+      "synopsis": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)",
+      "themes": [
+        {
+          "mal_id": 50,
+          "name": "Adult Cast",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 51,
+          "name": "Anthropomorphic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 82,
+          "name": "Urban Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+        }
+      ],
+      "title": "Yani Neko",
+      "title_english": "Chainsmoker Cat",
+      "title_japanese": "ヤニねこ",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Yani Neko",
+          "type": "Default"
+        },
+        {
+          "title": "ヤニねこ",
+          "type": "Japanese"
+        },
+        {
+          "title": "Chainsmoker Cat",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 1888,
+        "dislikes": 236,
+        "duration": "PT1M28S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ydK2WdTAOgU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ydK2WdTAOgU/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ydK2WdTAOgU/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ydK2WdTAOgU/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ydK2WdTAOgU/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ydK2WdTAOgU/sddefault.jpg"
+        },
+        "likes": 21632,
+        "privacy_status": "public",
+        "published_at": "2026-05-31T02:11:24.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『ヤニねこ』メインPV｜2026年7月2日からTOKYO MX、BS11、AT-Xにて放送開始！",
+        "url": "https://www.youtube.com/watch?v=ydK2WdTAOgU",
+        "views": 820861,
+        "youtube_id": "ydK2WdTAOgU"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63403/Yani_Neko",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 4,
+            "month": 10,
+            "year": 2026
+          }
+        },
+        "string": "Jul 5, 2026 to Oct 4, 2026",
+        "to": "2026-10-04T00:00:00+00:00"
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Sundays",
+        "string": "Sundays at 17:00 (JST)",
+        "time": "17:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 27,
+          "name": "Shounen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "duration": "24 min per ep",
+      "episodes": 13,
+      "explicit_genres": [],
+      "favorites": 627,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1143/158409.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/158409l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/158409t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1143/158409.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1143/158409l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1143/158409t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63832,
+      "members": 121383,
+      "popularity": 2143,
+      "producers": [
+        {
+          "mal_id": 53,
+          "name": "Dentsu",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 109,
+          "name": "Shochiku",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+          "mal_id": 143,
+          "name": "Mainichi Broadcasting System",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 577,
+          "name": "Tohokushinsha Film Corporation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+          "mal_id": 1365,
+          "name": "Shueisha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 1626,
+          "name": "Shochiku Music Publishing",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1626/Shochiku_Music_Publishing"
+        },
+        {
+          "mal_id": 1659,
+          "name": "AbemaTV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1659/AbemaTV"
+        }
+      ],
+      "rank": 161,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.51,
+      "scored_by": 25397,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 1828,
+          "name": "Lapin Track",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1828/Lapin_Track"
+        }
+      ],
+      "synopsis": "Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.\n\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Seihantai na Kimi to Boku 2nd Season",
+      "title_english": "You and I Are Polar Opposites Season 2",
+      "title_japanese": "正反対な君と僕 第2期",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Seihantai na Kimi to Boku 2nd Season",
+          "type": "Default"
+        },
+        {
+          "title": "正反対な君と僕 第2期",
+          "type": "Japanese"
+        },
+        {
+          "title": "You and I Are Polar Opposites Season 2",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 406,
+        "dislikes": 9,
+        "duration": "PT1M46S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/pbeDDMlT0rI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/pbeDDMlT0rI/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/pbeDDMlT0rI/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/pbeDDMlT0rI/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/pbeDDMlT0rI/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/pbeDDMlT0rI/sddefault.jpg"
+        },
+        "likes": 8561,
+        "privacy_status": "public",
+        "published_at": "2026-06-19T00:36:50.000Z",
+        "region_restriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IO",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RU",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "SS",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "title": "You and I Are Polar Opposites Season 2 | Official Trailer 3 | Crunchyroll",
+        "url": "https://www.youtube.com/watch?v=pbeDDMlT0rI",
+        "views": 146366,
+        "youtube_id": "pbeDDMlT0rI"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63832/Seihantai_na_Kimi_to_Boku_2nd_Season",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 23,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 8, 2026 to Sep 23, 2026",
+        "to": "2026-09-23T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Wednesdays",
+        "string": "Wednesdays at 23:30 (JST)",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 621,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1285/158337.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/158337l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/158337t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1285/158337.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1285/158337l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1285/158337t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 54000,
+      "members": 117501,
+      "popularity": 2194,
+      "producers": [
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 306,
+          "name": "Magic Capsule",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1345,
+          "name": "Sammy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1896,
+          "name": "Micro Magazine Publishing",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1896/Micro_Magazine_Publishing"
+        }
+      ],
+      "rank": 5537,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.88,
+      "scored_by": 26239,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1974,
+          "name": "ENGI",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1974/ENGI"
+        }
+      ],
+      "synopsis": "Second season of Otome Game Sekai wa Mob ni Kibishii Sekai desu.",
+      "themes": [
+        {
+          "mal_id": 35,
+          "name": "Harem",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 18,
+          "name": "Mecha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        },
+        {
+          "mal_id": 72,
+          "name": "Reincarnation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        },
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+      "title_english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2",
+      "title_japanese": "乙女ゲー世界はモブに厳しい世界です2",
+      "title_synonyms": [
+        "Mobseka"
+      ],
+      "titles": [
+        {
+          "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+          "type": "Default"
+        },
+        {
+          "title": "乙女ゲー世界はモブに厳しい世界です2",
+          "type": "Japanese"
+        },
+        {
+          "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2",
+          "type": "English"
+        },
+        {
+          "title": "Mobseka",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 1004,
+        "dislikes": 147,
+        "duration": "PT1M32S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/d3n8-15GCG8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/d3n8-15GCG8/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/d3n8-15GCG8/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/d3n8-15GCG8/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/d3n8-15GCG8/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/d3n8-15GCG8/sddefault.jpg"
+        },
+        "likes": 13317,
+        "privacy_status": "public",
+        "published_at": "2026-06-17T08:00:39.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『乙女ゲー世界はモブに厳しい世界です2』PV第2弾",
+        "url": "https://www.youtube.com/watch?v=d3n8-15GCG8",
+        "views": 520874,
+        "youtube_id": "d3n8-15GCG8"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/54000/Otome_Game_Sekai_wa_Mob_ni_Kibishii_Sekai_desu_2",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-07T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 22,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 7, 2026 to Sep 22, 2026",
+        "to": "2026-09-22T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Tuesdays",
+        "string": "Tuesdays at 00:00 (JST)",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "24 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 419,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62542,
+      "members": 114239,
+      "popularity": 2235,
+      "producers": [
+        {
+          "mal_id": 143,
+          "name": "Mainichi Broadcasting System",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 159,
+          "name": "Kodansha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1113,
+          "name": "NBCUniversal Entertainment Japan",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+          "mal_id": 1284,
+          "name": "Avex Pictures",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+        },
+        {
+          "mal_id": 1501,
+          "name": "JR East Marketing & Communications",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing_Communications"
+        },
+        {
+          "mal_id": 2671,
+          "name": "Saber Links",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2671/Saber_Links"
+        },
+        {
+          "mal_id": 2840,
+          "name": "qooop",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2840/qooop"
+        }
+      ],
+      "rank": 294,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.33,
+      "scored_by": 34276,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1379,
+          "name": "Zero-G",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+        },
+        {
+          "mal_id": 2985,
+          "name": "Saber Works",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2985/Saber_Works"
+        }
+      ],
+      "synopsis": "Third season of Grand Blue.",
+      "themes": [
+        {
+          "mal_id": 50,
+          "name": "Adult Cast",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 57,
+          "name": "Gag Humor",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+        }
+      ],
+      "title": "Grand Blue Season 3",
+      "title_english": "Grand Blue Dreaming Season 3",
+      "title_japanese": "ぐらんぶる Season 3",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Grand Blue Season 3",
+          "type": "Default"
+        },
+        {
+          "title": "ぐらんぶる Season 3",
+          "type": "Japanese"
+        },
+        {
+          "title": "Grand Blue Dreaming Season 3",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 719,
+        "dislikes": 53,
+        "duration": "PT1M23S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/KJw6ZZaMOWA?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/KJw6ZZaMOWA/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/KJw6ZZaMOWA/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/KJw6ZZaMOWA/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/KJw6ZZaMOWA/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/KJw6ZZaMOWA/sddefault.jpg"
+        },
+        "likes": 9566,
+        "privacy_status": "public",
+        "published_at": "2026-06-11T04:48:44.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ「ぐらんぶる」Season 3　本PV",
+        "url": "https://www.youtube.com/watch?v=KJw6ZZaMOWA",
+        "views": 408109,
+        "youtube_id": "KJw6ZZaMOWA"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 19,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 4, 2026 to Sep 19, 2026",
+        "to": "2026-09-19T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Saturdays",
+        "string": "Saturdays at 22:00 (JST)",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 27,
+          "name": "Shounen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 292,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 37,
+          "name": "Supernatural",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1965/158363.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1965/158363.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1965/158363t.webp"
+        }
+      },
+      "licensors": [
+        {
+          "mal_id": 119,
+          "name": "VIZ Media",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+        }
+      ],
+      "mal_id": 61169,
+      "members": 106693,
+      "popularity": 2352,
+      "producers": [
+        {
+          "mal_id": 62,
+          "name": "Shogakukan-Shueisha Productions",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+        },
+        {
+          "mal_id": 711,
+          "name": "Delfi Sound",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+        },
+        {
+          "mal_id": 1365,
+          "name": "Shueisha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2999,
+          "name": "Hike",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2999/Hike"
+        }
+      ],
+      "rank": 6801,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.68,
+      "scored_by": 28609,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2696,
+          "name": "100studio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2696/100studio"
+        }
+      ],
+      "synopsis": "Capable of communicating with animals, Jirou Azuma, a troublesome 17-year-old high school student, is constantly scolded by his grandfather for fighting humans that harm his winged and four-legged friends. However, after Jirou saves a black cat named Ragou from certain death, his carefree existence soon comes to an end.\n\nUnbeknownst to Jirou, Ragou is no ordinary cat but a mononoke, a magical creature of immense power. While trying to protect Ragou from another mononoke, Jirou is easily defeated and left for dead. In a dramatic turn of events, Ragou decides to pay off his debt to the dying young man, making Jirou a rare human-mononoke hybrid that easily overpowers his aggressor.\n\nUnfortunately, Jirou is now sought by both Ragou's kin who want to use the latter's powers, and the Bureau of Espionage, a secret governmental organization protecting civilians against hostile mononoke. Forcibly enlisted by the Bureau of Espionage's Ryousuke Shiba, Jirou must prove his worth in a new anti-mononoke task force, lest he be killed as a menace himself.\n\n[Written by MAL Rewrite]",
+      "themes": [],
+      "title": "Black Torch",
+      "title_english": "Black Torch",
+      "title_japanese": "BLACK TORCH",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Black Torch",
+          "type": "Default"
+        },
+        {
+          "title": "BLACK TORCH",
+          "type": "Japanese"
+        },
+        {
+          "title": "Black Torch",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 103,
+        "dislikes": 34,
+        "duration": "PT2M3S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/2clp09dITKY?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/2clp09dITKY/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/2clp09dITKY/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/2clp09dITKY/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/2clp09dITKY/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/2clp09dITKY/sddefault.jpg"
+        },
+        "likes": 3478,
+        "privacy_status": "public",
+        "published_at": "2026-06-05T09:00:35.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『BLACK TORCH』メインPV第2弾",
+        "url": "https://www.youtube.com/watch?v=2clp09dITKY",
+        "views": 195485,
+        "youtube_id": "2clp09dITKY"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/61169/Black_Torch",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 21,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 6, 2026 to Sep 21, 2026",
+        "to": "2026-09-21T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Mondays",
+        "string": "Mondays at 21:00 (JST)",
+        "time": "21:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "24 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 1173,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1145/158339.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1145/158339l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1145/158339t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1145/158339.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1145/158339l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1145/158339t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62936,
+      "members": 100551,
+      "popularity": 2448,
+      "producers": [
+        {
+          "mal_id": 109,
+          "name": "Shochiku",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 719,
+          "name": "Studio Mausu",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/719/Studio_Mausu"
+        },
+        {
+          "mal_id": 1626,
+          "name": "Shochiku Music Publishing",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1626/Shochiku_Music_Publishing"
+        },
+        {
+          "mal_id": 2117,
+          "name": "SB Creative",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2117/SB_Creative"
+        },
+        {
+          "mal_id": 3269,
+          "name": "Clare Voice",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3269/Clare_Voice"
+        },
+        {
+          "mal_id": 3310,
+          "name": "viviON",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3310/viviON"
+        }
+      ],
+      "rank": 218,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.42,
+      "scored_by": 35413,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2622,
+          "name": "Makaria",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2622/Makaria"
+        }
+      ],
+      "synopsis": "Koharu Fuyutsuki is a university student who refuses to let her blindness define her life. Her infectious optimism soon draws the attention of the withdrawn Kakeru Sorano, whose guarded outlook on the world slowly begins to change after meeting her.\n\nAs their bond deepens, the two navigate the everyday challenges that accompany Koharu's condition, discovering that genuine understanding comes not from seeing with one's eyes, but from learning to see another person's heart.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 50,
+          "name": "Adult Cast",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        }
+      ],
+      "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "title_english": "Love Unseen Beneath the Clear Night Sky",
+      "title_japanese": "透明な夜に駆ける君と、目に見えない恋をした。",
+      "title_synonyms": [
+        "Toumei na Yoru ni Kakeru Kimi to",
+        "Me ni Mienai Koi wo Shita.",
+        "Gokusai no Yoru ni Kakeru-kun to",
+        "Menimienai Koi wo Shita.",
+        "KakeKoi",
+        "I Fell in Love with You",
+        "Who Ran Through the Transparent Night",
+        "A Love that was Invisible"
+      ],
+      "titles": [
+        {
+          "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+          "type": "Default"
+        },
+        {
+          "title": "透明な夜に駆ける君と、目に見えない恋をした。",
+          "type": "Japanese"
+        },
+        {
+          "title": "Love Unseen Beneath the Clear Night Sky",
+          "type": "English"
+        },
+        {
+          "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+          "type": "Synonym"
+        },
+        {
+          "title": "Gokusai no Yoru ni Kakeru-kun to, Menimienai Koi wo Shita.",
+          "type": "Synonym"
+        },
+        {
+          "title": "KakeKoi",
+          "type": "Synonym"
+        },
+        {
+          "title": "I Fell in Love with You, Who Ran Through the Transparent Night, A Love that was Invisible",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 101,
+        "dislikes": 40,
+        "duration": "PT1M29S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/OPZ7TOGxWqI?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/OPZ7TOGxWqI/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/OPZ7TOGxWqI/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/OPZ7TOGxWqI/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/OPZ7TOGxWqI/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/OPZ7TOGxWqI/sddefault.jpg"
+        },
+        "likes": 6134,
+        "privacy_status": "public",
+        "published_at": "2026-06-10T09:00:32.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ「透明な夜に駆ける君と、目に見えない恋をした。」PV第3弾 / 2026年7月6日放送スタート",
+        "url": "https://www.youtube.com/watch?v=OPZ7TOGxWqI",
+        "views": 700031,
+        "youtube_id": "OPZ7TOGxWqI"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62936/Toumei_na_Yoru_ni_Kakeru_Kimi_to_Me_ni_Mienai_Koi_wo_Shita",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-07T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 8,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 7, 2026 to Sep 8, 2026",
+        "to": "2026-09-08T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Koukaku Kidoutai (TV) aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
+      "broadcast": {
+        "day": "Tuesdays",
+        "string": "Tuesdays at 23:00 (JST)",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "23 min per ep",
+      "episodes": 10,
+      "explicit_genres": [],
+      "favorites": 421,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 7,
+          "name": "Mystery",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+          "mal_id": 41,
+          "name": "Suspense",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1474/158937.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1474/158937.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 58929,
+      "members": 99123,
+      "popularity": 2466,
+      "producers": [
+        {
+          "mal_id": 10,
+          "name": "Production I.G",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+        },
+        {
+          "mal_id": 53,
+          "name": "Dentsu",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+        },
+        {
+          "mal_id": 159,
+          "name": "Kodansha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 464,
+          "name": "flying DOG",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+        },
+        {
+          "mal_id": 577,
+          "name": "Tohokushinsha Film Corporation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+          "mal_id": 1412,
+          "name": "Kansai TV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+        },
+        {
+          "mal_id": 2424,
+          "name": "Bandai Namco Filmworks",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+        }
+      ],
+      "rank": 1067,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.84,
+      "scored_by": 24490,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1591,
+          "name": "Science SARU",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+        }
+      ],
+      "synopsis": "With the substantial advancement in cybernetic and AI technology in the early 21st century, humans are able to modify their bodies to the limit, making the world nothing like before. In 2029, the Japanese metropolis of Newport City has become a grand stage for criminals who abuse the advanced technology for personal gain and try to attain power over others by any means necessary.\n\nAfter making a name for herself and getting the green light from Public Security, determined Motoko Kusanagi takes charge of a new special forces unit. In these turbulent times, she and her subordinates tackle serious cybercrime cases that ordinary police would have no chance of solving. Although boasting a successful track record so far, Kusanagi and her unit soon learn there may be an elusive mastermind behind the scenes, whose actions further endanger the metropolis' fragile status quo.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 50,
+          "name": "Adult Cast",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+        },
+        {
+          "mal_id": 39,
+          "name": "Detective",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/39/Detective"
+        },
+        {
+          "mal_id": 40,
+          "name": "Psychological",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+      ],
+      "title": "Koukaku Kidoutai (TV)",
+      "title_english": "The Ghost in the Shell",
+      "title_japanese": "攻殻機動隊 THE GHOST IN THE SHELL",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Koukaku Kidoutai (TV)",
+          "type": "Default"
+        },
+        {
+          "title": "攻殻機動隊 THE GHOST IN THE SHELL",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Ghost in the Shell",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 283,
+        "dislikes": 43,
+        "duration": "PT1M28S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/-TEMcbY2JGs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/-TEMcbY2JGs/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/-TEMcbY2JGs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/-TEMcbY2JGs/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/-TEMcbY2JGs/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/-TEMcbY2JGs/sddefault.jpg"
+        },
+        "likes": 5063,
+        "privacy_status": "public",
+        "published_at": "2026-07-08T15:00:31.000Z",
+        "region_restriction": null,
+        "title": "TVアニメーション『攻殻機動隊 THE GHOST IN THE SHELL』プロモーションビデオ第6弾",
+        "url": "https://www.youtube.com/watch?v=-TEMcbY2JGs",
+        "views": 199554,
+        "youtube_id": "-TEMcbY2JGs"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/58929/Koukaku_Kidoutai_TV",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 21,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 6, 2026 to Sep 21, 2026",
+        "to": "2026-09-21T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Mondays",
+        "string": "Mondays at 22:00 (JST)",
+        "time": "22:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 264,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1544/157046.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/157046l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/157046t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1544/157046.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1544/157046l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1544/157046t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 60522,
+      "members": 98502,
+      "popularity": 2482,
+      "producers": [
+        {
+          "mal_id": 144,
+          "name": "Pony Canyon",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 315,
+          "name": "DAX Production",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/315/DAX_Production"
+        },
+        {
+          "mal_id": 1334,
+          "name": "Docomo Anime Store",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1334/Docomo_Anime_Store"
+        },
+        {
+          "mal_id": 1443,
+          "name": "Overlap",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1443/Overlap"
+        },
+        {
+          "mal_id": 1468,
+          "name": "Crunchyroll",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1786,
+          "name": "Muse Communication",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+        },
+        {
+          "mal_id": 1996,
+          "name": "MAGNET",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1996/MAGNET"
+        },
+        {
+          "mal_id": 2236,
+          "name": "CTW",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2236/CTW"
+        }
+      ],
+      "rank": 8055,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.49,
+      "scored_by": 23340,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 3276,
+          "name": "Aura Studio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3276/Aura_Studio"
+        }
+      ],
+      "synopsis": "Second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "title_english": "Skeleton Knight in Another World II",
+      "title_japanese": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+      "title_synonyms": [
+        "Skeleton Knight in Another World 2nd Season"
+      ],
+      "titles": [
+        {
+          "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+          "type": "Default"
+        },
+        {
+          "title": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+          "type": "Japanese"
+        },
+        {
+          "title": "Skeleton Knight in Another World II",
+          "type": "English"
+        },
+        {
+          "title": "Skeleton Knight in Another World 2nd Season",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 130,
+        "dislikes": 24,
+        "duration": "PT1M49S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Enu3fyOdkoM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Enu3fyOdkoM/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Enu3fyOdkoM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Enu3fyOdkoM/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Enu3fyOdkoM/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Enu3fyOdkoM/sddefault.jpg"
+        },
+        "likes": 3619,
+        "privacy_status": "public",
+        "published_at": "2026-06-26T03:00:13.000Z",
+        "region_restriction": null,
+        "title": "【本PV第2弾】TVアニメ「骸骨騎士様、只今異世界へお出掛け中Ⅱ」2026年7月よりTOKYO MX、BS11、AT-Xにて放送開始！7月4日地上波先行・最速放送＆配信！",
+        "url": "https://www.youtube.com/watch?v=Enu3fyOdkoM",
+        "views": 215904,
+        "youtube_id": "Enu3fyOdkoM"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/60522/Gaikotsu_Kishi-sama_Tadaima_Isekai_e_Odekakechuu_II",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 27,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 5, 2026 to Sep 27, 2026",
+        "to": "2026-09-27T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Sundays",
+        "string": "Sundays at 23:00 (JST)",
+        "time": "23:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 13,
+      "explicit_genres": [],
+      "favorites": 464,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1068/158475.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1068/158475.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1068/158475t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62856,
+      "members": 96956,
+      "popularity": 2500,
+      "producers": [
+        {
+          "mal_id": 104,
+          "name": "Lantis",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 144,
+          "name": "Pony Canyon",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 211,
+          "name": "Rakuonsha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+        },
+        {
+          "mal_id": 1500,
+          "name": "ABC Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+          "mal_id": 2147,
+          "name": "Heart Company",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2147/Heart_Company"
+        },
+        {
+          "mal_id": 2425,
+          "name": "Bandai Namco Music Live",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+        }
+      ],
+      "rank": 2371,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.46,
+      "scored_by": 20687,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2,
+          "name": "Kyoto Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2/Kyoto_Animation"
+        }
+      ],
+      "synopsis": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)",
+      "themes": [
+        {
+          "mal_id": 13,
+          "name": "Historical",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "title_english": "Sparks of Tomorrow",
+      "title_japanese": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+      "title_synonyms": [
+        "20th Century Electricity Catalog"
+      ],
+      "titles": [
+        {
+          "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+          "type": "Default"
+        },
+        {
+          "title": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+          "type": "Japanese"
+        },
+        {
+          "title": "Sparks of Tomorrow",
+          "type": "English"
+        },
+        {
+          "title": "20th Century Electricity Catalog",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 127,
+        "dislikes": 12,
+        "duration": "PT48S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/-W2vs2etG9o?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/-W2vs2etG9o/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/-W2vs2etG9o/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/-W2vs2etG9o/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/-W2vs2etG9o/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/-W2vs2etG9o/sddefault.jpg"
+        },
+        "likes": 4115,
+        "privacy_status": "public",
+        "published_at": "2026-06-14T03:40:09.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』放送直前PV｜2026年7月5日TV放送＆配信開始！",
+        "url": "https://www.youtube.com/watch?v=-W2vs2etG9o",
+        "views": 346955,
+        "youtube_id": "-W2vs2etG9o"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62856/Nijusseiki_Denki_Mokuroku__Eureka_Evrika",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jul 3, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru aired on MBS and TBS' Super Animeism Turbo block.",
+      "broadcast": {
+        "day": "Fridays",
+        "string": "Fridays at 00:26 (JST)",
+        "time": "00:26",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 26,
+      "explicit_genres": [],
+      "favorites": 328,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1322/158711.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1322/158711.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1322/158711t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 59741,
+      "members": 96349,
+      "popularity": 2511,
+      "producers": [
+        {
+          "mal_id": 109,
+          "name": "Shochiku",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+        },
+        {
+          "mal_id": 143,
+          "name": "Mainichi Broadcasting System",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+        },
+        {
+          "mal_id": 159,
+          "name": "Kodansha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+        },
+        {
+          "mal_id": 1255,
+          "name": "Glovision",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1468,
+          "name": "Crunchyroll",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1626,
+          "name": "Shochiku Music Publishing",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1626/Shochiku_Music_Publishing"
+        },
+        {
+          "mal_id": 1786,
+          "name": "Muse Communication",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1786/Muse_Communication"
+        }
+      ],
+      "rank": 5847,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 6.83,
+      "scored_by": 18277,
+      "season": "summer",
+      "source": "Web manga",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 309,
+          "name": "GoHands",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/309/GoHands"
+        }
+      ],
+      "synopsis": "\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "name": "Reincarnation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+      "title_english": "The Exiled Heavy Knight Knows How to Game the System",
+      "title_japanese": "追放された転生重騎士はゲーム知識で無双する",
+      "title_synonyms": [
+        "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge"
+      ],
+      "titles": [
+        {
+          "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+          "type": "Default"
+        },
+        {
+          "title": "追放された転生重騎士はゲーム知識で無双する",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Exiled Heavy Knight Knows How to Game the System",
+          "type": "English"
+        },
+        {
+          "title": "The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 397,
+        "dislikes": 111,
+        "duration": "PT2M5S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/uC13b3_8riU?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/uC13b3_8riU/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/uC13b3_8riU/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/uC13b3_8riU/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/uC13b3_8riU/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/uC13b3_8riU/sddefault.jpg"
+        },
+        "likes": 5581,
+        "privacy_status": "public",
+        "published_at": "2026-06-15T23:00:38.000Z",
+        "region_restriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "title": "【26年7月放送】『追放された転生重騎士はゲーム知識で無双する』メインPV第2弾",
+        "url": "https://www.youtube.com/watch?v=uC13b3_8riU",
+        "views": 742159,
+        "youtube_id": "uC13b3_8riU"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/59741/Tsuihou_sareta_Tensei_Juukishi_wa_Game_Chishiki_de_Musou_suru",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-12T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 12,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 20,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 12, 2026 to Sep 20, 2026",
+        "to": "2026-09-20T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Sundays",
+        "string": "Sundays at 23:45 (JST)",
+        "time": "23:45",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 11,
+      "explicit_genres": [],
+      "favorites": 561,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1958/158341.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/158341l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/158341t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1958/158341.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1958/158341l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1958/158341t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 61240,
+      "members": 95196,
+      "popularity": 2536,
+      "producers": [
+        {
+          "mal_id": 16,
+          "name": "TV Tokyo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+        },
+        {
+          "mal_id": 577,
+          "name": "Tohokushinsha Film Corporation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+        },
+        {
+          "mal_id": 1143,
+          "name": "TOHO animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1143/TOHO_animation"
+        },
+        {
+          "mal_id": 1582,
+          "name": "Ichijinsha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        },
+        {
+          "mal_id": 2229,
+          "name": "TOHO Music",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2229/TOHO_Music"
+        },
+        {
+          "mal_id": 3210,
+          "name": "Verygoo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3210/Verygoo"
+        }
+      ],
+      "rank": 414,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.23,
+      "scored_by": 35627,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 95,
+          "name": "Doga Kobo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/95/Doga_Kobo"
+        }
+      ],
+      "synopsis": "Within the Kingdom of Ei's opulent inner court is the thriving Maiden Court, where the empress and the four imperial consorts are chosen from five prominent clans. Among them, one pristine consort-in-training, Reirin Kou, stands out as the perfect candidate for the future empress. Her virtue and elegance are unrivaled, and she is flawless—save for her extremely sickly constitution. Compared to the court's gentle butterfly, the boorish Keigetsu Shu is like a sewer rat. Always staring at Reirin with bitter envy, Keigetsu is a disgrace to the Maiden Court.\n\nDuring the night of a rare comet sighting, Keigetsu's jealousy reaches its peak, and she attempts to murder Reirin by pushing her off a balcony. Reirin is quickly saved from death, and Keigetsu is imprisoned to await her execution. Unbeknownst to all, Keigetsu has cast a spell to swap bodies with Reirin in order to steal all that belongs to her. But while Keigetsu is hindered by Reirin's frail body, Reirin fully embraces freedom and physical strength for the first time in her life, determined to live—no matter whose face she wears.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 83,
+          "name": "Villainess",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/83/Villainess"
+        }
+      ],
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "title_english": "Though I Am an Inept Villainess",
+      "title_japanese": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
+      "title_synonyms": [
+        "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
+      ],
+      "titles": [
+        {
+          "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+          "type": "Default"
+        },
+        {
+          "title": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
+          "type": "Japanese"
+        },
+        {
+          "title": "Though I Am an Inept Villainess",
+          "type": "English"
+        },
+        {
+          "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 229,
+        "dislikes": 39,
+        "duration": "PT1M23S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/KZhL6CYGYU0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/KZhL6CYGYU0/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/KZhL6CYGYU0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/KZhL6CYGYU0/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/KZhL6CYGYU0/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/KZhL6CYGYU0/sddefault.jpg"
+        },
+        "likes": 7065,
+        "privacy_status": "public",
+        "published_at": "2026-06-28T08:30:20.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～』放送直前PV／エンディングテーマ：ロクデナシ「ホウキボシ」／7月12日(日)23:45よりテレ東系列にて放送開始",
+        "url": "https://www.youtube.com/watch?v=KZhL6CYGYU0",
+        "views": 915446,
+        "youtube_id": "KZhL6CYGYU0"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/61240/Futsutsuka_na_Akujo_dewa_Gozaimasu_ga__Suuguu_Chouso_Torikae_Den",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 30,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 8, 2026 to Sep 30, 2026",
+        "to": "2026-09-30T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Wednesdays",
+        "string": "Wednesdays at 21:00 (JST)",
+        "time": "21:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 13,
+      "explicit_genres": [],
+      "favorites": 244,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1741/157105.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/157105l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/157105t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1741/157105.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1741/157105l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1741/157105t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62513,
+      "members": 94203,
+      "popularity": 2558,
+      "producers": [
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 1345,
+          "name": "Sammy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1345/Sammy"
+        },
+        {
+          "mal_id": 1468,
+          "name": "Crunchyroll",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1468/Crunchyroll"
+        },
+        {
+          "mal_id": 1680,
+          "name": "BS NTV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1680/BS_NTV"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 2640,
+          "name": "INSPION Edge",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2640/INSPION_Edge"
+        },
+        {
+          "mal_id": 2876,
+          "name": "LINE Digital Frontier",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2876/LINE_Digital_Frontier"
+        }
+      ],
+      "rank": 1090,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.83,
+      "scored_by": 23001,
+      "season": "summer",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1087,
+          "name": "Lay-duce",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1087/Lay-duce"
+        }
+      ],
+      "synopsis": "Second season of Clevatess.",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "title_english": "Clevatess Season 2",
+      "title_japanese": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+          "type": "Default"
+        },
+        {
+          "title": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+          "type": "Japanese"
+        },
+        {
+          "title": "Clevatess Season 2",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 190,
+        "dislikes": 16,
+        "duration": "PT2M6S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/0N1-8XY_3Rs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/0N1-8XY_3Rs/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/0N1-8XY_3Rs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/0N1-8XY_3Rs/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/0N1-8XY_3Rs/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/0N1-8XY_3Rs/sddefault.jpg"
+        },
+        "likes": 4383,
+        "privacy_status": "public",
+        "published_at": "2026-06-09T09:00:01.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ「クレバテスⅡ-魔獣の王と偽りの勇者伝承-」PV第3弾 | ClevatessⅡ",
+        "url": "https://www.youtube.com/watch?v=0N1-8XY_3Rs",
+        "views": 256053,
+        "youtube_id": "0N1-8XY_3Rs"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62513/Clevatess_II__Majuu_no_Ou_to_Itsuwari_no_Yuusha_Denshou",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-07T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 7, 2026 to Sep 29, 2026",
+        "to": "2026-09-29T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Tuesdays",
+        "string": "Tuesdays at 21:30 (JST)",
+        "time": "21:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 13,
+      "explicit_genres": [],
+      "favorites": 596,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 26,
+          "name": "Girls Love",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1096/158712.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1096/158712.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 61126,
+      "members": 93127,
+      "popularity": 2578,
+      "producers": [
+        {
+          "mal_id": 33,
+          "name": "WOWOW",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+          "mal_id": 166,
+          "name": "Movic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 238,
+          "name": "AT-X",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/238/AT-X"
+        },
+        {
+          "mal_id": 306,
+          "name": "Magic Capsule",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+        },
+        {
+          "mal_id": 1386,
+          "name": "Infinite",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+        },
+        {
+          "mal_id": 1551,
+          "name": "Kadokawa Media House",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+        },
+        {
+          "mal_id": 1582,
+          "name": "Ichijinsha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1779,
+          "name": "NewGin",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+        }
+      ],
+      "rank": 1786,
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 7.6,
+      "scored_by": 16348,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2835,
+          "name": "ROLL2",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2835/ROLL2"
+        }
+      ],
+      "synopsis": "Fourteen-year-old Sheena Totsuki has been surrounded by war and death for as long as she remembers. She is forced to train with fellow orphans as child soldiers to fight tooth and nail in a conflict that has dragged on for too long. Casualties are a common occurrence, as is the case for Sheena's roommate one tragic day.  \n\nThat night, Sheena encounters a strange girl covered in blood with a contradictory joyous demeanor. The next day, the strange girl is introduced to Sheena's class as Mimi Kagari, and rumors start floating around that she could be the orphanage's infamous secret weapon of the same name. Appointed as Sheena's new roommate, Mimi immediately grows attached to her, while Sheena tries to sort out her own feelings on the matter. Mimi seems mysteriously unfamiliar with  the school and everyday life as a student, so Sheena finds herself becoming something of a caretaker.\n\nDespite barren circumstances, the disparate pair grows closer. However, Sheena's worldview begins to crumble after she learns the truth behind Mimi's unimaginable power.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "title_english": "I Want to Love You Till Your Dying Day",
+      "title_japanese": "きみが死ぬまで恋をしたい",
+      "title_synonyms": [
+        "My Wish Is to Fall in Love Until You Die.",
+        "Kimishinu"
+      ],
+      "titles": [
+        {
+          "title": "Kimi ga Shinu made Koi wo Shitai",
+          "type": "Default"
+        },
+        {
+          "title": "きみが死ぬまで恋をしたい",
+          "type": "Japanese"
+        },
+        {
+          "title": "I Want to Love You Till Your Dying Day",
+          "type": "English"
+        },
+        {
+          "title": "My Wish Is to Fall in Love Until You Die.",
+          "type": "Synonym"
+        },
+        {
+          "title": "Kimishinu",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 847,
+        "dislikes": 236,
+        "duration": "PT1M41S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/zJLbfK_9ZmQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/zJLbfK_9ZmQ/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/zJLbfK_9ZmQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/zJLbfK_9ZmQ/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/zJLbfK_9ZmQ/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/zJLbfK_9ZmQ/sddefault.jpg"
+        },
+        "likes": 28503,
+        "privacy_status": "public",
+        "published_at": "2026-06-09T12:00:10.000Z",
+        "region_restriction": null,
+        "title": "【💐7月7日放送開始💐】TVアニメ『きみが死ぬまで恋をしたい』第2弾PV",
+        "url": "https://www.youtube.com/watch?v=zJLbfK_9ZmQ",
+        "views": 539998,
+        "youtube_id": "zJLbfK_9ZmQ"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/61126/Kimi_ga_Shinu_made_Koi_wo_Shitai",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 12,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 4, 2026 to Sep 12, 2026",
+        "to": "2026-09-12T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Tenmaku no Jaadugar aired on TV Asahi's IMAnimation block.",
+      "broadcast": {
+        "day": "Saturdays",
+        "string": "Saturdays at 23:30 (JST)",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 679,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/158891.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/158891.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/158891t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 61483,
+      "members": 92675,
+      "popularity": 2582,
+      "producers": [
+        {
+          "mal_id": 55,
+          "name": "TV Asahi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+          "mal_id": 2074,
+          "name": "Bit grooove promotion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        },
+        {
+          "mal_id": 2185,
+          "name": "BS Asahi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+        },
+        {
+          "mal_id": 2234,
+          "name": "TV Asahi Music",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2234/TV_Asahi_Music"
+        }
+      ],
+      "rank": 237,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.4,
+      "scored_by": 27158,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1591,
+          "name": "Science SARU",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+        }
+      ],
+      "synopsis": "Eight centuries ago, in the latter days of the Islamic golden age, a young girl arrived in the Khwarazmian city of Tus. She was a slave. But she learned. Eight centuries ago, the Mongols blazed across the map, swept Khwarazm into the ash heap of history, and took all they desired from the ruins. They took the girl who learned. So begins the true story of how a \"witch,\" wielding knowledge as her only weapon, came to hold the greatest empire the world has ever known in the palm of her hand...\n\n(Source: Yen Press)",
+      "themes": [
+        {
+          "mal_id": 13,
+          "name": "Historical",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "title": "Tenmaku no Jaadugar",
+      "title_english": "Jaadugar: A Witch in Mongolia",
+      "title_japanese": "天幕のジャードゥーガル",
+      "title_synonyms": [
+        "Tenmaku no Jadugar",
+        "Tenmaku no Jadoogar",
+        "A Witch's Life in Mongol"
+      ],
+      "titles": [
+        {
+          "title": "Tenmaku no Jaadugar",
+          "type": "Default"
+        },
+        {
+          "title": "天幕のジャードゥーガル",
+          "type": "Japanese"
+        },
+        {
+          "title": "Jaadugar: A Witch in Mongolia",
+          "type": "English"
+        },
+        {
+          "title": "Tenmaku no Jadugar",
+          "type": "Synonym"
+        },
+        {
+          "title": "Tenmaku no Jadoogar",
+          "type": "Synonym"
+        },
+        {
+          "title": "A Witch's Life in Mongol",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 99,
+        "dislikes": 17,
+        "duration": "PT1M13S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/QmCFp2Mfs9M?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/QmCFp2Mfs9M/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/QmCFp2Mfs9M/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/QmCFp2Mfs9M/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/QmCFp2Mfs9M/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/QmCFp2Mfs9M/sddefault.jpg"
+        },
+        "likes": 1145,
+        "privacy_status": "public",
+        "published_at": "2026-08-01T15:00:38.000Z",
+        "region_restriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "title": "Jaadugar: A Witch in Mongolia | The third main PV",
+        "url": "https://www.youtube.com/watch?v=QmCFp2Mfs9M",
+        "views": 62566,
+        "youtube_id": "QmCFp2Mfs9M"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-08-28T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 8,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Aug 28, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 hr",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 455,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 41,
+          "name": "Suspense",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/41/Suspense"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1064/160017.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/160017l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/160017t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1064/160017.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1064/160017l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1064/160017t.webp"
+        }
+      },
+      "licensors": [
+        {
+          "mal_id": 493,
+          "name": "Aniplex of America",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/493/Aniplex_of_America"
+        }
+      ],
+      "mal_id": 48820,
+      "members": 88266,
+      "popularity": 2656,
+      "producers": [
+        {
+          "mal_id": 17,
+          "name": "Aniplex",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+        }
+      ],
+      "rank": 1152,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.81,
+      "scored_by": 631,
+      "season": "summer",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 44,
+          "name": "Shaft",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/44/Shaft"
+        }
+      ],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 66,
+          "name": "Mahou Shoujo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/66/Mahou_Shoujo"
+        },
+        {
+          "mal_id": 40,
+          "name": "Psychological",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/40/Psychological"
+        }
+      ],
+      "title": "Mahou Shoujo Madoka☆Magica Movie 4: Walpurgis no Kaiten",
+      "title_english": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising",
+      "title_japanese": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+      "title_synonyms": [
+        "Mahou Shoujo Madoka Magika Movie 4",
+        "Magical Girl Madoka Magica Movie 4: Rotation of Walpurgis"
+      ],
+      "titles": [
+        {
+          "title": "Mahou Shoujo Madoka☆Magica Movie 4: Walpurgis no Kaiten",
+          "type": "Default"
+        },
+        {
+          "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+          "type": "Japanese"
+        },
+        {
+          "title": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising",
+          "type": "English"
+        },
+        {
+          "title": "Mahou Shoujo Madoka Magika Movie 4",
+          "type": "Synonym"
+        },
+        {
+          "title": "Magical Girl Madoka Magica Movie 4: Rotation of Walpurgis",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 2960,
+        "dislikes": 152,
+        "duration": "PT2M17S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/mESs-ii2l6A?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/mESs-ii2l6A/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/mESs-ii2l6A/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/mESs-ii2l6A/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/mESs-ii2l6A/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/mESs-ii2l6A/sddefault.jpg"
+        },
+        "likes": 45842,
+        "privacy_status": "public",
+        "published_at": "2026-09-12T10:48:44.000Z",
+        "region_restriction": null,
+        "title": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』公開中PV",
+        "url": "https://www.youtube.com/watch?v=mESs-ii2l6A",
+        "views": 3176164,
+        "youtube_id": "mESs-ii2l6A"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/48820/Mahou_Shoujo_Madoka☆Magica_Movie_4__Walpurgis_no_Kaiten",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 20,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 5, 2026 to Sep 20, 2026",
+        "to": "2026-09-20T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Sundays",
+        "string": "Sundays at 22:30 (JST)",
+        "time": "22:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 403,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1755/159708.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1755/159708l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1755/159708t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1755/159708.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1755/159708l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1755/159708t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 62811,
+      "members": 84620,
+      "popularity": 2740,
+      "producers": [
+        {
+          "mal_id": 104,
+          "name": "Lantis",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/104/Lantis"
+        },
+        {
+          "mal_id": 166,
+          "name": "Movic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 775,
+          "name": "Bushiroad",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+        },
+        {
+          "mal_id": 1211,
+          "name": "Tokyo MX",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+          "mal_id": 1365,
+          "name": "Shueisha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+        },
+        {
+          "mal_id": 2425,
+          "name": "Bandai Namco Music Live",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2425/Bandai_Namco_Music_Live"
+        }
+      ],
+      "rank": 651,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.07,
+      "scored_by": 28216,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1722,
+          "name": "Bibury Animation Studios",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1722/Bibury_Animation_Studios"
+        }
+      ],
+      "synopsis": "Third season of Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo.",
+      "themes": [
+        {
+          "mal_id": 35,
+          "name": "Harem",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/35/Harem"
+        },
+        {
+          "mal_id": 20,
+          "name": "Parody",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+      "title_english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+      "title_japanese": "君のことが大大大大大好きな100人の彼女 3期",
+      "title_synonyms": [
+        "Hyakkano 3rd Season"
+      ],
+      "titles": [
+        {
+          "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+          "type": "Default"
+        },
+        {
+          "title": "君のことが大大大大大好きな100人の彼女 3期",
+          "type": "Japanese"
+        },
+        {
+          "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
+          "type": "English"
+        },
+        {
+          "title": "Hyakkano 3rd Season",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 1862,
+        "dislikes": 117,
+        "duration": "PT1M51S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/kvbOPdDfPio?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/kvbOPdDfPio/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/kvbOPdDfPio/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/kvbOPdDfPio/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/kvbOPdDfPio/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/kvbOPdDfPio/sddefault.jpg"
+        },
+        "likes": 24435,
+        "privacy_status": "public",
+        "published_at": "2026-06-27T09:00:33.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『君のことが大大大大大好きな100人の彼女』第3期メインPV ｜ 2026年7月5日（日）放送開始!!!",
+        "url": "https://www.youtube.com/watch?v=kvbOPdDfPio",
+        "views": 633705,
+        "youtube_id": "kvbOPdDfPio"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/62811/Kimi_no_Koto_ga_Daidaidaidaidaisuki_na_100-nin_no_Kanojo_3rd_Season",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 23,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 8, 2026 to Sep 23, 2026",
+        "to": "2026-09-23T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Katainaka no Ossan, Kensei ni Naru II aired on TV Asahi's IMAnimation W block.",
+      "broadcast": {
+        "day": "Wednesdays",
+        "string": "Wednesdays at 23:45 (JST)",
+        "time": "23:45",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 139,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1100/157173.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1100/157173.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 61897,
+      "members": 83183,
+      "popularity": 2767,
+      "producers": [
+        {
+          "mal_id": 55,
+          "name": "TV Asahi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+        },
+        {
+          "mal_id": 58,
+          "name": "Square Enix",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+          "mal_id": 323,
+          "name": "Nippon Columbia",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+        },
+        {
+          "mal_id": 460,
+          "name": "KlockWorx",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 1113,
+          "name": "NBCUniversal Entertainment Japan",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+        },
+        {
+          "mal_id": 1501,
+          "name": "JR East Marketing & Communications",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing_Communications"
+        },
+        {
+          "mal_id": 1714,
+          "name": "Fujishouji",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1714/Fujishouji"
+        },
+        {
+          "mal_id": 1799,
+          "name": "Drecom",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1799/Drecom"
+        },
+        {
+          "mal_id": 2185,
+          "name": "BS Asahi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+        },
+        {
+          "mal_id": 3106,
+          "name": "NK Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3106/NK_Animation"
+        }
+      ],
+      "rank": 3642,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.22,
+      "scored_by": 23390,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 911,
+          "name": "Passione",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/911/Passione"
+        },
+        {
+          "mal_id": 2370,
+          "name": "Hayabusa Film",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2370/Hayabusa_Film"
+        }
+      ],
+      "synopsis": "Second season of Katainaka no Ossan, Kensei ni Naru.",
+      "themes": [],
+      "title": "Katainaka no Ossan, Kensei ni Naru II",
+      "title_english": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "title_japanese": "片田舎のおっさん、剣聖になるII",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Katainaka no Ossan, Kensei ni Naru II",
+          "type": "Default"
+        },
+        {
+          "title": "片田舎のおっさん、剣聖になるII",
+          "type": "Japanese"
+        },
+        {
+          "title": "From Old Country Bumpkin to Master Swordsman Season 2",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 245,
+        "dislikes": 60,
+        "duration": "PT2M2S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/5LVofNYRtcs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/5LVofNYRtcs/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/5LVofNYRtcs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/5LVofNYRtcs/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/5LVofNYRtcs/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/5LVofNYRtcs/sddefault.jpg"
+        },
+        "likes": 4694,
+        "privacy_status": "public",
+        "published_at": "2026-08-14T09:59:18.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ「片田舎のおっさん、剣聖になるII」PV第四弾 | 好評放送・配信中！",
+        "url": "https://www.youtube.com/watch?v=5LVofNYRtcs",
+        "views": 1156939,
+        "youtube_id": "5LVofNYRtcs"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 17,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 2, 2026 to Sep 17, 2026",
+        "to": "2026-09-17T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Each episode was streamed six days in advance of the TV broadcast starting on June 26, 2026, on Crunchyroll, ABEMA, Anime Houdai, Docomo Anime Store, and U-NEXT. Regular broadcasting began on July 2, 2026.",
+      "broadcast": {
+        "day": "Thursdays",
+        "string": "Thursdays at 00:00 (JST)",
+        "time": "00:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 155,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/158376.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/158376l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/158376t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1319/158376.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1319/158376l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1319/158376t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63508,
+      "members": 76694,
+      "popularity": 2889,
+      "producers": [
+        {
+          "mal_id": 33,
+          "name": "WOWOW",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+        },
+        {
+          "mal_id": 58,
+          "name": "Square Enix",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+        },
+        {
+          "mal_id": 460,
+          "name": "KlockWorx",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 843,
+          "name": "BS Fuji",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+          "mal_id": 1500,
+          "name": "ABC Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1500/ABC_Animation"
+        },
+        {
+          "mal_id": 1819,
+          "name": "D-techno",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1819/D-techno"
+        },
+        {
+          "mal_id": 1986,
+          "name": "arma bianca",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1986/arma_bianca"
+        },
+        {
+          "mal_id": 2074,
+          "name": "Bit grooove promotion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        },
+        {
+          "mal_id": 2291,
+          "name": "jeux d'eau",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2291/jeux_d_eau"
+        }
+      ],
+      "rank": 9985,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.18,
+      "scored_by": 29771,
+      "season": "summer",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1264,
+          "name": "EMT Squared",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1264/EMT_Squared"
+        }
+      ],
+      "synopsis": "The Sage of Wind, Ephtal is a reincarnated human, coming from modern Earth. Reincarnated in a new world where magic is real, he decides to devote the entirety of his life in the pursuit of magic. Despite his efforts, though, he discovers that he is absolutely talentless in magic, and breathed his last in anguish.\n\nBut it isn't the end for him just yet! He reincarnates once again bearing the same name, Ephtal, 400 years later. Having retained his knowledge and power, he steels his resolve and once again sets his sights for the peak of magic!\n\nHowever, in a surprising turn of events, he discovers that magic has terribly declined. In this era where powerful spells are a rarity, his talentless self is now completely unmatched! From the depths of powerlessness to the peak of power, the talentless but peerless mage's journey to the top starts now!\n\n(Source: Manga UP!, edited)",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        },
+        {
+          "mal_id": 72,
+          "name": "Reincarnation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/72/Reincarnation"
+        }
+      ],
+      "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "title_english": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "title_japanese": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+      "title_synonyms": [
+        "The Failed Sage's Academy Domination",
+        "The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer's Post-Rebirth Adventurer Log"
+      ],
+      "titles": [
+        {
+          "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+          "type": "Default"
+        },
+        {
+          "title": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+          "type": "Japanese"
+        },
+        {
+          "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+          "type": "English"
+        },
+        {
+          "title": "The Failed Sage's Academy Domination",
+          "type": "Synonym"
+        },
+        {
+          "title": "The Unsuccessful Yet Academically Unparalleled Sage: A Cheating S-Rank Sorcerer's Post-Rebirth Adventurer Log",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 135,
+        "dislikes": 65,
+        "duration": "PT2M1S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/QOeItd-RrVs?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/QOeItd-RrVs/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/QOeItd-RrVs/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/QOeItd-RrVs/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/QOeItd-RrVs/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/QOeItd-RrVs/sddefault.jpg"
+        },
+        "likes": 3184,
+        "privacy_status": "public",
+        "published_at": "2026-06-06T11:00:29.000Z",
+        "region_restriction": {
+          "blocked": [
+            "RU"
+          ]
+        },
+        "title": "TVアニメ「落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～」メインPV｜2026年7月1日より放送開始！",
+        "url": "https://www.youtube.com/watch?v=QOeItd-RrVs",
+        "views": 272276,
+        "youtube_id": "QOeItd-RrVs"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63508/Rakudai_Kenja_no_Gakuin_Musou__Nidome_no_Tensei_S-Rank_Cheat_Majutsushi_Boukenroku",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 18,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 3, 2026 to Sep 18, 2026",
+        "to": "2026-09-18T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Fridays",
+        "string": "Fridays at 01:28 (JST)",
+        "time": "01:28",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 42,
+          "name": "Seinen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/42/Seinen"
+        }
+      ],
+      "duration": "24 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 238,
+      "genres": [
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        },
+        {
+          "mal_id": 37,
+          "name": "Supernatural",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1981/156340.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1981/156340l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1981/156340t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1981/156340.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1981/156340l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1981/156340t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63150,
+      "members": 71651,
+      "popularity": 3018,
+      "producers": [
+        {
+          "mal_id": 144,
+          "name": "Pony Canyon",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 145,
+          "name": "TBS",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/145/TBS"
+        },
+        {
+          "mal_id": 460,
+          "name": "KlockWorx",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 1255,
+          "name": "Glovision",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1255/Glovision"
+        },
+        {
+          "mal_id": 1416,
+          "name": "BS11",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1416/BS11"
+        },
+        {
+          "mal_id": 1554,
+          "name": "Contents Seed",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1554/Contents_Seed"
+        },
+        {
+          "mal_id": 1696,
+          "name": "Kadokawa",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+        },
+        {
+          "mal_id": 1899,
+          "name": "Good Smile Film",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1899/Good_Smile_Film"
+        },
+        {
+          "mal_id": 2680,
+          "name": "Sankyo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2680/Sankyo"
+        }
+      ],
+      "rank": 2207,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.5,
+      "scored_by": 23395,
+      "season": "summer",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 839,
+          "name": "LIDENFILMS",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/839/LIDENFILMS"
+        }
+      ],
+      "synopsis": "Sixteen-year-old Kuroe Akaishi has spent most of her life keeping to herself, knowing that intense emotions cause parts of her body to mutate into monstrous appendages. Though resigned to a life of solitude, her monochromatic days find color when Arata Minami, a popular classmate, reaches out to her with kindness she never expected from anyone. \n\nFor Akaishi, however, Minami's growing presence in her life proves to be more troublesome than comforting. Despite cherishing his company, every interaction with him brings out stronger emotional responses, pushing the condition she has managed for years to its extremities, culminating in a complete transformation into a colossal kaiju. Now, Akaishi must navigate her growing affection while keeping her abhorrent condition hidden—before she becomes more than just national news.\n\n[Written by MAL Rewrite]",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Otome Kaijuu Caraméliser",
+      "title_english": "Kaiju Girl Caramelise",
+      "title_japanese": "乙女怪獣キャラメリゼ",
+      "title_synonyms": [
+        "Monster Maiden Caramelize",
+        "Meiden Kaiju Carameliser"
+      ],
+      "titles": [
+        {
+          "title": "Otome Kaijuu Caraméliser",
+          "type": "Default"
+        },
+        {
+          "title": "乙女怪獣キャラメリゼ",
+          "type": "Japanese"
+        },
+        {
+          "title": "Kaiju Girl Caramelise",
+          "type": "English"
+        },
+        {
+          "title": "Monster Maiden Caramelize, Meiden Kaiju Carameliser",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 137,
+        "dislikes": 13,
+        "duration": "PT1M38S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/ECtHlHde3EQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/ECtHlHde3EQ/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/ECtHlHde3EQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/ECtHlHde3EQ/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/ECtHlHde3EQ/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/ECtHlHde3EQ/sddefault.jpg"
+        },
+        "likes": 2764,
+        "privacy_status": "public",
+        "published_at": "2026-06-07T11:00:21.000Z",
+        "region_restriction": null,
+        "title": "【第2弾メインPV】TVアニメ『乙女怪獣キャラメリゼ』2026年7月2日(木)深夜1時28分〜 TBS、BS11、AT-Xにて順次放送開始",
+        "url": "https://www.youtube.com/watch?v=ECtHlHde3EQ",
+        "views": 161803,
+        "youtube_id": "ECtHlHde3EQ"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63150/Otome_Kaijuu_Caraméliser",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-07-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 7,
+            "year": 2026
+          },
+          "to": {
+            "day": 21,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jul 6, 2026 to Sep 21, 2026",
+        "to": "2026-09-21T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Mondays",
+        "string": "Mondays at 23:30 (JST)",
+        "time": "23:30",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "24 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 183,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 22,
+          "name": "Romance",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/22/Romance"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1352/158564.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/158564l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/158564t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1352/158564.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1352/158564l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1352/158564t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 56735,
+      "members": 68427,
+      "popularity": 3100,
+      "producers": [
+        {
+          "mal_id": 18,
+          "name": "Toei Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        },
+        {
+          "mal_id": 144,
+          "name": "Pony Canyon",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+        },
+        {
+          "mal_id": 166,
+          "name": "Movic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/166/Movic"
+        },
+        {
+          "mal_id": 460,
+          "name": "KlockWorx",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+        },
+        {
+          "mal_id": 517,
+          "name": "Asmik Ace",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/517/Asmik_Ace"
+        },
+        {
+          "mal_id": 843,
+          "name": "BS Fuji",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/843/BS_Fuji"
+        },
+        {
+          "mal_id": 1211,
+          "name": "Tokyo MX",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1211/Tokyo_MX"
+        },
+        {
+          "mal_id": 1604,
+          "name": "Sun TV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1604/Sun_TV"
+        },
+        {
+          "mal_id": 2074,
+          "name": "Bit grooove promotion",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2074/Bit_grooove_promotion"
+        }
+      ],
+      "rank": 7194,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.63,
+      "scored_by": 20651,
+      "season": "summer",
+      "source": "Light novel",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 439,
+          "name": "Project No.9",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/439/Project_No9"
+        }
+      ],
+      "synopsis": "I met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+      "title_english": "Oh Boy, Was I Wrong About Her",
+      "title_japanese": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+      "title_synonyms": [
+        "Tenbin",
+        "Tenkosaki",
+        "A Neat and Pretty Girl at the Transfer Destination Was a Childhood Friend Who Used to Think That She Was a Boy and Played With Her.",
+        "The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy"
+      ],
+      "titles": [
+        {
+          "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
+          "type": "Default"
+        },
+        {
+          "title": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+          "type": "Japanese"
+        },
+        {
+          "title": "Oh Boy, Was I Wrong About Her",
+          "type": "English"
+        },
+        {
+          "title": "Tenbin",
+          "type": "Synonym"
+        },
+        {
+          "title": "Tenkosaki",
+          "type": "Synonym"
+        },
+        {
+          "title": "A Neat and Pretty Girl at the Transfer Destination Was a Childhood Friend Who Used to Think That She Was a Boy and Played With Her.",
+          "type": "Synonym"
+        },
+        {
+          "title": "The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 105,
+        "dislikes": 0,
+        "duration": "PT1M36S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Gq5ps9WFkhM?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Gq5ps9WFkhM/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Gq5ps9WFkhM/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Gq5ps9WFkhM/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Gq5ps9WFkhM/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Gq5ps9WFkhM/sddefault.jpg"
+        },
+        "likes": null,
+        "privacy_status": "public",
+        "published_at": "2026-06-19T10:00:02.000Z",
+        "region_restriction": null,
+        "title": "TVアニメ『転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件』メインPV第2弾／2026年7月6日(月)23:30以降順次放送開始！",
+        "url": "https://www.youtube.com/watch?v=Gq5ps9WFkhM",
+        "views": 129253,
+        "youtube_id": "Gq5ps9WFkhM"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/56735/Tenkou-saki_no_Seiso_Karen_na_Bishoujo_ga_Mukashi_Danshi_to_Omotte_Issho_ni_Asonda_Osananajimi_Datta_Ken",
+      "year": 2026
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "has_next_page": true,
+    "items": {
+      "count": 25,
+      "per_page": 25,
+      "total": 205
+    },
+    "last_visible_page": 9
+  }
+}

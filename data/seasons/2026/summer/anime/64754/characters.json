@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/643928.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/643928.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/643928t.webp"
+          }
+        },
+        "mal_id": 302887,
+        "name": "Di, Mo",
+        "url": "https://myanimelist.net/character/302887/Mo_Di"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/91953.jpg"
+              }
+            },
+            "mal_id": 98389,
+            "name": "Shuo, Xiaochui",
+            "url": "https://myanimelist.net/people/98389/Xiaochui_Shuo"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643929.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643929.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643929t.webp"
+          }
+        },
+        "mal_id": 302888,
+        "name": "Shui Di",
+        "url": "https://myanimelist.net/character/302888/Shui_Di"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89694.jpg"
+              }
+            },
+            "mal_id": 63101,
+            "name": "Hao, Xianghai",
+            "url": "https://myanimelist.net/people/63101/Xianghai_Hao"
+          }
+        }
+      ]
+    }
+  ]
+}

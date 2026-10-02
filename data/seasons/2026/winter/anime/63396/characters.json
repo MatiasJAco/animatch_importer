@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/621390.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/621390.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/621390t.webp"
+          }
+        },
+        "mal_id": 288717,
+        "name": "Higure, Akane",
+        "url": "https://myanimelist.net/character/288717/Akane_Higure"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88722.jpg"
+              }
+            },
+            "mal_id": 92944,
+            "name": "Miyazaki, Erika",
+            "url": "https://myanimelist.net/people/92944/Erika_Miyazaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621389.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621389.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/621389t.webp"
+          }
+        },
+        "mal_id": 288718,
+        "name": "Higure, Sui",
+        "url": "https://myanimelist.net/character/288718/Sui_Higure"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 114,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88723.jpg"
+              }
+            },
+            "mal_id": 59872,
+            "name": "Isekaijoucho",
+            "url": "https://myanimelist.net/people/59872/Isekaijoucho"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621388.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/621388.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/621388t.webp"
+          }
+        },
+        "mal_id": 289455,
+        "name": "Mari",
+        "url": "https://myanimelist.net/character/289455/Mari"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88725.jpg"
+              }
+            },
+            "mal_id": 92945,
+            "name": "Sugimoto, Arisa",
+            "url": "https://myanimelist.net/people/92945/Arisa_Sugimoto"
+          }
+        }
+      ]
+    }
+  ]
+}

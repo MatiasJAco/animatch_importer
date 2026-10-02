@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/646169.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/646169.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/646169t.webp"
+          }
+        },
+        "mal_id": 304411,
+        "name": "Jimmy",
+        "url": "https://myanimelist.net/character/304411/Jimmy"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 35030,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/82978.jpg"
+              }
+            },
+            "mal_id": 86,
+            "name": "Fukuyama, Jun",
+            "url": "https://myanimelist.net/people/86/Jun_Fukuyama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/646172.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/646172.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/646172t.webp"
+          }
+        },
+        "mal_id": 304410,
+        "name": "Senno, Fushigi",
+        "url": "https://myanimelist.net/character/304410/Fushigi_Senno"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 21,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89937.jpg"
+              }
+            },
+            "mal_id": 51431,
+            "name": "Ishibashi, Hiiro",
+            "url": "https://myanimelist.net/people/51431/Hiiro_Ishibashi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/646173.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/646173.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/646173t.webp"
+          }
+        },
+        "mal_id": 304413,
+        "name": "Blue Umbrella Man",
+        "url": "https://myanimelist.net/character/304413/Blue_Umbrella_Man"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 45586,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/48785.jpg"
+              }
+            },
+            "mal_id": 270,
+            "name": "Okamoto, Nobuhiko",
+            "url": "https://myanimelist.net/people/270/Nobuhiko_Okamoto"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/646174.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/646174.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/646174t.webp"
+          }
+        },
+        "mal_id": 304412,
+        "name": "Himitsu",
+        "url": "https://myanimelist.net/character/304412/Himitsu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 69822,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/86542.jpg"
+              }
+            },
+            "mal_id": 869,
+            "name": "Hayami, Saori",
+            "url": "https://myanimelist.net/people/869/Saori_Hayami"
+          }
+        }
+      ]
+    }
+  ]
+}

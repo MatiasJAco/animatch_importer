@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/521773.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/521773.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/521773t.webp"
+          }
+        },
+        "mal_id": 192597,
+        "name": "Eru, Romantica",
+        "url": "https://myanimelist.net/character/192597/Romantica_Eru"
+      },
+      "favorites": 55,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1141,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/74534.jpg"
+              }
+            },
+            "mal_id": 48122,
+            "name": "Suzushiro, Sayumi",
+            "url": "https://myanimelist.net/people/48122/Sayumi_Suzushiro"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/530198.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/530198.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/530198t.webp"
+          }
+        },
+        "mal_id": 190508,
+        "name": "Herrman, Desir",
+        "url": "https://myanimelist.net/character/190508/Desir_Herrman"
+      },
+      "favorites": 109,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1248,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60688.jpg"
+              }
+            },
+            "mal_id": 494,
+            "name": "Terashima, Takuma",
+            "url": "https://myanimelist.net/people/494/Takuma_Terashima"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/521776.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/521776.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/521776t.webp"
+          }
+        },
+        "mal_id": 200634,
+        "name": "Schneider, Pram",
+        "url": "https://myanimelist.net/character/200634/Pram_Schneider"
+      },
+      "favorites": 48,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 217,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/91403.jpg"
+              }
+            },
+            "mal_id": 39938,
+            "name": "Fujiwara, Natsumi",
+            "url": "https://myanimelist.net/people/39938/Natsumi_Fujiwara"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/521777.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/521777.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/521777t.webp"
+          }
+        },
+        "mal_id": 234491,
+        "name": "Kingscrown, Azest",
+        "url": "https://myanimelist.net/character/234491/Azest_Kingscrown"
+      },
+      "favorites": 47,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 8781,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/65839.jpg"
+              }
+            },
+            "mal_id": 11787,
+            "name": "Seto, Asami",
+            "url": "https://myanimelist.net/people/11787/Asami_Seto"
+          }
+        }
+      ]
+    }
+  ]
+}

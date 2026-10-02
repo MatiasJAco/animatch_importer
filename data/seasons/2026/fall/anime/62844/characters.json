@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/511065.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/511065.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/511065t.webp"
+          }
+        },
+        "mal_id": 156096,
+        "name": "Jinshi",
+        "url": "https://myanimelist.net/character/156096/Jinshi"
+      },
+      "favorites": 3281,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 810,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/74450.jpg"
+              }
+            },
+            "mal_id": 48047,
+            "name": "Ootsuka, Takeo",
+            "url": "https://myanimelist.net/people/48047/Takeo_Ootsuka"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/371204.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/371204.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/371204t.webp"
+          }
+        },
+        "mal_id": 155904,
+        "name": "Maomao",
+        "url": "https://myanimelist.net/character/155904/Maomao"
+      },
+      "favorites": 26220,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 37143,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/67808.jpg"
+              }
+            },
+            "mal_id": 6686,
+            "name": "Yuuki, Aoi",
+            "url": "https://myanimelist.net/people/6686/Aoi_Yuuki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/637745.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/637745.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/637745t.webp"
+          }
+        },
+        "mal_id": 299455,
+        "name": "Muqing",
+        "url": "https://myanimelist.net/character/299455/Muqing"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 8383,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/92267.jpg"
+              }
+            },
+            "mal_id": 655,
+            "name": "Ise, Mariya",
+            "url": "https://myanimelist.net/people/655/Mariya_Ise"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/643151.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/643151.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/643151t.webp"
+          }
+        },
+        "mal_id": 302432,
+        "name": "Luoqing",
+        "url": "https://myanimelist.net/character/302432/Luoqing"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643150.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/643150.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/643150t.webp"
+          }
+        },
+        "mal_id": 302431,
+        "name": "Yinshan",
+        "url": "https://myanimelist.net/character/302431/Yinshan"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

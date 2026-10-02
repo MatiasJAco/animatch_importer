@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/565181.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/565181.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/565181t.webp"
+          }
+        },
+        "mal_id": 257265,
+        "name": "Bakphoon",
+        "url": "https://myanimelist.net/character/257265/Bakphoon"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/531399.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/531399t.webp"
+          }
+        },
+        "mal_id": 239072,
+        "name": "Karakara",
+        "url": "https://myanimelist.net/character/239072/Karakara"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

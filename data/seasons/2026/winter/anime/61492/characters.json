@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/463168.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/463168.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/463168t.webp"
+          }
+        },
+        "mal_id": 205404,
+        "name": "Lubicchi",
+        "url": "https://myanimelist.net/character/205404/Lubicchi"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/87502.jpg"
+              }
+            },
+            "mal_id": 90904,
+            "name": "Nagase, Yuzuna",
+            "url": "https://myanimelist.net/people/90904/Yuzuna_Nagase"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/463167.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/463167.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/463167t.webp"
+          }
+        },
+        "mal_id": 204920,
+        "name": "Poupelle",
+        "url": "https://myanimelist.net/character/204920/Poupelle"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/73532.jpg"
+              }
+            },
+            "mal_id": 63654,
+            "name": "Kubota, Masataka",
+            "url": "https://myanimelist.net/people/63654/Masataka_Kubota"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 181157,
+        "name": "Gas",
+        "url": "https://myanimelist.net/character/181157/Gas"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53521.jpg"
+              }
+            },
+            "mal_id": 48270,
+            "name": "Yoshihara, Mitsuo",
+            "url": "https://myanimelist.net/people/48270/Mitsuo_Yoshihara"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 285847,
+        "name": "Mofa",
+        "url": "https://myanimelist.net/character/285847/Mofa"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 91855,
+            "name": "MEGUMI",
+            "url": "https://myanimelist.net/people/91855/MEGUMI"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 285846,
+        "name": "Nagi",
+        "url": "https://myanimelist.net/character/285846/Nagi"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88099.jpg"
+              }
+            },
+            "mal_id": 91854,
+            "name": "Koshiba, Fuuka",
+            "url": "https://myanimelist.net/people/91854/Fuuka_Koshiba"
+          }
+        }
+      ]
+    }
+  ]
+}

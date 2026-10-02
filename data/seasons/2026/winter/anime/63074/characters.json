@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/626142.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/626142.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/626142t.webp"
+          }
+        },
+        "mal_id": 292186,
+        "name": "Inukami, Yuuna",
+        "url": "https://myanimelist.net/character/292186/Yuuna_Inukami"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 35,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/83664.jpg"
+              }
+            },
+            "mal_id": 60840,
+            "name": "Hinata, Yuka",
+            "url": "https://myanimelist.net/people/60840/Yuka_Hinata"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/259167.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/259167.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/259167t.webp"
+          }
+        },
+        "mal_id": 92787,
+        "name": "Storyteller",
+        "url": "https://myanimelist.net/character/92787/Storyteller"
+      },
+      "favorites": 72,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 42,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/64080.jpg"
+              }
+            },
+            "mal_id": 6372,
+            "name": "Tsuda, Kanji",
+            "url": "https://myanimelist.net/people/6372/Kanji_Tsuda"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/516314.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/516314.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/516314t.webp"
+          }
+        },
+        "mal_id": 232068,
+        "name": "Taro-chan",
+        "url": "https://myanimelist.net/character/232068/Taro-chan"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

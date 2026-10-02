@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/576865.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/576865.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/576865t.webp"
+          }
+        },
+        "mal_id": 263133,
+        "name": "Amano, Taichi",
+        "url": "https://myanimelist.net/character/263133/Taichi_Amano"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/640138.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/640138.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/640138t.webp"
+          }
+        },
+        "mal_id": 298486,
+        "name": "Arles",
+        "url": "https://myanimelist.net/character/298486/Arles"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 298485,
+        "name": "Astraea",
+        "url": "https://myanimelist.net/character/298485/Astraea"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 298484,
+        "name": "Hathor",
+        "url": "https://myanimelist.net/character/298484/Hathor"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/474269.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/474269.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/474269t.webp"
+          }
+        },
+        "mal_id": 211084,
+        "name": "Aoe, Mai",
+        "url": "https://myanimelist.net/character/211084/Mai_Aoe"
+      },
+      "favorites": 8,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 17,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/78555.jpg"
+              }
+            },
+            "mal_id": 70708,
+            "name": "Ayane, Mako",
+            "url": "https://myanimelist.net/people/70708/Mako_Ayane"
+          }
+        }
+      ]
+    }
+  ]
+}

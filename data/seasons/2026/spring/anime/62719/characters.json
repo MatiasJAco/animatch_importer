@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/457538.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/457538.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/457538t.webp"
+          }
+        },
+        "mal_id": 151865,
+        "name": "Mo, Fan",
+        "url": "https://myanimelist.net/character/151865/Fan_Mo"
+      },
+      "favorites": 221,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/596576.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/596576.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/596576t.webp"
+          }
+        },
+        "mal_id": 273656,
+        "name": "Ai, Tutu",
+        "url": "https://myanimelist.net/character/273656/Tutu_Ai"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/636964.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/636964.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/636964t.webp"
+          }
+        },
+        "mal_id": 273307,
+        "name": "Liu, Ru",
+        "url": "https://myanimelist.net/character/273307/Ru_Liu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/51679.jpg"
+              }
+            },
+            "mal_id": 47758,
+            "name": "Du, Qingqing",
+            "url": "https://myanimelist.net/people/47758/Qingqing_Du"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/457475.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/457475.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/457475t.webp"
+          }
+        },
+        "mal_id": 182958,
+        "name": "Mu, Nujiao",
+        "url": "https://myanimelist.net/character/182958/Nujiao_Mu"
+      },
+      "favorites": 5,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/51679.jpg"
+              }
+            },
+            "mal_id": 47758,
+            "name": "Du, Qingqing",
+            "url": "https://myanimelist.net/people/47758/Qingqing_Du"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/457540.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/457540.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/457540t.webp"
+          }
+        },
+        "mal_id": 157220,
+        "name": "Zhang, Xiaohou",
+        "url": "https://myanimelist.net/character/157220/Xiaohou_Zhang"
+      },
+      "favorites": 10,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 4,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/51677.jpg"
+              }
+            },
+            "mal_id": 47627,
+            "name": "Shen, Dawei",
+            "url": "https://myanimelist.net/people/47627/Dawei_Shen"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/596574.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/596574.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/596574t.webp"
+          }
+        },
+        "mal_id": 182960,
+        "name": "Zhao, Manyan",
+        "url": "https://myanimelist.net/character/182960/Manyan_Zhao"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/89522.jpg"
+              }
+            },
+            "mal_id": 94170,
+            "name": "Ke, Muqing",
+            "url": "https://myanimelist.net/people/94170/Muqing_Ke"
+          }
+        }
+      ]
+    }
+  ]
+}

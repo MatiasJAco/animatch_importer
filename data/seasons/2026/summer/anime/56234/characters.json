@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/637856.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/637856.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/637856t.webp"
+          }
+        },
+        "mal_id": 299508,
+        "name": "Lumi",
+        "url": "https://myanimelist.net/character/299508/Lumi"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/637860.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/637860.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/637860t.webp"
+          }
+        },
+        "mal_id": 299510,
+        "name": "Kai",
+        "url": "https://myanimelist.net/character/299510/Kai"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/637864.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/637864.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/637864t.webp"
+          }
+        },
+        "mal_id": 299512,
+        "name": "Yuen",
+        "url": "https://myanimelist.net/character/299512/Yuen"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/53553.jpg"
+              }
+            },
+            "mal_id": 48286,
+            "name": "Ma, Banma",
+            "url": "https://myanimelist.net/people/48286/Banma_Ma"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/637858.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/637858.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/637858t.webp"
+          }
+        },
+        "mal_id": 299509,
+        "name": "Yuna",
+        "url": "https://myanimelist.net/character/299509/Yuna"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

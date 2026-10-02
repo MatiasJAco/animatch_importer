@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621480.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621480.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/621480t.webp"
+          }
+        },
+        "mal_id": 289544,
+        "name": "Lele",
+        "url": "https://myanimelist.net/character/289544/Lele"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621481.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/621481.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/621481t.webp"
+          }
+        },
+        "mal_id": 289545,
+        "name": "Xiaoliang",
+        "url": "https://myanimelist.net/character/289545/Xiaoliang"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/646082.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/646082.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/646082t.webp"
+          }
+        },
+        "mal_id": 304368,
+        "name": "Dan, Remielle",
+        "url": "https://myanimelist.net/character/304368/Remielle_Dan"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/597058.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/597058.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/597058t.webp"
+          }
+        },
+        "mal_id": 262638,
+        "name": "Hoshimi, Miyabi",
+        "url": "https://myanimelist.net/character/262638/Miyabi_Hoshimi"
+      },
+      "favorites": 52,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/646096.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/646096.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/646096t.webp"
+          }
+        },
+        "mal_id": 304374,
+        "name": "Seed",
+        "url": "https://myanimelist.net/character/304374/Seed"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/583317.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/583317.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/583317t.webp"
+          }
+        },
+        "mal_id": 231020,
+        "name": "Gardihaus, Roni",
+        "url": "https://myanimelist.net/character/231020/Roni_Gardihaus"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 96010,
+            "name": "Nishiyama, Yuuki",
+            "url": "https://myanimelist.net/people/96010/Yuuki_Nishiyama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/640300.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/640300.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/640300t.webp"
+          }
+        },
+        "mal_id": 266732,
+        "name": "Imp",
+        "url": "https://myanimelist.net/character/266732/Imp"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 96011,
+            "name": "Houdentei, Senmai",
+            "url": "https://myanimelist.net/people/96011/Senmai_Houdentei"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/583425.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/583425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/583425t.webp"
+          }
+        },
+        "mal_id": 231045,
+        "name": "Jeane, Amona",
+        "url": "https://myanimelist.net/character/231045/Amona_Jeane"
+      },
+      "favorites": 6,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 96009,
+            "name": "Takano, Rei",
+            "url": "https://myanimelist.net/people/96009/Rei_Takano"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/627701.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/627701.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/627701t.webp"
+          }
+        },
+        "mal_id": 238959,
+        "name": "Lililala, Eury",
+        "url": "https://myanimelist.net/character/238959/Eury_Lililala"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 98309,
+            "name": "Yashika, Maya",
+            "url": "https://myanimelist.net/people/98309/Maya_Yashika"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/583322.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/583322.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/583322t.webp"
+          }
+        },
+        "mal_id": 238958,
+        "name": "Parvain, Haru",
+        "url": "https://myanimelist.net/character/238958/Haru_Parvain"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 98310,
+            "name": "Nishimura, Akane",
+            "url": "https://myanimelist.net/people/98310/Akane_Nishimura"
+          }
+        }
+      ]
+    }
+  ]
+}

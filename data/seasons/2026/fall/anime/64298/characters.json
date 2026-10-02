@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/561887.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/561887.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/561887t.webp"
+          }
+        },
+        "mal_id": 255686,
+        "name": "Kiryuuin, Kaede",
+        "url": "https://myanimelist.net/character/255686/Kaede_Kiryuuin"
+      },
+      "favorites": 16,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 46928,
+            "name": "Ayumi, Sarah",
+            "url": "https://myanimelist.net/people/46928/Sarah_Ayumi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 301486,
+        "name": "Takahashi, Satoru",
+        "url": "https://myanimelist.net/character/301486/Satoru_Takahashi"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 81750,
+            "name": "Shitou, Harumichi",
+            "url": "https://myanimelist.net/people/81750/Harumichi_Shitou"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/521224.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/521224.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/521224t.webp"
+          }
+        },
+        "mal_id": 234256,
+        "name": "Yukino, Mifuyu",
+        "url": "https://myanimelist.net/character/234256/Mifuyu_Yukino"
+      },
+      "favorites": 78,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 97352,
+            "name": "Kitami, Rikka",
+            "url": "https://myanimelist.net/people/97352/Rikka_Kitami"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2026 @@
+{
+  "data": [
+    {
+      "aired": {
+        "from": "2026-06-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 5, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1876/159057.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1876/159057l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1876/159057t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1876/159057.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1876/159057l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1876/159057t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64641,
+      "members": 170,
+      "popularity": 25001,
+      "producers": [],
+      "rank": 15855,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 61,
+      "season": "spring",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1961,
+          "name": "Creatures",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1961/Creatures"
+        }
+      ],
+      "synopsis": "Litten found a nice box to rest in. However, they're not the only one with eyes set on it.",
+      "themes": [],
+      "title": "Box Party",
+      "title_english": "Purrfect Box",
+      "title_japanese": "ボックスパーティー",
+      "title_synonyms": [
+        "Pokemon Fun Video"
+      ],
+      "titles": [
+        {
+          "title": "Box Party",
+          "type": "Default"
+        },
+        {
+          "title": "ボックスパーティー",
+          "type": "Japanese"
+        },
+        {
+          "title": "Purrfect Box",
+          "type": "English"
+        },
+        {
+          "title": "Pokemon Fun Video",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64641/Box_Party",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": 17,
+            "month": 9,
+            "year": 2026
+          }
+        },
+        "string": "Jun 2, 2026 to Sep 17, 2026",
+        "to": "2026-09-17T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "3 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1513/158872.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/158872l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/158872t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1513/158872.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1513/158872l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1513/158872t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64537,
+      "members": 169,
+      "popularity": 25013,
+      "producers": [
+        {
+          "mal_id": 150,
+          "name": "Sanrio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+        }
+      ],
+      "rank": 18597,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 37,
+      "season": "spring",
+      "source": "Other",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2818,
+          "name": "qmotri",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2818/qmotri"
+        }
+      ],
+      "synopsis": "Second season of Let's Roll, Cinnamoroll!.",
+      "themes": [],
+      "title": "Let's Roll, Cinnamoroll! 2nd Season",
+      "title_english": "Let's Roll, Cinnamoroll! 2nd Season",
+      "title_japanese": "Let's Roll, Cinnamoroll!",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Let's Roll, Cinnamoroll! 2nd Season",
+          "type": "Default"
+        },
+        {
+          "title": "Let's Roll, Cinnamoroll!",
+          "type": "Japanese"
+        },
+        {
+          "title": "Let's Roll, Cinnamoroll! 2nd Season",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64537/Let_s_Roll_Cinnamoroll_2nd_Season",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-10T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": 24,
+            "month": 6,
+            "year": 2026
+          }
+        },
+        "string": "Jun 10, 2026 to Jun 24, 2026",
+        "to": "2026-06-24T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 min per ep",
+      "episodes": 3,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 28,
+          "name": "Boys Love",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1461/158986.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1461/158986l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1461/158986t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1461/158986.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1461/158986l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1461/158986t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64607,
+      "members": 135,
+      "popularity": 26463,
+      "producers": [],
+      "rank": 16872,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 28,
+      "season": "spring",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2071,
+          "name": "AQUA ARIS",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2071/AQUA_ARIS"
+        }
+      ],
+      "synopsis": "Eleventh season of Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita.",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 11th Season",
+      "title_english": null,
+      "title_japanese": "腐男子召喚～異世界で神獣にハメられました～ 11th",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita 11th Season",
+          "type": "Default"
+        },
+        {
+          "title": "腐男子召喚～異世界で神獣にハメられました～ 11th",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64607/Fudanshi_Shoukan__Isekai_de_Shinjuu_ni_Hameraremashita_11th_Season",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-03T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 3,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 3, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "1 hr",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 7,
+          "name": "Mystery",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/7/Mystery"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1664/159166.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1664/159166l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1664/159166t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1664/159166.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1664/159166l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1664/159166t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64678,
+      "members": 134,
+      "popularity": 26556,
+      "producers": [],
+      "rank": 21066,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 8,
+      "season": "spring",
+      "source": "Novel",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [],
+      "title": "Sunlyejadeuleun Wae Dolaoji Anhneunga",
+      "title_english": "Pilgrims",
+      "title_japanese": "순례자들은 왜 돌아오지 않는가",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Sunlyejadeuleun Wae Dolaoji Anhneunga",
+          "type": "Default"
+        },
+        {
+          "title": "순례자들은 왜 돌아오지 않는가",
+          "type": "Japanese"
+        },
+        {
+          "title": "Pilgrims",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": 84,
+        "duration": "PT1M1S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/J7B7uKJzAh0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/J7B7uKJzAh0/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/J7B7uKJzAh0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/J7B7uKJzAh0/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/J7B7uKJzAh0/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/J7B7uKJzAh0/sddefault.jpg"
+        },
+        "likes": 570,
+        "privacy_status": "public",
+        "published_at": "2026-05-16T03:00:16.000Z",
+        "region_restriction": null,
+        "title": "[순례자들은 왜 돌아오지 않는가] 메인 예고편 [Pilgrims] Official Main Trailer",
+        "url": "https://www.youtube.com/watch?v=J7B7uKJzAh0",
+        "views": 19435,
+        "youtube_id": "J7B7uKJzAh0"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/64678/Sunlyejadeuleun_Wae_Dolaoji_Anhneunga",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 4, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 min per ep",
+      "episodes": 8,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1525/158307.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/158307l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/158307t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1525/158307.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1525/158307l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1525/158307t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64325,
+      "members": 131,
+      "popularity": 26717,
+      "producers": [],
+      "rank": 19809,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 12,
+      "season": "spring",
+      "source": "Other",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 247,
+          "name": "Shin-Ei Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+        }
+      ],
+      "synopsis": "Lotte's snack brand Pie no Mi animated series which will be released on Lotte's official YouTube channel, with one episode released each month.",
+      "themes": [
+        {
+          "mal_id": 71,
+          "name": "Pets",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/71/Pets"
+        }
+      ],
+      "title": "Pie no Mi: Oshi no Mori e Youkoso!",
+      "title_english": null,
+      "title_japanese": "パイの実 おしの森へようこそ！",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Pie no Mi: Oshi no Mori e Youkoso!",
+          "type": "Default"
+        },
+        {
+          "title": "パイの実 おしの森へようこそ！",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64325/Pie_no_Mi__Oshi_no_Mori_e_Youkoso",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-19T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 19, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "12 min per ep",
+      "episodes": 6,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1919/159172.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1919/159172l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1919/159172t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1919/159172.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1919/159172l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1919/159172t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64684,
+      "members": 98,
+      "popularity": 29007,
+      "producers": [],
+      "rank": 17710,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 10,
+      "season": "spring",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 999,
+          "name": "Studio Animal",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/999/Studio_Animal"
+        }
+      ],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "title": "Isekai Gukbap Master",
+      "title_english": null,
+      "title_japanese": "이세계 국밥 마스터",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Isekai Gukbap Master",
+          "type": "Default"
+        },
+        {
+          "title": "이세계 국밥 마스터",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": 38,
+        "dislikes": 2,
+        "duration": "PT36S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/TDY4Zw0v3P0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/TDY4Zw0v3P0/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/TDY4Zw0v3P0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/TDY4Zw0v3P0/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/TDY4Zw0v3P0/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/TDY4Zw0v3P0/sddefault.jpg"
+        },
+        "likes": 163,
+        "privacy_status": "public",
+        "published_at": "2026-06-15T08:29:47.000Z",
+        "region_restriction": null,
+        "title": "'이세계 국밥 마스터' 투니버스 예고편",
+        "url": "https://www.youtube.com/watch?v=TDY4Zw0v3P0",
+        "views": 14214,
+        "youtube_id": "TDY4Zw0v3P0"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/64684/Isekai_Gukbap_Master",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 14, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "32 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1602/159169.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/159169l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/159169t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1602/159169.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1602/159169l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1602/159169t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64681,
+      "members": 88,
+      "popularity": 29918,
+      "producers": [],
+      "rank": 16435,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 5,
+      "season": "spring",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [],
+      "title": "Dear My Hero",
+      "title_english": "Dear My Hero",
+      "title_japanese": "디어 마이 히어로",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Dear My Hero",
+          "type": "Default"
+        },
+        {
+          "title": "디어 마이 히어로",
+          "type": "Japanese"
+        },
+        {
+          "title": "Dear My Hero",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 408,
+        "dislikes": 82,
+        "duration": "PT35S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/4s0b-IUL4fQ?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/4s0b-IUL4fQ/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/4s0b-IUL4fQ/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/4s0b-IUL4fQ/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/4s0b-IUL4fQ/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/4s0b-IUL4fQ/sddefault.jpg"
+        },
+        "likes": 974,
+        "privacy_status": "public",
+        "published_at": "2026-05-07T08:59:57.000Z",
+        "region_restriction": null,
+        "title": "메이플스토리 극장판 애니메이션 | Dear My Hero 예고편",
+        "url": "https://www.youtube.com/watch?v=4s0b-IUL4fQ",
+        "views": 105507,
+        "youtube_id": "4s0b-IUL4fQ"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/64681/Dear_My_Hero",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-05-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 5,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 1, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "5 min per ep",
+      "episodes": 10,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1943/159715.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1943/159715l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1943/159715t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1943/159715.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1943/159715l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1943/159715t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64866,
+      "members": 66,
+      "popularity": 30295,
+      "producers": [],
+      "rank": 16149,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 7,
+      "season": "spring",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 53,
+          "name": "Childcare",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/53/Childcare"
+        }
+      ],
+      "title": "Chinhage Jinaeja",
+      "title_english": null,
+      "title_japanese": "친하게 지내자",
+      "title_synonyms": [
+        "Let's Get Along"
+      ],
+      "titles": [
+        {
+          "title": "Chinhage Jinaeja",
+          "type": "Default"
+        },
+        {
+          "title": "친하게 지내자",
+          "type": "Japanese"
+        },
+        {
+          "title": "Let's Get Along",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 1,
+        "dislikes": 0,
+        "duration": "PT23S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/E_lPUnnZnY8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/E_lPUnnZnY8/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/E_lPUnnZnY8/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/E_lPUnnZnY8/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/E_lPUnnZnY8/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/E_lPUnnZnY8/sddefault.jpg"
+        },
+        "likes": 99,
+        "privacy_status": "public",
+        "published_at": "2026-04-25T08:00:10.000Z",
+        "region_restriction": null,
+        "title": "｢친하게 지내자｣ | 캐릭터 PV 공개 | LAFTEL ONLY & LAFTEL Original",
+        "url": "https://www.youtube.com/watch?v=E_lPUnnZnY8",
+        "views": 7674,
+        "youtube_id": "E_lPUnnZnY8"
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64866/Chinhage_Jinaeja",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-05-16T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 16,
+            "month": 5,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 16, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1004/158063.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/158063l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/158063t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1004/158063.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1004/158063l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1004/158063t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64221,
+      "members": 65,
+      "popularity": 30318,
+      "producers": [],
+      "rank": 19069,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 21,
+      "season": "spring",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "We will meet again in the boundless sea of stars.\n\n(Source: Official YouTube Channel)",
+      "themes": [],
+      "title": "Ming Chao: Tiaowang Zhemen",
+      "title_english": "Wuthering Waves: Farwatchers",
+      "title_japanese": "《鳴潮》拉海洛紀念動畫 | 眺望者們",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Ming Chao: Tiaowang Zhemen",
+          "type": "Default"
+        },
+        {
+          "title": "《鳴潮》拉海洛紀念動畫 | 眺望者們",
+          "type": "Japanese"
+        },
+        {
+          "title": "Wuthering Waves: Farwatchers",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64221/Ming_Chao__Tiaowang_Zhemen",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": 23,
+            "month": 6,
+            "year": 2026
+          }
+        },
+        "string": "Mar 2, 2026 to Jun 23, 2026",
+        "to": "2026-06-23T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "24 min per ep",
+      "episodes": 26,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1951/159167.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/159167l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/159167t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1951/159167.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1951/159167l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1951/159167t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64679,
+      "members": 64,
+      "popularity": 30321,
+      "producers": [],
+      "rank": 16958,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 8,
+      "season": "spring",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 18,
+          "name": "Mecha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "title": "Gangcheolsobangdae Fire Robo Z",
+      "title_english": "Firerobo-Z",
+      "title_japanese": "강철소방대 파이어로보Z",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Gangcheolsobangdae Fire Robo Z",
+          "type": "Default"
+        },
+        {
+          "title": "강철소방대 파이어로보Z",
+          "type": "Japanese"
+        },
+        {
+          "title": "Firerobo-Z",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/64679/Gangcheolsobangdae_Fire_Robo_Z",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-06-27T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 27,
+            "month": 6,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jun 27, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 hr 31 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        },
+        {
+          "mal_id": 30,
+          "name": "Sports",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/30/Sports"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1789/159161.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1789/159161l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1789/159161t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1789/159161.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1789/159161l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1789/159161t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64673,
+      "members": 56,
+      "popularity": 30391,
+      "producers": [],
+      "rank": 20144,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 4,
+      "season": "spring",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Wang Cheng, a prodigy soccer player, is the core of the club's attack. Amidst the praise, he becomes arrogant, leading to a loss in a crucial match. Frustrated, he and his friend Ze Yang accept the challenge from the mysterious Uncle Ai's robot team. During the match, he finally understands the value of teamwork and ultimately returns to the team to win the victory.\n\n(Source: Douban, translated)",
+      "themes": [
+        {
+          "mal_id": 77,
+          "name": "Team Sports",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+        }
+      ],
+      "title": "Rexue Zuqiu Shaonian: Yingxiong Chusheng",
+      "title_english": null,
+      "title_japanese": "热血足球少年·英雄初升",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Rexue Zuqiu Shaonian: Yingxiong Chusheng",
+          "type": "Default"
+        },
+        {
+          "title": "热血足球少年·英雄初升",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/64673/Rexue_Zuqiu_Shaonian__Yingxiong_Chusheng",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-13T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": 22,
+            "month": 5,
+            "year": 2026
+          }
+        },
+        "string": "Mar 13, 2026 to May 22, 2026",
+        "to": "2026-05-22T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "11 min per ep",
+      "episodes": 20,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1511/159168.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/159168l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/159168t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1511/159168.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1511/159168l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1511/159168t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64680,
+      "members": 56,
+      "popularity": 30385,
+      "producers": [],
+      "rank": 17022,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 5,
+      "season": "spring",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 51,
+          "name": "Anthropomorphic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        }
+      ],
+      "title": "Gigabuilder",
+      "title_english": "GigaBuilder",
+      "title_japanese": "기가빌더",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Gigabuilder",
+          "type": "Default"
+        },
+        {
+          "title": "기가빌더",
+          "type": "Japanese"
+        },
+        {
+          "title": "GigaBuilder",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/64680/Gigabuilder",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-05-15T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 15,
+            "month": 5,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "May 15, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "1 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1829/158060.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1829/158060l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1829/158060t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1829/158060.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1829/158060l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1829/158060t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64218,
+      "members": 52,
+      "popularity": 30409,
+      "producers": [],
+      "rank": 15853,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 15,
+      "season": "spring",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Special animation celebrating the 24th Anniversary of Final Fantasy XI.",
+      "themes": [],
+      "title": "Bouken wa Tsuzuiteiru.",
+      "title_english": "Our Adventure Never Ends.",
+      "title_japanese": "冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie",
+      "title_synonyms": [
+        "Final Fantasy XI 24th Anniversary Movie"
+      ],
+      "titles": [
+        {
+          "title": "Bouken wa Tsuzuiteiru.",
+          "type": "Default"
+        },
+        {
+          "title": "冒険は続いている。FINAL FANTASY XI 24th Anniversary Movie",
+          "type": "Japanese"
+        },
+        {
+          "title": "Our Adventure Never Ends.",
+          "type": "English"
+        },
+        {
+          "title": "Final Fantasy XI 24th Anniversary Movie",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "Special",
+      "url": "https://myanimelist.net/anime/64218/Bouken_wa_Tsuzuiteiru",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-04-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 23, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "3 min per ep",
+      "episodes": 52,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1205/159895.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1205/159895l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1205/159895t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1205/159895.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1205/159895l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1205/159895t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64914,
+      "members": 45,
+      "popularity": 30458,
+      "producers": [],
+      "rank": 22474,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 2,
+      "season": "spring",
+      "source": "Original",
+      "status": "Currently Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [],
+      "title": "Yi Na He Qiaqia 3rd Season",
+      "title_english": null,
+      "title_japanese": "依娜和恰恰 第3季",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Yi Na He Qiaqia 3rd Season",
+          "type": "Default"
+        },
+        {
+          "title": "依娜和恰恰 第3季",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64914/Yi_Na_He_Qiaqia_3rd_Season",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-04-21T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 21,
+            "month": 4,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Apr 21, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "3 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1295/160156.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1295/160156l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1295/160156t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1295/160156.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1295/160156l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1295/160156t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 65029,
+      "members": 44,
+      "popularity": 30465,
+      "producers": [],
+      "rank": 22468,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 5,
+      "season": "spring",
+      "source": "Game",
+      "status": "Currently Airing",
+      "studios": [],
+      "synopsis": "Character animated shorts for the game Neverness to Everness.",
+      "themes": [
+        {
+          "mal_id": 82,
+          "name": "Urban Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/82/Urban_Fantasy"
+        }
+      ],
+      "title": "Yi Huan: Juese Duanpian",
+      "title_english": "NTE Character Animated Shorts",
+      "title_japanese": "異環 角色短片",
+      "title_synonyms": [
+        "Neverness to Everness"
+      ],
+      "titles": [
+        {
+          "title": "Yi Huan: Juese Duanpian",
+          "type": "Default"
+        },
+        {
+          "title": "異環 角色短片",
+          "type": "Japanese"
+        },
+        {
+          "title": "NTE Character Animated Shorts",
+          "type": "English"
+        },
+        {
+          "title": "Neverness to Everness",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/65029/Yi_Huan__Juese_Duanpian",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-05-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 5,
+            "year": 2026
+          },
+          "to": {
+            "day": 5,
+            "month": 5,
+            "year": 2026
+          }
+        },
+        "string": "May 1, 2026 to May 5, 2026",
+        "to": "2026-05-05T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "9 min per ep",
+      "episodes": 10,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1403/160170.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/160170l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/160170t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1403/160170.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1403/160170l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1403/160170t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 65001,
+      "members": 37,
+      "popularity": 30524,
+      "producers": [],
+      "rank": 22454,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 6,
+      "season": "spring",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 3400,
+          "name": "Elite Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3400/Elite_Animation"
+        }
+      ],
+      "synopsis": "In the realm of Yeloli Fairyland thousands of years ago, the Golden Prince and Princess Luoli met by chance. One revered power, while the other guarded love; drawn together by destiny, gold and a sincere heart quietly converged. Yet, as Mandora’s greed and schemes closed in, gold, the lust for power, and love became intertwined in an inescapable fate. With the royal house on the brink of collapse and a storm gathering, this encounter—born of a stirring of the heart—would ultimately serve as the prologue to rewriting the destiny of Fairyland. Could they hold fast to one another amidst the peril?\n\n(Source: Mango TV, translated)",
+      "themes": [],
+      "title": "Yeluoli: Jin Liu Xin",
+      "title_english": "The Fairy Dream of Yeloli: Golden Heart",
+      "title_japanese": "叶罗丽金鎏心",
+      "title_synonyms": [
+        "精灵梦叶罗丽X金鎏心",
+        "Jingling Meng Yeluoli x Jin Liu Xin"
+      ],
+      "titles": [
+        {
+          "title": "Yeluoli: Jin Liu Xin",
+          "type": "Default"
+        },
+        {
+          "title": "叶罗丽金鎏心",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Fairy Dream of Yeloli: Golden Heart",
+          "type": "English"
+        },
+        {
+          "title": "精灵梦叶罗丽X金鎏心",
+          "type": "Synonym"
+        },
+        {
+          "title": "Jingling Meng Yeluoli x Jin Liu Xin",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/65001/Yeluoli__Jin_Liu_Xin",
+      "year": 2026
+    }
+  ],
+  "pagination": {
+    "current_page": 8,
+    "has_next_page": false,
+    "items": {
+      "count": 16,
+      "per_page": 25,
+      "total": 191
+    },
+    "last_visible_page": 8
+  }
+}

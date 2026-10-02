@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/406170.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/406170.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/406170t.webp"
+          }
+        },
+        "mal_id": 170138,
+        "name": "Korilakkuma",
+        "url": "https://myanimelist.net/character/170138/Korilakkuma"
+      },
+      "favorites": 45,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/383141.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/383141.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/383141t.webp"
+          }
+        },
+        "mal_id": 171428,
+        "name": "Rilakkuma",
+        "url": "https://myanimelist.net/character/171428/Rilakkuma"
+      },
+      "favorites": 80,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 291368,
+        "name": "Narrator",
+        "url": "https://myanimelist.net/character/291368/Narrator"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 586,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/63662.jpg"
+              }
+            },
+            "mal_id": 54215,
+            "name": "Ikuta, Lilas",
+            "url": "https://myanimelist.net/people/54215/Lilas_Ikuta"
+          }
+        }
+      ]
+    }
+  ]
+}

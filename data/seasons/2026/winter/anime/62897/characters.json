@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/610381.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/610381.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/610381t.webp"
+          }
+        },
+        "mal_id": 282417,
+        "name": "Takamura, Aika",
+        "url": "https://myanimelist.net/character/282417/Aika_Takamura"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 90915,
+            "name": "Yurimoto, Hana",
+            "url": "https://myanimelist.net/people/90915/Hana_Yurimoto"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/88069.jpg"
+              }
+            },
+            "mal_id": 91806,
+            "name": "Deleon, Jingle",
+            "url": "https://myanimelist.net/people/91806/Jingle_Deleon"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/610382.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/610382.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/610382t.webp"
+          }
+        },
+        "mal_id": 282418,
+        "name": "Takamura, Kouta",
+        "url": "https://myanimelist.net/character/282418/Kouta_Takamura"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 90916,
+            "name": "Igarashi, Yuuta",
+            "url": "https://myanimelist.net/people/90916/Yuuta_Igarashi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/610383.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/610383.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/610383t.webp"
+          }
+        },
+        "mal_id": 282419,
+        "name": "Takamura, Misaki",
+        "url": "https://myanimelist.net/character/282419/Misaki_Takamura"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 4,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 51648,
+            "name": "Haruno, Iroha",
+            "url": "https://myanimelist.net/people/51648/Iroha_Haruno"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/610384.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/610384.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/610384t.webp"
+          }
+        },
+        "mal_id": 282420,
+        "name": "Takamura, Yoshiyuki",
+        "url": "https://myanimelist.net/character/282420/Yoshiyuki_Takamura"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 90917,
+            "name": "Momosuke",
+            "url": "https://myanimelist.net/people/90917/Momosuke"
+          }
+        },
+        {
+          "language": "English",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/22315.jpg"
+              }
+            },
+            "mal_id": 858,
+            "name": "Connolly, Kevin M.",
+            "url": "https://myanimelist.net/people/858/Kevin_M__Connolly"
+          }
+        }
+      ]
+    }
+  ]
+}

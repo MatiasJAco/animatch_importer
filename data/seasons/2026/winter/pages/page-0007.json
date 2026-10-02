@@ -1,0 +1,3181 @@
+{
+  "data": [
+    {
+      "aired": {
+        "from": "2026-01-10T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 10,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 28,
+            "month": 3,
+            "year": 2026
+          }
+        },
+        "string": "Jan 10, 2026 to Mar 28, 2026",
+        "to": "2026-03-28T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Saturdays",
+        "string": "Saturdays at 05:00 (JST)",
+        "time": "05:00",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [],
+      "duration": "23 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1001/154350.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/154350l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/154350t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1001/154350.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1001/154350l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1001/154350t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63106,
+      "members": 431,
+      "popularity": 19900,
+      "producers": [],
+      "rank": 17496,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 44,
+      "season": "winter",
+      "source": "Other",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 3197,
+          "name": "Toon Harbor Works",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3197/Toon_Harbor_Works"
+        }
+      ],
+      "synopsis": null,
+      "themes": [],
+      "title": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
+      "title_english": "Hoppe-chan: Mystery of the Sun Kingdom and the Black Hoppe Team",
+      "title_japanese": "ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
+          "type": "Default"
+        },
+        {
+          "title": "ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～",
+          "type": "Japanese"
+        },
+        {
+          "title": "Hoppe-chan: Mystery of the Sun Kingdom and the Black Hoppe Team",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 7,
+        "dislikes": 4,
+        "duration": "PT2M2S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Jt7oaen5d4w?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/Jt7oaen5d4w/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/Jt7oaen5d4w/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/Jt7oaen5d4w/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/Jt7oaen5d4w/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/Jt7oaen5d4w/sddefault.jpg"
+        },
+        "likes": 390,
+        "privacy_status": "public",
+        "published_at": "2025-12-17T09:00:20.000Z",
+        "region_restriction": null,
+        "title": "【PV第2弾】アニメ「ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～」2026年1月放送開始！",
+        "url": "https://www.youtube.com/watch?v=Jt7oaen5d4w",
+        "views": 51534,
+        "youtube_id": "Jt7oaen5d4w"
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63106/Hoppe-chan__Sun_Oukoku_to_Kuro_Hoppe-dan_no_Himitsu",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-28T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 28,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 28, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": "AnimeJapan, the world's largest annual anime event, held annually in Tokyo, and Crunchyroll are partnering to support the next generation of anime creative talent with the New Creator Awards. Japanese students can submit short films for a chance to win prizes up to 1 million yen and have their work streamed globally on Crunchyroll. This work is the winning entry for the inaugural award ceremony.\n\n\n\n(Source: Crunchyroll)",
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "5 min per ep",
+      "episodes": 7,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 46,
+          "name": "Award Winning",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/46/Award_Winning"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1542/156417.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/156417l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/156417t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1542/156417.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1542/156417l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1542/156417t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63827,
+      "members": 400,
+      "popularity": 20318,
+      "producers": [],
+      "rank": 9725,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.22,
+      "scored_by": 121,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "1. Police Men\nA human dramedy set in Kyoto about three police officers with very different personalities who sometimes work together and sometimes butt heads as they run toward the shared goal of catching the bad guy.\n\n2. One with the City\nDay-to-day life in Aichi is peaceful, and there are people behind that peace who keep its cities safe. The moment they put on the uniform, they transform from \"the protected\" to \"the protectors.\" This short animation shows the police officers who support the safety and future of the people.\n\n3. Offbeat\nLeo spends his days feeling robotic and oppressed. Soon enough, he starts to feel that his existence is meaningless, as if he's been tossed into the trash can like a piece of garbage. But then he reunites with the one thing he loved most that he had given up on. From that moment onward, Leo begins to remember the joy of living.\n\n4. Requiem for the Endless Night\nAn elderly man lives alone on another planet after an apocalyptic disaster. After spending thirty years searching in vain for signals from other survivors, he decides to return to his home world, embarking on one final homecoming to mourn all those who were lost.\n\n5. Magokoro Musubi: Gyutto Komeru Omoi\nOur story follows Shio Musubi, a lightly salted rice ball. He meets several other types of \"musubi\" rice balls in the park, but all of their unique characteristics make him feel like there's nothing special about him. Then, right at the end of his travels, the scene he sees at a little old lady's house makes him realize something very important.\n\n6. Traces of Summer \nTwo years after moving to Tokyo from the countryside, the hustle and bustle of the big city has wiped the calm from our heroine's soul. Then she receives a message that prompts her to pay a visit to her hometown. There, the smells and memories of summer restart something in her heart that had stopped. Her journey follows the tiny traces of summer as her heart quietly moves forward.\n\n7. Live in Red\nSomewhere on a vast red planet, there sits a city enclosed by a barrier. Outside the barrier, dust storms and harsh winds rage. Suddenly, a giant robot breaks through the barrier and infiltrates the city…\n\n(Source: Crunchyroll)",
+      "themes": [],
+      "title": "AnimeJapan Awards 2026",
+      "title_english": "AnimeJapan Awards 2026",
+      "title_japanese": "AnimeJapan 新人クリエイター大賞 2026",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "AnimeJapan Awards 2026",
+          "type": "Default"
+        },
+        {
+          "title": "AnimeJapan 新人クリエイター大賞 2026",
+          "type": "Japanese"
+        },
+        {
+          "title": "AnimeJapan Awards 2026",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/63827/AnimeJapan_Awards_2026",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 6, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Moshi, Korekara Umareru no Nara was released as part of Toho's GEMSTONE Creative Label GEMNIBUS vol.2 anthology. It is the only animated film in the lineup.",
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "Unknown",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1484/156122.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1484/156122l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1484/156122t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1484/156122.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1484/156122l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1484/156122t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63739,
+      "members": 379,
+      "popularity": 20638,
+      "producers": [],
+      "rank": 19226,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 27,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Nameless twins land on a certain planet. Led by a guide, they venture into a mysterious world in search of their mother, whom they have never met. However, their path begins to crumble under the weight of their mother's grief.\n\n(Source: Official site, translated)",
+      "themes": [],
+      "title": "Moshi, Korekara Umareru no Nara",
+      "title_english": null,
+      "title_japanese": "もし、これから生まれるのなら",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Moshi, Korekara Umareru no Nara",
+          "type": "Default"
+        },
+        {
+          "title": "もし、これから生まれるのなら",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": 130,
+        "dislikes": 44,
+        "duration": "PT44S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/0fO4xuq5LOc?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/0fO4xuq5LOc/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/0fO4xuq5LOc/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/0fO4xuq5LOc/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/0fO4xuq5LOc/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/0fO4xuq5LOc/sddefault.jpg"
+        },
+        "likes": 8386,
+        "privacy_status": "public",
+        "published_at": "2026-01-28T22:00:00.000Z",
+        "region_restriction": null,
+        "title": "坂本美雨×原摩利彦『国宝』チームが音楽・主題歌を奏でる土海明日香監督作品「もし、これから生まれるのなら」予告編【TOHOシネマズ 日比谷続映中！3/13（金）からTOHOシネマズ なんばで拡大上映】",
+        "url": "https://www.youtube.com/watch?v=0fO4xuq5LOc",
+        "views": 236331,
+        "youtube_id": "0fO4xuq5LOc"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/63739/Moshi_Korekara_Umareru_no_Nara",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-26T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 26,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 26, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": "This trailer is to promote the Season 2 DLC for Fatal Fury: City of the Wolves video game, with the story took place after the Rock Howard and Terry Bogard's arcade mode endings.",
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "5 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1141/155681.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/155681l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/155681t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1141/155681.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/155681l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/155681t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63567,
+      "members": 375,
+      "popularity": 20700,
+      "producers": [],
+      "rank": null,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.47,
+      "scored_by": 123,
+      "season": "winter",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 427,
+          "name": "Studio G-1Neo",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/427/Studio_G-1Neo"
+        }
+      ],
+      "synopsis": "Nightmare Geese animated trailer by Masami Obari\n\nFates intertwine after more than 26 years as Rock Howard, Terry Bogard, and more vie for the legacy of the late Geese Howard, whose ghostly and nightmarish presence continues to haunt South Town. Experience the ominous aura of Nightmare Geese, and the intense action that ensues once the city’s heroes encounter him—all in the dynamic visual style that world-renowned animator Masami Obari does best.\n\n(Source: Official YouTube Channel)",
+      "themes": [
+        {
+          "mal_id": 17,
+          "name": "Martial Arts",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        },
+        {
+          "mal_id": 31,
+          "name": "Super Power",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        },
+        {
+          "mal_id": 79,
+          "name": "Video Game",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/79/Video_Game"
+        }
+      ],
+      "title": "Garou Densetsu: CotW - Nightmare Geese",
+      "title_english": "Fatal Fury: City of the Wolves - Nightmare Geese Trailer",
+      "title_japanese": "餓狼伝説 CotW｜ナイトメアギース｜ロングアニメーショントレーラー",
+      "title_synonyms": [
+        "Garou Densetsu: CotW - Nightmare Geese - Long Animation Trailer"
+      ],
+      "titles": [
+        {
+          "title": "Garou Densetsu: CotW - Nightmare Geese",
+          "type": "Default"
+        },
+        {
+          "title": "餓狼伝説 CotW｜ナイトメアギース｜ロングアニメーショントレーラー",
+          "type": "Japanese"
+        },
+        {
+          "title": "Fatal Fury: City of the Wolves - Nightmare Geese Trailer",
+          "type": "English"
+        },
+        {
+          "title": "Garou Densetsu: CotW - Nightmare Geese - Long Animation Trailer",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "PV",
+      "url": "https://myanimelist.net/anime/63567/Garou_Densetsu__CotW_-_Nightmare_Geese",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": 5,
+            "month": 5,
+            "year": 2026
+          }
+        },
+        "string": "Feb 14, 2026 to May 5, 2026",
+        "to": "2026-05-05T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": "Adaptation of Ta Xue Dongman's (踏雪动漫) Chinese webtoon of the same title.",
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "10 min per ep",
+      "episodes": 40,
+      "explicit_genres": [],
+      "favorites": 1,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1780/157405.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/157405l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/157405t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1780/157405.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1780/157405l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1780/157405t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63485,
+      "members": 368,
+      "popularity": 20797,
+      "producers": [],
+      "rank": 22368,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 82,
+      "season": "winter",
+      "source": "Web manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2042,
+          "name": "Ruo Hong Culture",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2042/Ruo_Hong_Culture"
+        }
+      ],
+      "synopsis": "A supreme expert from the cultivation world accidentally transmigrated to a world of superpowered individuals. Here, most people possess various superpowers and are known as \"heroes,\" spending their days fighting monsters and saving the world.\n\n(Source: Youku, translated)",
+      "themes": [
+        {
+          "mal_id": 62,
+          "name": "Isekai",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/62/Isekai"
+        }
+      ],
+      "title": "Xiuxian Zhe Dazhan Chaonengli",
+      "title_english": null,
+      "title_japanese": "修仙者大战超能力",
+      "title_synonyms": [
+        "The Immortal VS Superheroes"
+      ],
+      "titles": [
+        {
+          "title": "Xiuxian Zhe Dazhan Chaonengli",
+          "type": "Default"
+        },
+        {
+          "title": "修仙者大战超能力",
+          "type": "Japanese"
+        },
+        {
+          "title": "The Immortal VS Superheroes",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63485/Xiuxian_Zhe_Dazhan_Chaonengli",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": 13,
+            "month": 7,
+            "year": 2026
+          }
+        },
+        "string": "Feb 2, 2026 to Jul 13, 2026",
+        "to": "2026-07-13T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "7 min per ep",
+      "episodes": 26,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 37,
+          "name": "Supernatural",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1181/155301.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1181/155301l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1181/155301t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1181/155301.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1181/155301l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1181/155301t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63427,
+      "members": 344,
+      "popularity": 21163,
+      "producers": [
+        {
+          "mal_id": 3285,
+          "name": "Mango TV",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3285/Mango_TV"
+        }
+      ],
+      "rank": 21174,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 21,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 3022,
+          "name": "Panda Tower Studio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3022/Panda_Tower_Studio"
+        }
+      ],
+      "synopsis": "A chance encounter between young Tang Zhi and a dragon maiden unexpectedly awakened his \"Heavenly Eye\"—allowing him to see gods and spirits roaming the mortal realm. These unique eyes led him into a world that coexisted with the mundane. Through unforgettable experiences, Tang Zhi made friends with all sorts of people and experienced laughter and warmth in seemingly ordinary yet subtly wondrous daily moments. An ordinary scholar, encountering and accompanying a group of gods and spirits with diverse personalities amidst the everyday life of the mortal world—this story of adventure, friendship, and growth is slowly unfolding.\n\n(Source: Bangumi, translated)",
+      "themes": [
+        {
+          "mal_id": 13,
+          "name": "Historical",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/13/Historical"
+        }
+      ],
+      "title": "Tang Zhi Zhi Yi",
+      "title_english": null,
+      "title_japanese": "汤直志异",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Tang Zhi Zhi Yi",
+          "type": "Default"
+        },
+        {
+          "title": "汤直志异",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": 2,
+        "dislikes": 1,
+        "duration": "PT1M22S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/152xy1DqhUw?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/152xy1DqhUw/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/152xy1DqhUw/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/152xy1DqhUw/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/152xy1DqhUw/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/152xy1DqhUw/sddefault.jpg"
+        },
+        "likes": 78,
+        "privacy_status": "public",
+        "published_at": "2026-01-24T03:12:18.000Z",
+        "region_restriction": null,
+        "title": "Tang Zhi's Strange Tales - Official Trailer",
+        "url": "https://www.youtube.com/watch?v=152xy1DqhUw",
+        "views": 1096,
+        "youtube_id": "152xy1DqhUw"
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63427/Tang_Zhi_Zhi_Yi",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-05T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 5,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 5, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": "The second short film, after Kiyotaka Oshiyama's \"Aka no Kioku\" (\"Red Memory\"), produced by the Fukushima Map Friends Association. The aim of this project is the delivery of the comprehensive information magazine \"Fukushima Map\" to a wider audience.",
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "10 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1579/155261.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/155261l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/155261t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1579/155261.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1579/155261l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1579/155261t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63411,
+      "members": 316,
+      "popularity": 21670,
+      "producers": [],
+      "rank": 16878,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 87,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2754,
+          "name": "Contrail",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2754/Contrail"
+        }
+      ],
+      "synopsis": "The short film tells the story of a French philosopher named Sophie, who visits Fukushima Prefecture for the first time to attend a friend's wedding. Sophie loses her way in Fukushima, but a mysterious \"friend\" and a \"map\" appear before her, and she follows their lead making detours and stops. Little by little, Sophie realizes that everything in Fukushima is a \"culture\" that has been created by someone and has been passed down through generations.\n\n(Source: ANN)",
+      "themes": [
+        {
+          "mal_id": 56,
+          "name": "Educational",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/56/Educational"
+        }
+      ],
+      "title": "Fukufuku no Chizu",
+      "title_english": "Map of Fukufuku",
+      "title_japanese": "ふくふくの地図",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Fukufuku no Chizu",
+          "type": "Default"
+        },
+        {
+          "title": "ふくふくの地図",
+          "type": "Japanese"
+        },
+        {
+          "title": "Map of Fukufuku",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63411/Fukufuku_no_Chizu",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-08T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 8,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 26,
+            "month": 3,
+            "year": 2026
+          }
+        },
+        "string": "Jan 8, 2026 to Mar 26, 2026",
+        "to": "2026-03-26T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 27,
+          "name": "Shounen",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/27/Shounen"
+        }
+      ],
+      "duration": "30 sec per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1865/154908.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/154908l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/154908t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1865/154908.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1865/154908l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1865/154908t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63275,
+      "members": 264,
+      "popularity": 22613,
+      "producers": [],
+      "rank": 15807,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 39,
+      "season": "winter",
+      "source": "Manga",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 276,
+          "name": "DLE",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/276/DLE"
+        }
+      ],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 20,
+          "name": "Parody",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        }
+      ],
+      "title": "Black Jack Yanen",
+      "title_english": null,
+      "title_japanese": "ブラックジャックやねん",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Black Jack Yanen",
+          "type": "Default"
+        },
+        {
+          "title": "ブラックジャックやねん",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63275/Black_Jack_Yanen",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2025-12-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 12,
+            "year": 2025
+          },
+          "to": {
+            "day": 9,
+            "month": 7,
+            "year": 2026
+          }
+        },
+        "string": "Dec 4, 2025 to Jul 9, 2026",
+        "to": "2026-07-09T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": "Thursdays",
+        "string": "Thursdays at 07:45 (JST)",
+        "time": "07:45",
+        "timezone": "Asia/Tokyo"
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "12 min per ep",
+      "episodes": 26,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1332/154527.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/154527l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/154527t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1332/154527.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1332/154527l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1332/154527t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63142,
+      "members": 262,
+      "popularity": 22663,
+      "producers": [],
+      "rank": 19000,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 26,
+      "season": "winter",
+      "source": "Other",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Shining friendship and strong claws! Metal Cardbot W!\n\nAfter the Speranza incident, humans and Metal Cardbots began to coexist on Earth.\nJun, a boy chosen by the Metal Breath, and his partner Blue Cop discovered a way for humans and Metal Cardbots to coexist.\nThen one day, a \"Wild Cardbot\" appears, holding a 60 million year secret.\n\nNow, a new encounter begins to shake the world.\n\n(Source: Metal Cardbot Wiki)",
+      "themes": [],
+      "title": "Metal Cardbot W",
+      "title_english": "Metal Cardbot W",
+      "title_japanese": "메탈카드봇W",
+      "title_synonyms": [
+        "Metal Kadeubos Waildeu"
+      ],
+      "titles": [
+        {
+          "title": "Metal Cardbot W",
+          "type": "Default"
+        },
+        {
+          "title": "메탈카드봇W",
+          "type": "Japanese"
+        },
+        {
+          "title": "Metal Cardbot W",
+          "type": "English"
+        },
+        {
+          "title": "Metal Kadeubos Waildeu",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63142/Metal_Cardbot_W",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 4, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "14 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 1,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1124/155046.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1124/155046l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1124/155046t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1124/155046.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1124/155046l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1124/155046t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63334,
+      "members": 255,
+      "popularity": 22773,
+      "producers": [],
+      "rank": 18371,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 66,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1829,
+          "name": "Lesprit",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1829/Lesprit"
+        }
+      ],
+      "synopsis": "Looking back on the adorable TV anime content so far, we bring you a heartwarming moment filled with Koupen-chan's kindness and healing to start the new year. \n\n(Source: YouTube)",
+      "themes": [
+        {
+          "mal_id": 51,
+          "name": "Anthropomorphic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 63,
+          "name": "Iyashikei",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/63/Iyashikei"
+        }
+      ],
+      "title": "Koupen-chan: Shinshun Special Kanzenban",
+      "title_english": null,
+      "title_japanese": "『コウペンちゃん』新春スペシャル 完全版",
+      "title_synonyms": [
+        "Koupen-chan New Year Special Complete Edition"
+      ],
+      "titles": [
+        {
+          "title": "Koupen-chan: Shinshun Special Kanzenban",
+          "type": "Default"
+        },
+        {
+          "title": "『コウペンちゃん』新春スペシャル 完全版",
+          "type": "Japanese"
+        },
+        {
+          "title": "Koupen-chan New Year Special Complete Edition",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV Special",
+      "url": "https://myanimelist.net/anime/63334/Koupen-chan__Shinshun_Special_Kanzenban",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 14, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 hr 26 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 3,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1797/155024.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/155024l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/155024t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1797/155024.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1797/155024l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1797/155024t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63317,
+      "members": 246,
+      "popularity": 22963,
+      "producers": [],
+      "rank": 20866,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 23,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [],
+      "title": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
+      "title_english": "Shinbi's Haunted House: One More Summon",
+      "title_japanese": "신비아파트 10주년 극장판: 한 번 더, 소환",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
+          "type": "Default"
+        },
+        {
+          "title": "신비아파트 10주년 극장판: 한 번 더, 소환",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shinbi's Haunted House: One More Summon",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/63317/Sinbi_Apartment_10-junyeon_Geugjangpan__Han_Beon_Deo_Sohwan",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-19T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 19,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 16,
+            "month": 3,
+            "year": 2026
+          }
+        },
+        "string": "Jan 19, 2026 to Mar 16, 2026",
+        "to": "2026-03-16T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 min per ep",
+      "episodes": 9,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1492/155145.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/155145l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/155145t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1492/155145.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1492/155145l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1492/155145t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63373,
+      "members": 246,
+      "popularity": 22945,
+      "producers": [],
+      "rank": 15650,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 68,
+      "season": "winter",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Fourth season of Bao Ke Meng Donghua Tujian.",
+      "themes": [],
+      "title": "Bao Ke Meng Donghua Tujian: Zhuanshun Binfen",
+      "title_english": null,
+      "title_japanese": "宝可梦动画图鉴 转瞬缤纷",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Bao Ke Meng Donghua Tujian: Zhuanshun Binfen",
+          "type": "Default"
+        },
+        {
+          "title": "宝可梦动画图鉴 转瞬缤纷",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63373/Bao_Ke_Meng_Donghua_Tujian__Zhuanshun_Binfen",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 25,
+            "month": 3,
+            "year": 2026
+          }
+        },
+        "string": "Jan 6, 2026 to Mar 25, 2026",
+        "to": "2026-03-25T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "4 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1224/154735.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/154735l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/154735t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1224/154735.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1224/154735l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1224/154735t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63200,
+      "members": 175,
+      "popularity": 24805,
+      "producers": [
+        {
+          "mal_id": 1697,
+          "name": "KDDI",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1697/KDDI"
+        }
+      ],
+      "rank": 17418,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 23,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 276,
+          "name": "DLE",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/276/DLE"
+        }
+      ],
+      "synopsis": "A new season of Taka no Tsume celebrating the 20th anniversary of the series.",
+      "themes": [
+        {
+          "mal_id": 20,
+          "name": "Parody",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/20/Parody"
+        },
+        {
+          "mal_id": 31,
+          "name": "Super Power",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/31/Super_Power"
+        }
+      ],
+      "title": "Himitsukessha Taka no Tsume XX",
+      "title_english": null,
+      "title_japanese": "秘密結社 鷹の爪XX（ダブルエックス）",
+      "title_synonyms": [
+        "Himitsukessha Taka no Tsume Double X"
+      ],
+      "titles": [
+        {
+          "title": "Himitsukessha Taka no Tsume XX",
+          "type": "Default"
+        },
+        {
+          "title": "秘密結社 鷹の爪XX（ダブルエックス）",
+          "type": "Japanese"
+        },
+        {
+          "title": "Himitsukessha Taka no Tsume Double X",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63200/Himitsukessha_Taka_no_Tsume_XX",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-02T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 2,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 2, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "3 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1039/156897.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/156897l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/156897t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1039/156897.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1039/156897l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1039/156897t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63976,
+      "members": 155,
+      "popularity": 25570,
+      "producers": [
+        {
+          "mal_id": 717,
+          "name": "TV Tokyo Music",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+        },
+        {
+          "mal_id": 1344,
+          "name": "King Records",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1344/King_Records"
+        }
+      ],
+      "rank": 20650,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 30,
+      "season": "winter",
+      "source": "Other",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 22,
+          "name": "Nippon Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+        }
+      ],
+      "synopsis": "Special episode of Shibuya♡Hachi Part 4 released on YouTube for a limited time.",
+      "themes": [],
+      "title": "Shibuya♡Hachi Part 4: Hachi to Shibuya wo Arukou!",
+      "title_english": null,
+      "title_japanese": "SHIBUYA♡HACHI 特別編「ハチと渋谷を歩こう！」",
+      "title_synonyms": [
+        "Shibuya♡Hachi Part 4 Special",
+        "Shibuya♡Hachi Special Episode: Take a walk with Hachi in Shibuya!"
+      ],
+      "titles": [
+        {
+          "title": "Shibuya♡Hachi Part 4: Hachi to Shibuya wo Arukou!",
+          "type": "Default"
+        },
+        {
+          "title": "SHIBUYA♡HACHI 特別編「ハチと渋谷を歩こう！」",
+          "type": "Japanese"
+        },
+        {
+          "title": "Shibuya♡Hachi Part 4 Special",
+          "type": "Synonym"
+        },
+        {
+          "title": "Shibuya♡Hachi Special Episode: Take a walk with Hachi in Shibuya!",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63976/Shibuya_Hachi_Part_4__Hachi_to_Shibuya_wo_Arukou",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-04T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 4,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": 1,
+            "month": 4,
+            "year": 2026
+          }
+        },
+        "string": "Feb 4, 2026 to Apr 1, 2026",
+        "to": "2026-04-01T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "10 min per ep",
+      "episodes": 10,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        },
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1830/155267.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/155267l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/155267t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1830/155267.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1830/155267l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1830/155267t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63415,
+      "members": 153,
+      "popularity": 25637,
+      "producers": [
+        {
+          "mal_id": 2294,
+          "name": "AHAVERSE",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2294/AHAVERSE"
+        }
+      ],
+      "rank": 18581,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 12,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2258,
+          "name": "Sharefun Studio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2258/Sharefun_Studio"
+        }
+      ],
+      "synopsis": "Lele, a white dog, and Xiaoliang, a gray one-eyed cat, run a struggling convenience store. Besides selling goods, they also take on commissions to earn money. The story follows Lele and Xiaoliang as they complete various tasks, experiencing a series of small adventures together—stories about courage, understanding, and learning how to love and be loved.\n\n(Source: Bilibili, translated)",
+      "themes": [
+        {
+          "mal_id": 51,
+          "name": "Anthropomorphic",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+        },
+        {
+          "mal_id": 48,
+          "name": "Workplace",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/48/Workplace"
+        }
+      ],
+      "title": "Lele Bianlidian",
+      "title_english": null,
+      "title_japanese": "乐乐便利店",
+      "title_synonyms": [
+        "Lele Convenience Store"
+      ],
+      "titles": [
+        {
+          "title": "Lele Bianlidian",
+          "type": "Default"
+        },
+        {
+          "title": "乐乐便利店",
+          "type": "Japanese"
+        },
+        {
+          "title": "Lele Convenience Store",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 2,
+        "dislikes": 0,
+        "duration": "PT40S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/8kaK5JV2C5c?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/8kaK5JV2C5c/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/8kaK5JV2C5c/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/8kaK5JV2C5c/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/8kaK5JV2C5c/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/8kaK5JV2C5c/sddefault.jpg"
+        },
+        "likes": 46,
+        "privacy_status": "public",
+        "published_at": "2026-01-28T21:00:55.000Z",
+        "region_restriction": null,
+        "title": "Lele Convenience Store - Official Teaser 2",
+        "url": "https://www.youtube.com/watch?v=8kaK5JV2C5c",
+        "views": 636,
+        "youtube_id": "8kaK5JV2C5c"
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63415/Lele_Bianlidian",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 6,
+            "month": 2,
+            "year": 2026
+          }
+        },
+        "string": "Jan 23, 2026 to Feb 6, 2026",
+        "to": "2026-02-06T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "15 min per ep",
+      "episodes": 60,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 1,
+          "name": "Action",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/1/Action"
+        },
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1604/155302.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/155302l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/155302t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1604/155302.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1604/155302l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1604/155302t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63428,
+      "members": 153,
+      "popularity": 25658,
+      "producers": [],
+      "rank": 21875,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 14,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 1322,
+          "name": "Creative Power Entertaining",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/1322/Creative_Power_Entertaining"
+        }
+      ],
+      "synopsis": "The anion and cation orbs were stolen by a mysterious wolf pack, pointing the finger of danger directly at the Strange Realm. The sheep and wolves tracked them down to the Strange Realm, only to discover that Handsome Guy and Black General had also been captured and taken to the Inner Earth beneath it. To rescue the two eggs, the sheep and wolves resolutely set off for the Inner Earth. In their adventures through the layers of the Inner Earth, the sheep and wolves met various explorers, fought against unknown monsters, and braved mysterious dangers. After countless battles and intrigues, the sheep and wolves finally uncovered the conspiracy of the ruthless preserved egg factory, rescued Handsome Guy and Black General, and, with the help of the two eggs, thwarted the crisis caused by the wolf pack, protecting the peace of the Inner Earth.\n\n(Source: iQIYI, translated)",
+      "themes": [],
+      "title": "Xi Yangyang Yu Hui Tailang: Gu Guguai Jie You Guguai",
+      "title_english": null,
+      "title_japanese": "喜羊羊与灰太狼之古古怪界有古怪",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Xi Yangyang Yu Hui Tailang: Gu Guguai Jie You Guguai",
+          "type": "Default"
+        },
+        {
+          "title": "喜羊羊与灰太狼之古古怪界有古怪",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63428/Xi_Yangyang_Yu_Hui_Tailang__Gu_Guguai_Jie_You_Guguai",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-01T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 1,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 11,
+            "month": 1,
+            "year": 2026
+          }
+        },
+        "string": "Jan 1, 2026 to Jan 11, 2026",
+        "to": "2026-01-11T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "13 min per ep",
+      "episodes": 26,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1282/155300.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1282/155300l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1282/155300t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1282/155300.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1282/155300l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1282/155300t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63426,
+      "members": 134,
+      "popularity": 26565,
+      "producers": [],
+      "rank": 22327,
+      "rating": "G - All Ages",
+      "score": null,
+      "scored_by": 14,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Something big is happening in Forest Town again!?\n\nJoin the Helper Team for an immersive experience of traditional customs and feel the vibrant atmosphere of a traditional festival!\n\n(Source: Douban, translated)",
+      "themes": [],
+      "title": "Xiong Chumo: Xiongxiong Bang Bang Tuan 4",
+      "title_english": "Boonie Squad 4",
+      "title_japanese": "熊熊帮帮团4",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Xiong Chumo: Xiongxiong Bang Bang Tuan 4",
+          "type": "Default"
+        },
+        {
+          "title": "熊熊帮帮团4",
+          "type": "Japanese"
+        },
+        {
+          "title": "Boonie Squad 4",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "TV",
+      "url": "https://myanimelist.net/anime/63426/Xiong_Chumo__Xiongxiong_Bang_Bang_Tuan_4",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-17T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 17,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 17, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "1 hr 48 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 2,
+          "name": "Adventure",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/2/Adventure"
+        },
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1841/155299.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1841/155299l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1841/155299t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1841/155299.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1841/155299l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1841/155299t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63425,
+      "members": 124,
+      "popularity": 27205,
+      "producers": [
+        {
+          "mal_id": 3332,
+          "name": "MaoYan Movie",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/3332/MaoYan_Movie"
+        }
+      ],
+      "rank": 22316,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 11,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2611,
+          "name": "Fantawild Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2611/Fantawild_Animation"
+        }
+      ],
+      "synopsis": "Briar, Bramble and Vick encounter the legendary Year Monster, Nian, who bestows them with mysterious powers, thrusting them into the hidden, chaotic, magic-infused realm of Eve City.\n\n(Source: IMDb)",
+      "themes": [
+        {
+          "mal_id": 17,
+          "name": "Martial Arts",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+        }
+      ],
+      "title": "Xiong Chumo: Niannian You Xiong",
+      "title_english": "Boonie Bears: The Hidden Protector",
+      "title_japanese": "熊出没·年年有熊",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Xiong Chumo: Niannian You Xiong",
+          "type": "Default"
+        },
+        {
+          "title": "熊出没·年年有熊",
+          "type": "Japanese"
+        },
+        {
+          "title": "Boonie Bears: The Hidden Protector",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 11,
+        "dislikes": 2,
+        "duration": "PT1M28S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/vIdabah9ia8?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/vIdabah9ia8/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/vIdabah9ia8/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/vIdabah9ia8/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/vIdabah9ia8/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/vIdabah9ia8/sddefault.jpg"
+        },
+        "likes": 127,
+        "privacy_status": "public",
+        "published_at": "2026-01-15T09:47:45.000Z",
+        "region_restriction": null,
+        "title": "[Donghua Movie] Boonie Bears: The Hidden Protector | Bablu Dablu Cartoon Movie |",
+        "url": "https://www.youtube.com/watch?v=vIdabah9ia8",
+        "views": 8259,
+        "youtube_id": "vIdabah9ia8"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/63425/Xiong_Chumo__Niannian_You_Xiong",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 6, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "5 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1273/156579.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/156579l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1273/156579t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1273/156579.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1273/156579l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1273/156579t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63896,
+      "members": 116,
+      "popularity": 27710,
+      "producers": [],
+      "rank": 21379,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 8,
+      "season": "winter",
+      "source": "Other",
+      "status": "Currently Airing",
+      "studios": [],
+      "synopsis": null,
+      "themes": [
+        {
+          "mal_id": 18,
+          "name": "Mecha",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/18/Mecha"
+        }
+      ],
+      "title": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
+      "title_english": null,
+      "title_japanese": "特装合体ロボ ジョブレイバー 逆襲のジョーカー!",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
+          "type": "Default"
+        },
+        {
+          "title": "特装合体ロボ ジョブレイバー 逆襲のジョーカー!",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63896/Tokusou_Gattai_Robo_Jobraver__Gyakushuu_no_Joker",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-06T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 6,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": 5,
+            "month": 6,
+            "year": 2026
+          }
+        },
+        "string": "Mar 6, 2026 to Jun 5, 2026",
+        "to": "2026-06-05T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "8 min per ep",
+      "episodes": 4,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 36,
+          "name": "Slice of Life",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1186/158874.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/158874l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/158874t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1186/158874.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1186/158874l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1186/158874t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64538,
+      "members": 82,
+      "popularity": 30043,
+      "producers": [
+        {
+          "mal_id": 150,
+          "name": "Sanrio",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+        }
+      ],
+      "rank": 21732,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 25,
+      "season": "winter",
+      "source": "Other",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "This is the Sucre Town, a place where each day begins just a little differently from the last.",
+      "themes": [],
+      "title": "Welcome to Sucre Town",
+      "title_english": "Welcome to Sucre Town: The Cinnamoroll Friends' Happy Discovery",
+      "title_japanese": "Welcome to Sucre Town",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Welcome to Sucre Town",
+          "type": "Default"
+        },
+        {
+          "title": "Welcome to Sucre Town",
+          "type": "Japanese"
+        },
+        {
+          "title": "Welcome to Sucre Town: The Cinnamoroll Friends' Happy Discovery",
+          "type": "English"
+        }
+      ],
+      "trailer": {
+        "comment_count": 89,
+        "dislikes": 10,
+        "duration": "PT36S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/HxrOppWjKTE?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/HxrOppWjKTE/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/HxrOppWjKTE/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/HxrOppWjKTE/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/HxrOppWjKTE/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/HxrOppWjKTE/sddefault.jpg"
+        },
+        "likes": 1713,
+        "privacy_status": "public",
+        "published_at": "2026-03-02T03:00:17.000Z",
+        "region_restriction": null,
+        "title": "【予告編】シナモロール3Dアニメーション ｜ Welcome to Sucre Town",
+        "url": "https://www.youtube.com/watch?v=HxrOppWjKTE",
+        "views": 64405,
+        "youtube_id": "HxrOppWjKTE"
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64538/Welcome_to_Sucre_Town",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-14T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 14,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Feb 14, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "1 hr 30 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 8,
+          "name": "Drama",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/8/Drama"
+        },
+        {
+          "mal_id": 24,
+          "name": "Sci-Fi",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1967/158967.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/158967l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/158967t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1967/158967.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1967/158967l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1967/158967t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64598,
+      "members": 78,
+      "popularity": 30115,
+      "producers": [],
+      "rank": 17235,
+      "rating": "None",
+      "score": null,
+      "scored_by": 7,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "The future. Winter. Space travel is no longer a dream. A once-thriving film studio faces bankruptcy. The enormous compound, with structures ranging from the Great Sphinx of Giza to the Forbidden City, is now completely covered in snow and stripped of its former glory. Zha, a lonely janitor, tends to this forgotten place, with only a cat that used to perform in films for company. Running out of money, the studio owner gives him a VR headset as partial compensation. Zha is immediately drawn into the virtual world and embarks on a romantic journey with a female player who invites him on a trip to the moon. Meanwhile, the studio, which is about to close permanently, is temporarily brought back to life when a film crew arrives to shoot an alien invasion movie on the expansive backlot – with the studio’s actual destruction slated to be shot as the movie’s final showdown. \n\n(Source: Berlin International Film Festival)",
+      "themes": [],
+      "title": "Han Ye Dengzhu",
+      "title_english": "Light Pillar",
+      "title_japanese": "寒夜灯柱",
+      "title_synonyms": [
+        "Love and Other Trash"
+      ],
+      "titles": [
+        {
+          "title": "Han Ye Dengzhu",
+          "type": "Default"
+        },
+        {
+          "title": "寒夜灯柱",
+          "type": "Japanese"
+        },
+        {
+          "title": "Light Pillar",
+          "type": "English"
+        },
+        {
+          "title": "Love and Other Trash",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": 0,
+        "dislikes": 0,
+        "duration": "PT39S",
+        "embed_url": "https://www.youtube-nocookie.com/embed/jagG5Hwm9q0?enablejsapi=1&wmode=opaque&autoplay=1",
+        "embeddable": true,
+        "images": {
+          "image_url": "https://img.youtube.com/vi/jagG5Hwm9q0/default.jpg",
+          "large_image_url": "https://img.youtube.com/vi/jagG5Hwm9q0/hqdefault.jpg",
+          "maximum_image_url": "https://img.youtube.com/vi/jagG5Hwm9q0/maxresdefault.jpg",
+          "medium_image_url": "https://img.youtube.com/vi/jagG5Hwm9q0/mqdefault.jpg",
+          "small_image_url": "https://img.youtube.com/vi/jagG5Hwm9q0/sddefault.jpg"
+        },
+        "likes": 0,
+        "privacy_status": "public",
+        "published_at": "2026-07-01T05:43:36.000Z",
+        "region_restriction": null,
+        "title": "Han ye deng zhu - Light Pillar (2026) | Trailer",
+        "url": "https://www.youtube.com/watch?v=jagG5Hwm9q0",
+        "views": 949,
+        "youtube_id": "jagG5Hwm9q0"
+      },
+      "type": "Movie",
+      "url": "https://myanimelist.net/anime/64598/Han_Ye_Dengzhu",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-02-20T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 20,
+            "month": 2,
+            "year": 2026
+          },
+          "to": {
+            "day": 26,
+            "month": 2,
+            "year": 2026
+          }
+        },
+        "string": "Feb 20, 2026 to Feb 26, 2026",
+        "to": "2026-02-26T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [
+        {
+          "mal_id": 15,
+          "name": "Kids",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/15/Kids"
+        }
+      ],
+      "duration": "25 sec per ep",
+      "episodes": 8,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1722/160036.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/160036l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/160036t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1722/160036.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1722/160036l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1722/160036t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 64650,
+      "members": 62,
+      "popularity": 30346,
+      "producers": [],
+      "rank": 19860,
+      "rating": "PG - Children",
+      "score": null,
+      "scored_by": 20,
+      "season": "winter",
+      "source": "Game",
+      "status": "Finished Airing",
+      "studios": [
+        {
+          "mal_id": 2302,
+          "name": "Nostalook",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/2302/Nostalook"
+        }
+      ],
+      "synopsis": "A countdown leading up to a Pokémon Presents broadcast.",
+      "themes": [],
+      "title": "Poke Taiki (2026)",
+      "title_english": null,
+      "title_japanese": "ポケ待機",
+      "title_synonyms": [
+        "Pokémon Presents 2026"
+      ],
+      "titles": [
+        {
+          "title": "Poke Taiki (2026)",
+          "type": "Default"
+        },
+        {
+          "title": "ポケ待機",
+          "type": "Japanese"
+        },
+        {
+          "title": "Pokémon Presents 2026",
+          "type": "Synonym"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/64650/Poke_Taiki_2026",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-23T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 23,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Jan 23, 2026",
+        "to": null
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "6 min",
+      "episodes": 1,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/155654.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/155654l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/155654t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1098/155654.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1098/155654l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1098/155654t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63561,
+      "members": 45,
+      "popularity": 30452,
+      "producers": [],
+      "rank": 17033,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 19,
+      "season": "winter",
+      "source": "Original",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Appel, a hardworking scholarship student, arrives at an elite private high school ready to embark on his new academic journey.\nHowever, what awaits him is unforeseen chaos.\n\nEnter the mysterious pink-haired twins, Glista and Glyde, who have taken a burrowing interest in Appel.\nThey're sweet, bright, and wiggling their way into every part of his life.\n\nAs his quiet routine begins to unravel, will Appel uncover the true nature of the twins to keep his life from rotting away?\nThe line between intrigue and madness is razor-thin, and the worm is already at the core of the apple.\n\n(Source: Official YouTube Channel)",
+      "themes": [
+        {
+          "mal_id": 23,
+          "name": "School",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/23/School"
+        }
+      ],
+      "title": "Gluttomy",
+      "title_english": null,
+      "title_japanese": "Gluttomy",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Gluttomy",
+          "type": "Default"
+        },
+        {
+          "title": "Gluttomy",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63561/Gluttomy",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-03-13T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 3,
+            "year": 2026
+          },
+          "to": {
+            "day": null,
+            "month": null,
+            "year": null
+          }
+        },
+        "string": "Mar 13, 2026 to ?",
+        "to": null
+      },
+      "airing": true,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "2 min",
+      "episodes": null,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1869/160153.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/160153l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/160153t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1869/160153.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1869/160153l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1869/160153t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 65026,
+      "members": 44,
+      "popularity": 30463,
+      "producers": [],
+      "rank": 19939,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 8,
+      "season": "winter",
+      "source": "Original",
+      "status": "Currently Airing",
+      "studios": [
+        {
+          "mal_id": 18,
+          "name": "Toei Animation",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+        }
+      ],
+      "synopsis": "An original short anime project headed by the Production Department at Toei Animation.\n\n(Source: Livechart)",
+      "themes": [],
+      "title": "Pro, Pro, Pro!!",
+      "title_english": null,
+      "title_japanese": "Pro, Pro, Pro!!",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "Pro, Pro, Pro!!",
+          "type": "Default"
+        },
+        {
+          "title": "Pro, Pro, Pro!!",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/65026/Pro_Pro_Pro",
+      "year": 2026
+    },
+    {
+      "aired": {
+        "from": "2026-01-13T00:00:00+00:00",
+        "prop": {
+          "from": {
+            "day": 13,
+            "month": 1,
+            "year": 2026
+          },
+          "to": {
+            "day": 31,
+            "month": 3,
+            "year": 2026
+          }
+        },
+        "string": "Jan 13, 2026 to Mar 31, 2026",
+        "to": "2026-03-31T00:00:00+00:00"
+      },
+      "airing": false,
+      "approved": true,
+      "background": null,
+      "broadcast": {
+        "day": null,
+        "string": null,
+        "time": null,
+        "timezone": null
+      },
+      "demographics": [],
+      "duration": "3 min per ep",
+      "episodes": 12,
+      "explicit_genres": [],
+      "favorites": 0,
+      "genres": [
+        {
+          "mal_id": 4,
+          "name": "Comedy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/4/Comedy"
+        },
+        {
+          "mal_id": 10,
+          "name": "Fantasy",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+        }
+      ],
+      "images": {
+        "jpg": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1559/160039.jpg",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1559/160039l.jpg",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1559/160039t.jpg"
+        },
+        "webp": {
+          "image_url": "https://cdn.myanimelist.net/images/anime/1559/160039.webp",
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1559/160039l.webp",
+          "small_image_url": "https://cdn.myanimelist.net/images/anime/1559/160039t.webp"
+        }
+      },
+      "licensors": [],
+      "mal_id": 63745,
+      "members": 32,
+      "popularity": 30555,
+      "producers": [],
+      "rank": 17401,
+      "rating": "PG-13 - Teens 13 or older",
+      "score": null,
+      "scored_by": 6,
+      "season": "winter",
+      "source": "Mixed media",
+      "status": "Finished Airing",
+      "studios": [],
+      "synopsis": "Sequel to the High Card Season 2 Picture Drama series.",
+      "themes": [
+        {
+          "mal_id": 68,
+          "name": "Organized Crime",
+          "type": "anime",
+          "url": "https://myanimelist.net/anime/genre/68/Organized_Crime"
+        }
+      ],
+      "title": "High Card Picture Drama: Bonus Hand",
+      "title_english": null,
+      "title_japanese": "HIGH CARD ピクチャーオーディオドラマ-Bonus Hand-",
+      "title_synonyms": [],
+      "titles": [
+        {
+          "title": "High Card Picture Drama: Bonus Hand",
+          "type": "Default"
+        },
+        {
+          "title": "HIGH CARD ピクチャーオーディオドラマ-Bonus Hand-",
+          "type": "Japanese"
+        }
+      ],
+      "trailer": {
+        "comment_count": null,
+        "dislikes": null,
+        "duration": null,
+        "embed_url": null,
+        "embeddable": null,
+        "images": {
+          "image_url": null,
+          "large_image_url": null,
+          "maximum_image_url": null,
+          "medium_image_url": null,
+          "small_image_url": null
+        },
+        "likes": null,
+        "privacy_status": null,
+        "published_at": null,
+        "region_restriction": null,
+        "title": null,
+        "url": null,
+        "views": null,
+        "youtube_id": null
+      },
+      "type": "ONA",
+      "url": "https://myanimelist.net/anime/63745/High_Card_Picture_Drama__Bonus_Hand",
+      "year": 2026
+    }
+  ],
+  "pagination": {
+    "current_page": 7,
+    "has_next_page": false,
+    "items": {
+      "count": 25,
+      "per_page": 25,
+      "total": 175
+    },
+    "last_visible_page": 7
+  }
+}

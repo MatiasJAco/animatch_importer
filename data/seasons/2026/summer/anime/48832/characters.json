@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 304415,
+        "name": "Enomoto, Ami",
+        "url": "https://myanimelist.net/character/304415/Ami_Enomoto"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/92184.jpg"
+              }
+            },
+            "mal_id": 98654,
+            "name": "Kiyose, Yaeko",
+            "url": "https://myanimelist.net/people/98654/Yaeko_Kiyose"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 304414,
+        "name": "Honda, Ryou",
+        "url": "https://myanimelist.net/character/304414/Ryou_Honda"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/92183.jpg"
+              }
+            },
+            "mal_id": 98653,
+            "name": "Ookado, Takashi",
+            "url": "https://myanimelist.net/people/98653/Takashi_Ookado"
+          }
+        }
+      ]
+    }
+  ]
+}

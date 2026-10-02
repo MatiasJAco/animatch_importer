@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/614808.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/614808.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/614808t.webp"
+          }
+        },
+        "mal_id": 285034,
+        "name": "Bai, Xi",
+        "url": "https://myanimelist.net/character/285034/Xi_Bai"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/88947.jpg"
+              }
+            },
+            "mal_id": 93178,
+            "name": "Zhao, Mengjiao",
+            "url": "https://myanimelist.net/people/93178/Mengjiao_Zhao"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/614807.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/614807.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/614807t.webp"
+          }
+        },
+        "mal_id": 285033,
+        "name": "Ding, Xiao",
+        "url": "https://myanimelist.net/character/285033/Xiao_Ding"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/89688.jpg"
+              }
+            },
+            "mal_id": 92681,
+            "name": "Wei, Yifan",
+            "url": "https://myanimelist.net/people/92681/Yifan_Wei"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/625176.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/625176.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/625176t.webp"
+          }
+        },
+        "mal_id": 292061,
+        "name": "Ding, Ling",
+        "url": "https://myanimelist.net/character/292061/Ling_Ding"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/625178.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/625178.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/625178t.webp"
+          }
+        },
+        "mal_id": 292063,
+        "name": "Duanmu, Yan",
+        "url": "https://myanimelist.net/character/292063/Yan_Duanmu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/625177.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/625177.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/625177t.webp"
+          }
+        },
+        "mal_id": 292062,
+        "name": "Hou, Yi",
+        "url": "https://myanimelist.net/character/292062/Yi_Hou"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/611867.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/611867.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/611867t.webp"
+          }
+        },
+        "mal_id": 283335,
+        "name": "Alba",
+        "url": "https://myanimelist.net/character/283335/Alba"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 6011,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/76639.jpg"
+              }
+            },
+            "mal_id": 15919,
+            "name": "Murase, Ayumu",
+            "url": "https://myanimelist.net/people/15919/Ayumu_Murase"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/611868.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/611868.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/611868t.webp"
+          }
+        },
+        "mal_id": 283336,
+        "name": "Sol Saliente, Orsis",
+        "url": "https://myanimelist.net/character/283336/Orsis_Sol_Saliente"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 1588,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/66078.jpg"
+              }
+            },
+            "mal_id": 14879,
+            "name": "Aoi, Shouta",
+            "url": "https://myanimelist.net/people/14879/Shouta_Aoi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/628424.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/628424.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/628424t.webp"
+          }
+        },
+        "mal_id": 293843,
+        "name": "Bruno",
+        "url": "https://myanimelist.net/character/293843/Bruno"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 74,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/87353.jpg"
+              }
+            },
+            "mal_id": 36724,
+            "name": "Hirose, Yuuya",
+            "url": "https://myanimelist.net/people/36724/Yuuya_Hirose"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/628425.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/628425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/628425t.webp"
+          }
+        },
+        "mal_id": 293845,
+        "name": "Floro",
+        "url": "https://myanimelist.net/character/293845/Floro"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89795.jpg"
+              }
+            },
+            "mal_id": 60456,
+            "name": "Torigoe, Maaya",
+            "url": "https://myanimelist.net/people/60456/Maaya_Torigoe"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/628426.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/628426.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/628426t.webp"
+          }
+        },
+        "mal_id": 293844,
+        "name": "Sol Saliente, Hals",
+        "url": "https://myanimelist.net/character/293844/Hals_Sol_Saliente"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/57350.jpg"
+              }
+            },
+            "mal_id": 53043,
+            "name": "Tatsumori, Reo",
+            "url": "https://myanimelist.net/people/53043/Reo_Tatsumori"
+          }
+        }
+      ]
+    }
+  ]
+}

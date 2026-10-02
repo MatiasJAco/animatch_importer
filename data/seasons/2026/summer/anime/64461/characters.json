@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/558049.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/558049.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/558049t.webp"
+          }
+        },
+        "mal_id": 253709,
+        "name": "Sibuxiang",
+        "url": "https://myanimelist.net/character/253709/Sibuxiang"
+      },
+      "favorites": 17,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/557498.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/557498.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/557498t.webp"
+          }
+        },
+        "mal_id": 253376,
+        "name": "Tianlu",
+        "url": "https://myanimelist.net/character/253376/Tianlu"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/631577.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/631577.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/631577t.webp"
+          }
+        },
+        "mal_id": 175937,
+        "name": "Hua, Cheng",
+        "url": "https://myanimelist.net/character/175937/Cheng_Hua"
+      },
+      "favorites": 3593,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 20,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/60510.jpg"
+              }
+            },
+            "mal_id": 51913,
+            "name": "Ma, Zhengyang",
+            "url": "https://myanimelist.net/people/51913/Zhengyang_Ma"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/631600.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/631600.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/631600t.webp"
+          }
+        },
+        "mal_id": 174773,
+        "name": "Xie, Lian",
+        "url": "https://myanimelist.net/character/174773/Lian_Xie"
+      },
+      "favorites": 2925,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 1,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/88384.jpg"
+              }
+            },
+            "mal_id": 68566,
+            "name": "Deng, Youxi",
+            "url": "https://myanimelist.net/people/68566/Youxi_Deng"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/631623.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/631623.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/631623t.webp"
+          }
+        },
+        "mal_id": 204710,
+        "name": "Feng, Xin",
+        "url": "https://myanimelist.net/character/204710/Xin_Feng"
+      },
+      "favorites": 27,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/631628.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/631628.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/631628t.webp"
+          }
+        },
+        "mal_id": 295653,
+        "name": "Mei, Nianqing",
+        "url": "https://myanimelist.net/character/295653/Nianqing_Mei"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631622.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631622.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/631622t.webp"
+          }
+        },
+        "mal_id": 184092,
+        "name": "Mu, Qing",
+        "url": "https://myanimelist.net/character/184092/Qing_Mu"
+      },
+      "favorites": 169,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631630.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/631630.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/631630t.webp"
+          }
+        },
+        "mal_id": 295654,
+        "name": "Queen",
+        "url": "https://myanimelist.net/character/295654/Queen"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

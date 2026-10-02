@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/636580.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/636580.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/636580t.webp"
+          }
+        },
+        "mal_id": 198679,
+        "name": "Dao, Ma",
+        "url": "https://myanimelist.net/character/198679/Ma_Dao"
+      },
+      "favorites": 29,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/645079.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/645079.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/645079t.webp"
+          }
+        },
+        "mal_id": 233114,
+        "name": "Xiao Qi",
+        "url": "https://myanimelist.net/character/233114/Xiao_Qi"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Mandarin",
+          "person": {
+            "favorites": 3,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/73854.jpg"
+              }
+            },
+            "mal_id": 64063,
+            "name": "Geng, Minglin",
+            "url": "https://myanimelist.net/people/64063/Minglin_Geng"
+          }
+        }
+      ]
+    }
+  ]
+}

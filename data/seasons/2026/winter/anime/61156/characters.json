@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/505172.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/505172.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/505172t.webp"
+          }
+        },
+        "mal_id": 128463,
+        "name": "Miyao, Miya",
+        "url": "https://myanimelist.net/character/128463/Miya_Miyao"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/505147.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/505147.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/505147t.webp"
+          }
+        },
+        "mal_id": 128462,
+        "name": "Tenkuubashi, Tomoka",
+        "url": "https://myanimelist.net/character/128462/Tomoka_Tenkuubashi"
+      },
+      "favorites": 3,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/505148.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/505148.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/505148t.webp"
+          }
+        },
+        "mal_id": 128454,
+        "name": "Tokugawa, Matsuri",
+        "url": "https://myanimelist.net/character/128454/Matsuri_Tokugawa"
+      },
+      "favorites": 10,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

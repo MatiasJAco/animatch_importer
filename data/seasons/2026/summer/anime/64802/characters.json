@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/426891.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/426891.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/426891t.webp"
+          }
+        },
+        "mal_id": 145733,
+        "name": "Kyrielight, Mash",
+        "url": "https://myanimelist.net/character/145733/Mash_Kyrielight"
+      },
+      "favorites": 1432,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 63200,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/86541.jpg"
+              }
+            },
+            "mal_id": 34785,
+            "name": "Takahashi, Rie",
+            "url": "https://myanimelist.net/people/34785/Rie_Takahashi"
+          }
+        }
+      ]
+    }
+  ]
+}

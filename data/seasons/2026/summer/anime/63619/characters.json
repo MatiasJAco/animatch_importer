@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 305118,
+        "name": "Kamiya, Ryousuke",
+        "url": "https://myanimelist.net/character/305118/Ryousuke_Kamiya"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 98848,
+            "name": "Miyazora, Riku",
+            "url": "https://myanimelist.net/people/98848/Riku_Miyazora"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/644199.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/644199.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/644199t.webp"
+          }
+        },
+        "mal_id": 303071,
+        "name": "Someya, Ruuka",
+        "url": "https://myanimelist.net/character/303071/Ruuka_Someya"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+              }
+            },
+            "mal_id": 98628,
+            "name": "Yanagi, Hitomi",
+            "url": "https://myanimelist.net/people/98628/Hitomi_Yanagi"
+          }
+        }
+      ]
+    }
+  ]
+}

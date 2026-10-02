@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 288980,
+        "name": "Kumarba",
+        "url": "https://myanimelist.net/character/288980/Kumarba"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 6144,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/86885.jpg"
+              }
+            },
+            "mal_id": 49011,
+            "name": "Fairouz Ai",
+            "url": "https://myanimelist.net/people/49011/Fairouz_Ai"
+          }
+        }
+      ]
+    }
+  ]
+}

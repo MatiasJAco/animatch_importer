@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/430531.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/430531.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/430531t.webp"
+          }
+        },
+        "mal_id": 191703,
+        "name": "Bucchi, Ruggie",
+        "url": "https://myanimelist.net/character/191703/Ruggie_Bucchi"
+      },
+      "favorites": 38,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 152,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/64083.jpg"
+              }
+            },
+            "mal_id": 42747,
+            "name": "Ichikawa, Aoi",
+            "url": "https://myanimelist.net/people/42747/Aoi_Ichikawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/430534.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/430534.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/430534t.webp"
+          }
+        },
+        "mal_id": 191705,
+        "name": "Howl, Jack",
+        "url": "https://myanimelist.net/character/191705/Jack_Howl"
+      },
+      "favorites": 16,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 645,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/91995.jpg"
+              }
+            },
+            "mal_id": 47739,
+            "name": "Ban, Taito",
+            "url": "https://myanimelist.net/people/47739/Taito_Ban"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/430533.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/430533.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/430533t.webp"
+          }
+        },
+        "mal_id": 191704,
+        "name": "Kingscholar, Leona",
+        "url": "https://myanimelist.net/character/191704/Leona_Kingscholar"
+      },
+      "favorites": 99,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 4666,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/60856.jpg"
+              }
+            },
+            "mal_id": 34209,
+            "name": "Umehara, Yuuichirou",
+            "url": "https://myanimelist.net/people/34209/Yuuichirou_Umehara"
+          }
+        }
+      ]
+    }
+  ]
+}

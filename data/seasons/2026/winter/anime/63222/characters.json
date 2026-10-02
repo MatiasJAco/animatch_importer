@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 287223,
+        "name": "Kashima, Tsumugi",
+        "url": "https://myanimelist.net/character/287223/Tsumugi_Kashima"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 661,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/90490.jpg"
+              }
+            },
+            "mal_id": 35441,
+            "name": "Kouno, Marika",
+            "url": "https://myanimelist.net/people/35441/Marika_Kouno"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 287222,
+        "name": "Wakura, Yuki",
+        "url": "https://myanimelist.net/character/287222/Yuki_Wakura"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 7912,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/86544.jpg"
+              }
+            },
+            "mal_id": 26063,
+            "name": "Ueda, Reina",
+            "url": "https://myanimelist.net/people/26063/Reina_Ueda"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 287224,
+        "name": "Wakura, Youko",
+        "url": "https://myanimelist.net/character/287224/Youko_Wakura"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 8642,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/85149.jpg"
+              }
+            },
+            "mal_id": 40,
+            "name": "Noto, Mamiko",
+            "url": "https://myanimelist.net/people/40/Mamiko_Noto"
+          }
+        }
+      ]
+    }
+  ]
+}

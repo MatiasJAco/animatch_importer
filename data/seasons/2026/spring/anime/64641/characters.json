@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/640510.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/640510.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/640510t.webp"
+          }
+        },
+        "mal_id": 300883,
+        "name": "Nyabby",
+        "url": "https://myanimelist.net/character/300883/Nyabby"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/509143.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/12/509143.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/12/509143t.webp"
+          }
+        },
+        "mal_id": 228160,
+        "name": "Nyahoja",
+        "url": "https://myanimelist.net/character/228160/Nyahoja"
+      },
+      "favorites": 34,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/521894.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/521894.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/521894t.webp"
+          }
+        },
+        "mal_id": 234566,
+        "name": "Nyasper",
+        "url": "https://myanimelist.net/character/234566/Nyasper"
+      },
+      "favorites": 13,
+      "role": "Supporting",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/560254.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/3/560254.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/3/560254t.webp"
+          }
+        },
+        "mal_id": 254837,
+        "name": "Uu",
+        "url": "https://myanimelist.net/character/254837/Uu"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

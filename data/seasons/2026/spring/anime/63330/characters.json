@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/615901.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/615901.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/615901t.webp"
+          }
+        },
+        "mal_id": 241838,
+        "name": "Nadeshiko",
+        "url": "https://myanimelist.net/character/241838/Nadeshiko"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/615898.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/615898.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/615898t.webp"
+          }
+        },
+        "mal_id": 241837,
+        "name": "Tsuda, Akane",
+        "url": "https://myanimelist.net/character/241837/Akane_Tsuda"
+      },
+      "favorites": 2,
+      "role": "Main",
+      "voice_actors": []
+    }
+  ]
+}

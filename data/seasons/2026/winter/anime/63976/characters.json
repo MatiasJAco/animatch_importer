@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/543113.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/543113.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/543113t.webp"
+          }
+        },
+        "mal_id": 245487,
+        "name": "Hachi",
+        "url": "https://myanimelist.net/character/245487/Hachi"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 82,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/43365.jpg"
+              }
+            },
+            "mal_id": 40393,
+            "name": "Watada, Misaki",
+            "url": "https://myanimelist.net/people/40393/Misaki_Watada"
+          }
+        }
+      ]
+    }
+  ]
+}

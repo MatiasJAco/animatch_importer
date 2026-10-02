@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/613047.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/613047.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/613047t.webp"
+          }
+        },
+        "mal_id": 217906,
+        "name": "Shi, Hao",
+        "url": "https://myanimelist.net/character/217906/Hao_Shi"
+      },
+      "favorites": 52,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/613126.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/613126.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/613126t.webp"
+          }
+        },
+        "mal_id": 217909,
+        "name": "Liu Shen",
+        "url": "https://myanimelist.net/character/217909/Liu_Shen"
+      },
+      "favorites": 21,
+      "role": "Supporting",
+      "voice_actors": []
+    }
+  ]
+}

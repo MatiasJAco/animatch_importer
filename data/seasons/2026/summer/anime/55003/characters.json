@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 262826,
+        "name": "Hazama, Ken",
+        "url": "https://myanimelist.net/character/262826/Ken_Hazama"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": []
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/582626.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/582626.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/582626t.webp"
+          }
+        },
+        "mal_id": 234778,
+        "name": "Misaki, Akane",
+        "url": "https://myanimelist.net/character/234778/Akane_Misaki"
+      },
+      "favorites": 6,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 17,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/78555.jpg"
+              }
+            },
+            "mal_id": 70708,
+            "name": "Ayane, Mako",
+            "url": "https://myanimelist.net/people/70708/Mako_Ayane"
+          }
+        }
+      ]
+    }
+  ]
+}

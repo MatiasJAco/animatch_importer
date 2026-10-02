@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/616137.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/4/616137.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/4/616137t.webp"
+          }
+        },
+        "mal_id": 282886,
+        "name": "Ishikawa, Kanami",
+        "url": "https://myanimelist.net/character/282886/Kanami_Ishikawa"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 289,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/78287.jpg"
+              }
+            },
+            "mal_id": 49032,
+            "name": "Natsuyoshi, Yuuko",
+            "url": "https://myanimelist.net/people/49032/Yuuko_Natsuyoshi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/628574.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/628574.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/628574t.webp"
+          }
+        },
+        "mal_id": 283760,
+        "name": "Ishikawa, Kurumi",
+        "url": "https://myanimelist.net/character/283760/Kurumi_Ishikawa"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 2502,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/81473.jpg"
+              }
+            },
+            "mal_id": 48048,
+            "name": "Hasegawa, Ikumi",
+            "url": "https://myanimelist.net/people/48048/Ikumi_Hasegawa"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/581918.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/581918.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/581918t.webp"
+          }
+        },
+        "mal_id": 238872,
+        "name": "Myoudou, Akina",
+        "url": "https://myanimelist.net/character/238872/Akina_Myoudou"
+      },
+      "favorites": 8,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 7,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/79664.jpg"
+              }
+            },
+            "mal_id": 51534,
+            "name": "Miyata, Toshiya",
+            "url": "https://myanimelist.net/people/51534/Toshiya_Miyata"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/569425.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/569425.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/569425t.webp"
+          }
+        },
+        "mal_id": 238876,
+        "name": "Myoudou, Hikari",
+        "url": "https://myanimelist.net/character/238876/Hikari_Myoudou"
+      },
+      "favorites": 4,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 42,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/88153.jpg"
+              }
+            },
+            "mal_id": 48325,
+            "name": "Yukimura, Eri",
+            "url": "https://myanimelist.net/people/48325/Eri_Yukimura"
+          }
+        }
+      ]
+    }
+  ]
+}

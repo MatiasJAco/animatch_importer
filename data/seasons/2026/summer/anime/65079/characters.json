@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/504336.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/11/504336.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/11/504336t.webp"
+          }
+        },
+        "mal_id": 224442,
+        "name": "Uunyan",
+        "url": "https://myanimelist.net/character/224442/Uunyan"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/89391.jpg"
+              }
+            },
+            "mal_id": 40604,
+            "name": "Yukimiyama, Fukuko",
+            "url": "https://myanimelist.net/people/40604/Fukuko_Yukimiyama"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/504635.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/504635.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/504635t.webp"
+          }
+        },
+        "mal_id": 225753,
+        "name": "Carpa",
+        "url": "https://myanimelist.net/character/225753/Carpa"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 850,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/68017.jpg"
+              }
+            },
+            "mal_id": 117,
+            "name": "Kadowaki, Mai",
+            "url": "https://myanimelist.net/people/117/Mai_Kadowaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/511478.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/511478.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/511478t.webp"
+          }
+        },
+        "mal_id": 229696,
+        "name": "Nezumi Tenchou",
+        "url": "https://myanimelist.net/character/229696/Nezumi_Tenchou"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 850,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/68017.jpg"
+              }
+            },
+            "mal_id": 117,
+            "name": "Kadowaki, Mai",
+            "url": "https://myanimelist.net/people/117/Mai_Kadowaki"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/504506.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/6/504506.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/6/504506t.webp"
+          }
+        },
+        "mal_id": 225658,
+        "name": "Silva",
+        "url": "https://myanimelist.net/character/225658/Silva"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 117,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/32459.jpg"
+              }
+            },
+            "mal_id": 700,
+            "name": "Inoue, Suguru",
+            "url": "https://myanimelist.net/people/700/Suguru_Inoue"
+          }
+        }
+      ]
+    }
+  ]
+}

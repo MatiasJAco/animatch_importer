@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/620414.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/13/620414.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/13/620414t.webp"
+          }
+        },
+        "mal_id": 288766,
+        "name": "Hayama, Akira",
+        "url": "https://myanimelist.net/character/288766/Akira_Hayama"
+      },
+      "favorites": 1,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 118,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/70505.jpg"
+              }
+            },
+            "mal_id": 59792,
+            "name": "Hara, Nanoka",
+            "url": "https://myanimelist.net/people/59792/Nanoka_Hara"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/620413.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/15/620413.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/15/620413t.webp"
+          }
+        },
+        "mal_id": 288765,
+        "name": "Natsume, Makoto",
+        "url": "https://myanimelist.net/character/288765/Makoto_Natsume"
+      },
+      "favorites": 0,
+      "role": "Main",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 2,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/88615.jpg"
+              }
+            },
+            "mal_id": 92817,
+            "name": "Satou, Shouri",
+            "url": "https://myanimelist.net/people/92817/Shouri_Satou"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 296193,
+        "name": "Haru",
+        "url": "https://myanimelist.net/character/296193/Haru"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 63200,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/3/86541.jpg"
+              }
+            },
+            "mal_id": 34785,
+            "name": "Takahashi, Rie",
+            "url": "https://myanimelist.net/people/34785/Rie_Takahashi"
+          }
+        }
+      ]
+    },
+    {
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif",
+            "small_image_url": "https://cdn.myanimelist.net/images/questionmark_23.gif"
+          }
+        },
+        "mal_id": 296194,
+        "name": "Natsume, Yukari",
+        "url": "https://myanimelist.net/character/296194/Yukari_Natsume"
+      },
+      "favorites": 0,
+      "role": "Supporting",
+      "voice_actors": [
+        {
+          "language": "Japanese",
+          "person": {
+            "favorites": 0,
+            "images": {
+              "jpg": {
+                "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/71296.jpg"
+              }
+            },
+            "mal_id": 60920,
+            "name": "Yokosawa, Natsuko",
+            "url": "https://myanimelist.net/people/60920/Natsuko_Yokosawa"
+          }
+        }
+      ]
+    }
+  ]
+}
