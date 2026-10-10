@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS voice_roles (
     raw_json JSONB NOT NULL,
     first_seen_at TIMESTAMPTZ NOT NULL DEFAULT now(),
     updated_at TIMESTAMPTZ NOT NULL DEFAULT now(),
-    PRIMARY KEY (person_mal_id, character_mal_id, anime_mal_id, language)
+    PRIMARY KEY (person_mal_id, character_mal_id, anime_mal_id)
 );
 
 CREATE TABLE IF NOT EXISTS anime_seasons (

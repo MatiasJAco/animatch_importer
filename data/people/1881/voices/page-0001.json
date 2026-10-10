@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1065/145480.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/145480l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/145480t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1065/145480.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1065/145480l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1065/145480t.webp"
+          }
+        },
+        "mal_id": 2386,
+        "title": "One Piece: Yume no Soccer Ou!",
+        "url": "https://myanimelist.net/anime/2386/One_Piece__Yume_no_Soccer_Ou"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/55993.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/9/55993l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/55993t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/9/55993.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/9/55993l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/9/55993t.webp"
+          }
+        },
+        "mal_id": 12281,
+        "name": "Oda, Eiichirou",
+        "url": "https://myanimelist.net/character/12281/Eiichirou_Oda"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

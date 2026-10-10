@@ -1,0 +1,916 @@
+{
+  "data": {
+    "about": "Makoto Shinkai was born in Koumi, Nagano.\n\n- Makoto Shinkai, is a Japanese filmmaker and novelist. Also founder of CoMix Wave Films.\n\n- He studied Japanese literature at Chuo University, where he was a member of the juvenile literature club and drew picture books.\n\n- He began his career as a video game animator with Nihon Falcom in 1996, and gained recognition as a filmmaker with the release of the original video animation OVA She and Her Cat (1999).\n\n- Shinkai then released the science fiction OVA Voices of a Distant Star (2002) as his first feature with CoMix Wave, followed by his debut feature film The Place Promised in Our Early Days (2004).\n\n- His three most recent films Your Name (2016), Weathering with You (2019), and Suzume (2022), collectively known as \"Disaster trilogy\", are all among the highest-grossing Japanese films of all time, both in Japan and worldwide at the time of their release.\n\nTwitter: @shinkaimakoto",
+    "alternate_names": [],
+    "anime": [
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/87048t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/87048.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/87048l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/87048t.webp"
+            }
+          },
+          "mal_id": 32281,
+          "title": "Kimi no Na wa.",
+          "url": "https://myanimelist.net/anime/32281/Kimi_no_Na_wa"
+        },
+        "position": "Director, Script, Storyboard, Original Creator, Director of Photography, Color Design, Editing"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1880/101146.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/101146l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/101146t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1880/101146.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1880/101146l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1880/101146t.webp"
+            }
+          },
+          "mal_id": 38826,
+          "title": "Tenki no Ko",
+          "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko"
+        },
+        "position": "Director, Script, Original Creator, Director of Photography, Color Design, Editing"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1410/112994l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1410/112994t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1410/112994.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1410/112994l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1410/112994t.webp"
+            }
+          },
+          "mal_id": 1689,
+          "title": "Byousoku 5 Centimeter",
+          "url": "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter"
+        },
+        "position": "Director, Script, Storyboard, Episode Director, Original Creator, Original Character Design, Art Director, Director of Photography, Color Design, Editing, Sound Director"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1597/112995.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/112995l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/112995t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1597/112995.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1597/112995l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1597/112995t.webp"
+            }
+          },
+          "mal_id": 16782,
+          "title": "Kotonoha no Niwa",
+          "url": "https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
+        },
+        "position": "Director, Script, Storyboard, Original Creator, Director of Photography, Color Design, Editing"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1598/128450.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/128450l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/128450t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1598/128450.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1598/128450l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1598/128450t.webp"
+            }
+          },
+          "mal_id": 50594,
+          "title": "Suzume no Tojimari",
+          "url": "https://myanimelist.net/anime/50594/Suzume_no_Tojimari"
+        },
+        "position": "Director, Storyboard, Original Creator, Editing, Screenplay"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1725/133738.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1725/133738l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1725/133738t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1725/133738.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1725/133738l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1725/133738t.webp"
+            }
+          },
+          "mal_id": 433,
+          "title": "Kumo no Mukou, Yakusoku no Basho",
+          "url": "https://myanimelist.net/anime/433/Kumo_no_Mukou_Yakusoku_no_Basho"
+        },
+        "position": "Director, Script, Storyboard, Original Creator, Executive Producer, Color Design, Editing, Sound Director, Theme Song Lyrics, Producer"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1000/133740.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/133740l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/133740t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1000/133740.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1000/133740l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1000/133740t.webp"
+            }
+          },
+          "mal_id": 9760,
+          "title": "Hoshi wo Ou Kodomo",
+          "url": "https://myanimelist.net/anime/9760/Hoshi_wo_Ou_Kodomo"
+        },
+        "position": "Director, Creator, Director of Photography, Color Design, Editing, Screenplay"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1980/112997.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1980/112997.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997t.webp"
+            }
+          },
+          "mal_id": 256,
+          "title": "Hoshi no Koe",
+          "url": "https://myanimelist.net/anime/256/Hoshi_no_Koe"
+        },
+        "position": "Director, Script, Character Design, Animation Director, Executive Producer, Producer"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/79716l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/79716t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/79716l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/79716t.webp"
+            }
+          },
+          "mal_id": 32491,
+          "title": "Kanojo to Kanojo no Neko: Everything Flows",
+          "url": "https://myanimelist.net/anime/32491/Kanojo_to_Kanojo_no_Neko__Everything_Flows"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73498l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73498t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73498l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73498t.webp"
+            }
+          },
+          "mal_id": 1004,
+          "title": "Kanojo to Kanojo no Neko",
+          "url": "https://myanimelist.net/anime/1004/Kanojo_to_Kanojo_no_Neko"
+        },
+        "position": "Director, Script, Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1569/103114.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/103114l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/103114t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1569/103114.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1569/103114l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1569/103114t.webp"
+            }
+          },
+          "mal_id": 22839,
+          "title": "Cross Road",
+          "url": "https://myanimelist.net/anime/22839/Cross_Road"
+        },
+        "position": "Director, Script, Storyboard, Episode Director, Editing, Theme Song Lyrics"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1268/123600.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/123600l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/123600t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1268/123600.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1268/123600l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1268/123600t.webp"
+            }
+          },
+          "mal_id": 17121,
+          "title": "Dareka no Manazashi",
+          "url": "https://myanimelist.net/anime/17121/Dareka_no_Manazashi"
+        },
+        "position": "Director, Script, Storyboard, Episode Director"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/62923.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/62923l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/62923t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/62923.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/62923l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/62923t.webp"
+            }
+          },
+          "mal_id": 2832,
+          "title": "Ani*Kuri15",
+          "url": "https://myanimelist.net/anime/2832/Ani_Kuri15"
+        },
+        "position": "Storyboard (Neko no Shuukai), Episode Director (Neko no Shuukai), Original Creator (Neko no Shuukai), Director of Photography (Neko no Shuukai), Background Art (Neko no Shuukai), Color Design (Neko no Shuukai), Editing (Neko no Shuukai)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1427/103656.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/103656l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/103656t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1427/103656.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1427/103656l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1427/103656t.webp"
+            }
+          },
+          "mal_id": 2210,
+          "title": "Tooi Sekai",
+          "url": "https://myanimelist.net/anime/2210/Tooi_Sekai"
+        },
+        "position": "Director, Creator, Producer"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/81596.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/81596l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/81596t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/81596.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/81596l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/81596t.webp"
+            }
+          },
+          "mal_id": 33902,
+          "title": "Suntory Minami Alps no Tennensui",
+          "url": "https://myanimelist.net/anime/33902/Suntory_Minami_Alps_no_Tennensui"
+        },
+        "position": "Director"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1159/133739.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/133739l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/133739t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1159/133739.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1159/133739l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1159/133739t.webp"
+            }
+          },
+          "mal_id": 2953,
+          "title": "Egao",
+          "url": "https://myanimelist.net/anime/2953/Egao"
+        },
+        "position": "Director"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1480/132195.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/132195l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/132195t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1480/132195.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/132195l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/132195t.webp"
+            }
+          },
+          "mal_id": 53731,
+          "title": "Big Mac to, Susume",
+          "url": "https://myanimelist.net/anime/53731/Big_Mac_to_Susume"
+        },
+        "position": "Director"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/7/47431.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/7/47431l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/7/47431t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/7/47431.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/7/47431l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/7/47431t.webp"
+            }
+          },
+          "mal_id": 13691,
+          "title": "Taisei Kensetsu CMs",
+          "url": "https://myanimelist.net/anime/13691/Taisei_Kensetsu_CMs"
+        },
+        "position": "Director, Storyboard, Episode Director, Editing"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/64593.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/64593l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/64593t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/64593.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/64593l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/64593t.webp"
+            }
+          },
+          "mal_id": 25271,
+          "title": "Shinano Mainichi Shinbun",
+          "url": "https://myanimelist.net/anime/25271/Shinano_Mainichi_Shinbun"
+        },
+        "position": "Director, Background Art"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/2/28454.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28454l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28454t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/2/28454.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/2/28454l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/2/28454t.webp"
+            }
+          },
+          "mal_id": 10354,
+          "title": "Kakomareta Sekai",
+          "url": "https://myanimelist.net/anime/10354/Kakomareta_Sekai"
+        },
+        "position": "Director"
+      }
+    ],
+    "birthday": "1973-02-09T00:00:00+00:00",
+    "family_name": "新海",
+    "favorites": 34015,
+    "given_name": "誠",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/83945.jpg"
+      }
+    },
+    "mal_id": 1117,
+    "manga": [
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/182270.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/182270l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/182270t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/182270.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/182270l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/182270t.webp"
+            }
+          },
+          "mal_id": 99314,
+          "title": "Kimi no Na wa.",
+          "url": "https://myanimelist.net/manga/99314/Kimi_no_Na_wa"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/138585.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138585l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138585t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/138585.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/138585l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/138585t.webp"
+            }
+          },
+          "mal_id": 23419,
+          "title": "Byousoku 5 Centimeter",
+          "url": "https://myanimelist.net/manga/23419/Byousoku_5_Centimeter"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/130253.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/130253l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/130253t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/130253.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/130253l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/130253t.webp"
+            }
+          },
+          "mal_id": 366,
+          "title": "Hoshi no Koe",
+          "url": "https://myanimelist.net/manga/366/Hoshi_no_Koe"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/182560.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182560l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182560t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/182560.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/182560l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/182560t.webp"
+            }
+          },
+          "mal_id": 96334,
+          "title": "Kanojo to Kanojo no Neko",
+          "url": "https://myanimelist.net/manga/96334/Kanojo_to_Kanojo_no_Neko"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/4/128633.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/4/128633l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/4/128633t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/4/128633.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/4/128633l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/4/128633t.webp"
+            }
+          },
+          "mal_id": 51747,
+          "title": "Kotonoha no Niwa",
+          "url": "https://myanimelist.net/manga/51747/Kotonoha_no_Niwa"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/230890.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/230890l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/230890t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/230890.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/230890l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/230890t.webp"
+            }
+          },
+          "mal_id": 121781,
+          "title": "Shousetsu Kimi no Na wa.",
+          "url": "https://myanimelist.net/manga/121781/Shousetsu_Kimi_no_Na_wa"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/226128.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226128l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226128t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/226128.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/226128l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/226128t.webp"
+            }
+          },
+          "mal_id": 123968,
+          "title": "Tenki no Ko",
+          "url": "https://myanimelist.net/manga/123968/Tenki_no_Ko"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/281622.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281622l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281622t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/281622.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/281622l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/281622t.webp"
+            }
+          },
+          "mal_id": 34841,
+          "title": "Byousoku 5 Centimeter",
+          "url": "https://myanimelist.net/manga/34841/Byousoku_5_Centimeter"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/128765.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128765l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128765t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/128765.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/128765l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/128765t.webp"
+            }
+          },
+          "mal_id": 7247,
+          "title": "Kumo no Mukou, Yakusoku no Basho",
+          "url": "https://myanimelist.net/manga/7247/Kumo_no_Mukou_Yakusoku_no_Basho"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/278730.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/278730l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/278730t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/278730.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/278730l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/278730t.webp"
+            }
+          },
+          "mal_id": 152974,
+          "title": "Suzume no Tojimari",
+          "url": "https://myanimelist.net/manga/152974/Suzume_no_Tojimari"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/265837.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265837l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265837t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/265837.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/265837l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/265837t.webp"
+            }
+          },
+          "mal_id": 123756,
+          "title": "Shousetsu Tenki no Ko",
+          "url": "https://myanimelist.net/manga/123756/Shousetsu_Tenki_no_Ko"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/99343.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/99343l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/99343t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/99343.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/99343l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/99343t.webp"
+            }
+          },
+          "mal_id": 28755,
+          "title": "Hoshi wo Ou Kodomo",
+          "url": "https://myanimelist.net/manga/28755/Hoshi_wo_Ou_Kodomo"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/270999.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270999l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270999t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/270999.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/270999l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/270999t.webp"
+            }
+          },
+          "mal_id": 153041,
+          "title": "Shousetsu Suzume no Tojimari",
+          "url": "https://myanimelist.net/manga/153041/Shousetsu_Suzume_no_Tojimari"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/99351.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/99351l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/99351t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/99351.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/99351l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/99351t.webp"
+            }
+          },
+          "mal_id": 44855,
+          "title": "Hoshi wo Ou Kodomo: Agartha no Shounen",
+          "url": "https://myanimelist.net/manga/44855/Hoshi_wo_Ou_Kodomo__Agartha_no_Shounen"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/265836.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265836l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265836t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/265836.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/265836l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/265836t.webp"
+            }
+          },
+          "mal_id": 113124,
+          "title": "Shousetsu Kotonoha no Niwa",
+          "url": "https://myanimelist.net/manga/113124/Shousetsu_Kotonoha_no_Niwa"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/240830.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/240830l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/240830t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/240830.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/240830l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/240830t.webp"
+            }
+          },
+          "mal_id": 110938,
+          "title": "Hoshi no Koe: The Voices of a Distant Star",
+          "url": "https://myanimelist.net/manga/110938/Hoshi_no_Koe__The_Voices_of_a_Distant_Star"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/269782.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269782l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269782t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/269782.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/269782l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/269782t.webp"
+            }
+          },
+          "mal_id": 134699,
+          "title": "Hoshi wo Ou Kodomo",
+          "url": "https://myanimelist.net/manga/134699/Hoshi_wo_Ou_Kodomo"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/271086.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/271086l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/271086t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/271086.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/271086l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/271086t.webp"
+            }
+          },
+          "mal_id": 142718,
+          "title": "Cross Road: In Their Cases",
+          "url": "https://myanimelist.net/manga/142718/Cross_Road__In_Their_Cases"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/306003.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/306003l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/306003t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/306003.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/306003l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/306003t.webp"
+            }
+          },
+          "mal_id": 171916,
+          "title": "Kanojo to Kanojo no Neko",
+          "url": "https://myanimelist.net/manga/171916/Kanojo_to_Kanojo_no_Neko"
+        },
+        "position": "Story"
+      }
+    ],
+    "name": "Shinkai, Makoto",
+    "url": "https://myanimelist.net/people/1117/Makoto_Shinkai",
+    "voices": [
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/79716l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/79716t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/79716.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/79716l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/79716t.webp"
+            }
+          },
+          "mal_id": 32491,
+          "title": "Kanojo to Kanojo no Neko: Everything Flows",
+          "url": "https://myanimelist.net/anime/32491/Kanojo_to_Kanojo_no_Neko__Everything_Flows"
+        },
+        "character": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/102639.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/16/102639l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/16/102639t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/102639.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/16/102639l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/16/102639t.webp"
+            }
+          },
+          "mal_id": 7801,
+          "name": "Chobi",
+          "url": "https://myanimelist.net/character/7801/Chobi"
+        },
+        "role": "Supporting"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1980/112997.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1980/112997.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1980/112997t.webp"
+            }
+          },
+          "mal_id": 256,
+          "title": "Hoshi no Koe",
+          "url": "https://myanimelist.net/anime/256/Hoshi_no_Koe"
+        },
+        "character": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/12/61471.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/12/61471l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/12/61471t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/12/61471.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/12/61471l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/12/61471t.webp"
+            }
+          },
+          "mal_id": 3531,
+          "name": "Terao, Noboru",
+          "url": "https://myanimelist.net/character/3531/Noboru_Terao"
+        },
+        "role": "Main"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73498l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73498t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/11/73498.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/11/73498l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/11/73498t.webp"
+            }
+          },
+          "mal_id": 1004,
+          "title": "Kanojo to Kanojo no Neko",
+          "url": "https://myanimelist.net/anime/1004/Kanojo_to_Kanojo_no_Neko"
+        },
+        "character": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/102639.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/16/102639l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/16/102639t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/characters/16/102639.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/characters/16/102639l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/characters/16/102639t.webp"
+            }
+          },
+          "mal_id": 7801,
+          "name": "Chobi",
+          "url": "https://myanimelist.net/character/7801/Chobi"
+        },
+        "role": "Main"
+      }
+    ],
+    "website_url": "https://www.shinkaiworks.com"
+  }
+}

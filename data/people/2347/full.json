@@ -1,0 +1,607 @@
+{
+  "data": {
+    "about": "One of the founding members of the software company Key. Original creator and main composer of most of Key's visual novels.\n\nNotable works:\n\n- Kanon (Mai & Makoto routes)\n\n- Air\n\n- Clannad + After Story\n\n- Angel Beats!\n\n- Tomoyo After\n\n- Little Busters! + Refrain!\n\n- Charlotte\n\nBefore forming Key, Maeda worked for the company Tactics where he had a hand in the creation of two games for that company\n\n- Moon.\n\n- One: Kagayaku Kisetsu e\n\nOn February 10, 2022, he participated in the creation of the game \"Heaven Burns Red\" as a writer, scenario designer, composer, and lyricist, continuing his fictional world full of drama.\n\nThe central phrase of this game is \"最上の、切なさを\" (The ultimate sadness).",
+    "alternate_names": [
+      "Daamae",
+      "だーまえ"
+    ],
+    "anime": [
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/111115l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/111115t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1244/111115.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/111115l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1244/111115t.webp"
+            }
+          },
+          "mal_id": 6547,
+          "title": "Angel Beats!",
+          "url": "https://myanimelist.net/anime/6547/Angel_Beats"
+        },
+        "position": "Script (eps 1-13), Music (composer), Original Creator, Theme Song Composition (OP, ED), Theme Song Lyrics (OP, ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1826/147276.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/147276l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/147276t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1826/147276.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1826/147276l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1826/147276t.webp"
+            }
+          },
+          "mal_id": 28999,
+          "title": "Charlotte",
+          "url": "https://myanimelist.net/anime/28999/Charlotte"
+        },
+        "position": "Script, Music, Original Creator, Theme Song Composition (OP, ED), Theme Song Lyrics (OP, ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1804/95033.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/95033t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1804/95033.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1804/95033l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1804/95033t.webp"
+            }
+          },
+          "mal_id": 2167,
+          "title": "Clannad",
+          "url": "https://myanimelist.net/anime/2167/Clannad"
+        },
+        "position": "Music, Original Creator, Theme Song Composition (ED), Theme Song Lyrics (ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1299/110774.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/110774t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1299/110774.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1299/110774l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1299/110774t.webp"
+            }
+          },
+          "mal_id": 4181,
+          "title": "Clannad: After Story",
+          "url": "https://myanimelist.net/anime/4181/Clannad__After_Story"
+        },
+        "position": "Music, Original Creator, Theme Song Composition (OP), Theme Song Lyrics (OP)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1825/146531.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1825/146531.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1825/146531t.webp"
+            }
+          },
+          "mal_id": 101,
+          "title": "Air",
+          "url": "https://myanimelist.net/anime/101/Air"
+        },
+        "position": "Music, Theme Song Lyrics (OP/ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/6/43757.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/6/43757l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/6/43757t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/6/43757.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/6/43757l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/6/43757t.webp"
+            }
+          },
+          "mal_id": 13655,
+          "title": "Little Busters!",
+          "url": "https://myanimelist.net/anime/13655/Little_Busters"
+        },
+        "position": "Music, Original Creator, Theme Song Composition (OP)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1362/128746.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/128746l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/128746t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1362/128746.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1362/128746l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1362/128746t.webp"
+            }
+          },
+          "mal_id": 1530,
+          "title": "Kanon (2006)",
+          "url": "https://myanimelist.net/anime/1530/Kanon_2006"
+        },
+        "position": "Music, Theme Song Lyrics"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1396/109465l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1396/109465t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1396/109465.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1396/109465l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1396/109465t.webp"
+            }
+          },
+          "mal_id": 41930,
+          "title": "Kamisama ni Natta Hi",
+          "url": "https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi"
+        },
+        "position": "Script, Music, Original Creator, Theme Song Lyrics"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/25073.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/25073l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/25073t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/25073.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/25073l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/25073t.webp"
+            }
+          },
+          "mal_id": 9062,
+          "title": "Angel Beats! Specials",
+          "url": "https://myanimelist.net/anime/9062/Angel_Beats_Specials"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1399/131410.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/131410l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/131410t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1399/131410.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1399/131410l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1399/131410t.webp"
+            }
+          },
+          "mal_id": 10067,
+          "title": "Angel Beats! Another Epilogue",
+          "url": "https://myanimelist.net/anime/10067/Angel_Beats_Another_Epilogue"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1827/92122.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/92122l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/92122t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1827/92122.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1827/92122l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1827/92122t.webp"
+            }
+          },
+          "mal_id": 31716,
+          "title": "Rewrite",
+          "url": "https://myanimelist.net/anime/31716/Rewrite"
+        },
+        "position": "Music, Theme Song Composition (OP2), Theme Song Lyrics (OP2)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1709/98068.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1709/98068l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1709/98068t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1709/98068.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1709/98068l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1709/98068t.webp"
+            }
+          },
+          "mal_id": 31553,
+          "title": "Charlotte: Tsuyoimono-tachi",
+          "url": "https://myanimelist.net/anime/31553/Charlotte__Tsuyoimono-tachi"
+        },
+        "position": "Script, Music, Theme Song Lyrics"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/55049.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/55049l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/55049t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/55049.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/55049l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/55049t.webp"
+            }
+          },
+          "mal_id": 18195,
+          "title": "Little Busters! Refrain",
+          "url": "https://myanimelist.net/anime/18195/Little_Busters_Refrain"
+        },
+        "position": "Music, Original Creator, Theme Song Composition (OP), Theme Song Lyrics (OP)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/83930.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83930l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83930t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/13/83930.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/13/83930l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/13/83930t.webp"
+            }
+          },
+          "mal_id": 34126,
+          "title": "Rewrite 2nd Season",
+          "url": "https://myanimelist.net/anime/34126/Rewrite_2nd_Season"
+        },
+        "position": "Music"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1691/148602.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/148602l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/148602t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1691/148602.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1691/148602l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1691/148602t.webp"
+            }
+          },
+          "mal_id": 50694,
+          "title": "Summer Pockets",
+          "url": "https://myanimelist.net/anime/50694/Summer_Pockets"
+        },
+        "position": "Music, Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1552/128388.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/128388l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/128388t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1552/128388.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1552/128388l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1552/128388t.webp"
+            }
+          },
+          "mal_id": 144,
+          "title": "Kanon",
+          "url": "https://myanimelist.net/anime/144/Kanon"
+        },
+        "position": "Theme Song Composition"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/16697.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/16697l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/16697t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/16697.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/16697l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/16697t.webp"
+            }
+          },
+          "mal_id": 3231,
+          "title": "Gunslinger Girl: Il Teatrino",
+          "url": "https://myanimelist.net/anime/3231/Gunslinger_Girl__Il_Teatrino"
+        },
+        "position": "Theme Song Composition (ED), Theme Song Lyrics (ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/26507.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/26507l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/26507t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/26507.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/26507l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/26507t.webp"
+            }
+          },
+          "mal_id": 713,
+          "title": "Air Movie",
+          "url": "https://myanimelist.net/anime/713/Air_Movie"
+        },
+        "position": "Music"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/3/59031.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/3/59031l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/3/59031t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/3/59031.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/3/59031l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/3/59031t.webp"
+            }
+          },
+          "mal_id": 20517,
+          "title": "Little Busters! EX",
+          "url": "https://myanimelist.net/anime/20517/Little_Busters_EX"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1553/124311.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1553/124311l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1553/124311t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1553/124311.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1553/124311l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1553/124311t.webp"
+            }
+          },
+          "mal_id": 50917,
+          "title": "Prima Doll",
+          "url": "https://myanimelist.net/anime/50917/Prima_Doll"
+        },
+        "position": "Theme Song Composition (OP, ED8)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1108/119277.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/119277l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/119277t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1108/119277.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1108/119277l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1108/119277t.webp"
+            }
+          },
+          "mal_id": 39966,
+          "title": "Tamayomi",
+          "url": "https://myanimelist.net/anime/39966/Tamayomi"
+        },
+        "position": "Theme Song Composition (OP/ED), Theme Song Lyrics (OP/ED)"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/12/12641.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/12/12641l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/12/12641t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/12/12641.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/12/12641l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/12/12641t.webp"
+            }
+          },
+          "mal_id": 4765,
+          "title": "Gunslinger Girl: Il Teatrino OVA",
+          "url": "https://myanimelist.net/anime/4765/Gunslinger_Girl__Il_Teatrino_OVA"
+        },
+        "position": "Theme Song Composition (ED), Theme Song Lyrics (ED)"
+      }
+    ],
+    "birthday": "1975-01-03T00:00:00+00:00",
+    "family_name": "麻枝",
+    "favorites": 8526,
+    "given_name": "准",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/voiceactors/1/60898.jpg"
+      }
+    },
+    "mal_id": 2347,
+    "manga": [
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/153985.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153985l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153985t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/153985.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/153985l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/153985t.webp"
+            }
+          },
+          "mal_id": 19671,
+          "title": "Angel Beats!: Heaven's Door",
+          "url": "https://myanimelist.net/manga/19671/Angel_Beats___Heaven_s_Door"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/188823.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/188823l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/188823t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/188823.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/188823l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/188823t.webp"
+            }
+          },
+          "mal_id": 91913,
+          "title": "Charlotte",
+          "url": "https://myanimelist.net/manga/91913/Charlotte"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/6142.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6142l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6142t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/6142.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/6142l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/6142t.webp"
+            }
+          },
+          "mal_id": 2598,
+          "title": "Clannad",
+          "url": "https://myanimelist.net/manga/2598/Clannad"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/176840.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176840l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176840t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/176840.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/176840l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/176840t.webp"
+            }
+          },
+          "mal_id": 16648,
+          "title": "Angel Beats!: Track Zero",
+          "url": "https://myanimelist.net/manga/16648/Angel_Beats___Track_Zero"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/162583.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162583l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162583t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/162583.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/162583l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/162583t.webp"
+            }
+          },
+          "mal_id": 6997,
+          "title": "Clannad: Hikaru Mimamoru Sakamichi de",
+          "url": "https://myanimelist.net/manga/6997/Clannad__Hikaru_Mimamoru_Sakamichi_de"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/206104.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206104l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206104t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/206104.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/206104l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/206104t.webp"
+            }
+          },
+          "mal_id": 108529,
+          "title": "Angel Beats!: The Last Operation",
+          "url": "https://myanimelist.net/manga/108529/Angel_Beats___The_Last_Operation"
+        },
+        "position": "Story"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/173205.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173205l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173205t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/173205.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/173205l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/173205t.webp"
+            }
+          },
+          "mal_id": 364,
+          "title": "Hibiki no Mahou",
+          "url": "https://myanimelist.net/manga/364/Hibiki_no_Mahou"
+        },
+        "position": "Story"
+      }
+    ],
+    "name": "Maeda, Jun",
+    "url": "https://myanimelist.net/people/2347/Jun_Maeda",
+    "voices": [],
+    "website_url": "http://key.visualarts.gr.jp/angelbeats/blog/"
+  }
+}

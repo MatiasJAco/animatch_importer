@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/3/72078l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/3/72078t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/72078.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/3/72078l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/3/72078t.webp"
+          }
+        },
+        "mal_id": 28977,
+        "title": "Gintama°",
+        "url": "https://myanimelist.net/anime/28977/Gintama"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/119602.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/2/119602l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/119602t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/119602.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/2/119602l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/119602t.webp"
+          }
+        },
+        "mal_id": 15452,
+        "name": "Sorachi, Hideaki",
+        "url": "https://myanimelist.net/character/15452/Hideaki_Sorachi"
+      },
+      "role": "Supporting"
+    },
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/10/73274t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/10/73274.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/10/73274l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/10/73274t.webp"
+          }
+        },
+        "mal_id": 918,
+        "title": "Gintama",
+        "url": "https://myanimelist.net/anime/918/Gintama"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/119602.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/2/119602l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/119602t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/2/119602.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/2/119602l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/2/119602t.webp"
+          }
+        },
+        "mal_id": 15452,
+        "name": "Sorachi, Hideaki",
+        "url": "https://myanimelist.net/character/15452/Hideaki_Sorachi"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

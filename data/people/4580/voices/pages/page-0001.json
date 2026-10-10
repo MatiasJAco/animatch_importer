@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1929/93629.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1929/93629l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1929/93629t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1929/93629.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1929/93629l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1929/93629t.webp"
+          }
+        },
+        "mal_id": 1943,
+        "title": "Paprika",
+        "url": "https://myanimelist.net/anime/1943/Paprika"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/278846.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/5/278846l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/278846t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/5/278846.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/5/278846l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/5/278846t.webp"
+          }
+        },
+        "mal_id": 126516,
+        "name": "Jinnai",
+        "url": "https://myanimelist.net/character/126516/Jinnai"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

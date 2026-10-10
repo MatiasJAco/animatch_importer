@@ -131,7 +131,7 @@ class Database:
             cur.execute("""INSERT INTO voice_roles
                 (person_mal_id,character_mal_id,anime_mal_id,language,role,raw_json)
                 VALUES (%s,%s,%s,%s,%s,%s)
-                ON CONFLICT(person_mal_id,character_mal_id,anime_mal_id,language)
+                ON CONFLICT(person_mal_id,character_mal_id,anime_mal_id)
                 DO UPDATE SET role=EXCLUDED.role,raw_json=EXCLUDED.raw_json,updated_at=now()""",
                 (person_id,character_id,anime_id,language or "",role,json.dumps(raw)))
 

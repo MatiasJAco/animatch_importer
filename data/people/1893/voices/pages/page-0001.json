@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1305/132237.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1305/132237t.webp"
+          }
+        },
+        "mal_id": 136,
+        "title": "Hunter x Hunter",
+        "url": "https://myanimelist.net/anime/136/Hunter_x_Hunter"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/434947.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/10/434947l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/434947t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/10/434947.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/10/434947l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/10/434947t.webp"
+          }
+        },
+        "mal_id": 193644,
+        "name": "Rock Climber",
+        "url": "https://myanimelist.net/character/193644/Rock_Climber"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

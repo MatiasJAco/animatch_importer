@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1034/99602.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1034/99602.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602t.webp"
+          }
+        },
+        "mal_id": 2488,
+        "title": "Mei to Koneko Bus",
+        "url": "https://myanimelist.net/anime/2488/Mei_to_Koneko_Bus"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/81225.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/16/81225l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/81225t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/16/81225.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/16/81225l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/16/81225t.webp"
+          }
+        },
+        "mal_id": 269,
+        "name": "Totoro",
+        "url": "https://myanimelist.net/character/269/Totoro"
+      },
+      "role": "Supporting"
+    },
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1034/99602.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1034/99602.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1034/99602t.webp"
+          }
+        },
+        "mal_id": 2488,
+        "title": "Mei to Koneko Bus",
+        "url": "https://myanimelist.net/anime/2488/Mei_to_Koneko_Bus"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/270013.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/7/270013l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/270013t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/7/270013.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/7/270013l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/7/270013t.webp"
+          }
+        },
+        "mal_id": 110037,
+        "name": "Grandmother Nekobasu",
+        "url": "https://myanimelist.net/character/110037/Grandmother_Nekobasu"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

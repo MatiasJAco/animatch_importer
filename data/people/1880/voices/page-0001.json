@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1022/129092.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/129092l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/129092t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1022/129092.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1022/129092l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1022/129092t.webp"
+          }
+        },
+        "mal_id": 762,
+        "title": "Bleach: Memories in the Rain",
+        "url": "https://myanimelist.net/anime/762/Bleach__Memories_in_the_Rain"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/102740.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/8/102740l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/102740t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/8/102740.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/8/102740l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/8/102740t.webp"
+          }
+        },
+        "mal_id": 1089,
+        "name": "Kon",
+        "url": "https://myanimelist.net/character/1089/Kon"
+      },
+      "role": "Supporting"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "data": [
+    {
+      "anime": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/18914.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18914l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18914t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/11/18914.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/11/18914l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/11/18914t.webp"
+          }
+        },
+        "mal_id": 6795,
+        "title": "Genius Party Beyond",
+        "url": "https://myanimelist.net/anime/6795/Genius_Party_Beyond"
+      },
+      "character": {
+        "images": {
+          "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/270525.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/14/270525l.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/270525t.jpg"
+          },
+          "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/characters/14/270525.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/characters/14/270525l.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/characters/14/270525t.webp"
+          }
+        },
+        "mal_id": 42853,
+        "name": "Kuu",
+        "url": "https://myanimelist.net/character/42853/Kuu"
+      },
+      "role": "Main"
+    }
+  ]
+}

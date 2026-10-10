@@ -1,0 +1,724 @@
+{
+  "data": {
+    "about": "Naoki Urasawa's career as a manga artist spans more than twenty years and has firmly established him as one of the true manga masters of Japan. Born in Tokyo in 1960, Urasawa debuted with BETA! in 1983 and hasn't stopped his impressive output since. Well-versed in a variety of genres, Urasawa's oeuvre encompasses a multitude of different subjects, such as a romantic comedy (Yawara! A Fashionable Judo Girl), a suspenseful human drama about a former mercenary (Pineapple ARMY; story by Kazuya Kudo), a captivating psychological suspense story (Monster), a sci-fi adventure manga (20th Century Boys), and a modern reinterpretation of the work of the God of Manga, Osamu Tezuka (Pluto: Urasawa x Tezuka; co-authored with Takashi Nagasaki, supervised by Macoto Tezka, and with the cooperation of Tezuka Productions). Many of his books have spawned popular animated and live-action TV programs and films, and 2008 saw the theatrical release of the first of three live-action Japanese films based on 20th Century Boys.\n\nNo stranger to accolades and awards, Urasawa is a three-time recipient of the prestigious Shogakukan Manga Award, a two-time recipient of the Osamu Tezuka Cultural Prize, and has received the Kodansha Manga Award. Similarly, Monster has been nominated twice for the Eisner Award in America. Urasawa has also become involved in the world of academia, and in 2008 accepted a guest teaching post at Nagoya Zokei University, where he teaches courses in, of course, manga.\n\nTwitter: @urasawa_naoki\n\nYouTube: @-urasawachannel-5463",
+    "alternate_names": [],
+    "anime": [
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18793t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/10/18793.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/10/18793l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/10/18793t.webp"
+            }
+          },
+          "mal_id": 19,
+          "title": "Monster",
+          "url": "https://myanimelist.net/anime/19/Monster"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1021/138568.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/138568t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1021/138568.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1021/138568l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1021/138568t.webp"
+            }
+          },
+          "mal_id": 35737,
+          "title": "Pluto",
+          "url": "https://myanimelist.net/anime/35737/Pluto"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/7/73931.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73931l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73931t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/7/73931.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/7/73931l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/7/73931t.webp"
+            }
+          },
+          "mal_id": 1483,
+          "title": "Master Keaton",
+          "url": "https://myanimelist.net/anime/1483/Master_Keaton"
+        },
+        "position": "Original Character Design"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/44864.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/44864l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/44864t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/4/44864.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/4/44864l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/4/44864t.webp"
+            }
+          },
+          "mal_id": 691,
+          "title": "Yawara!",
+          "url": "https://myanimelist.net/anime/691/Yawara"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/14522.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/14522l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/14522t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/9/14522.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/9/14522l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/9/14522t.webp"
+            }
+          },
+          "mal_id": 1910,
+          "title": "Master Keaton OVA",
+          "url": "https://myanimelist.net/anime/1910/Master_Keaton_OVA"
+        },
+        "position": "Original Character Design"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/10372.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10372l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10372t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/5/10372.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/5/10372l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/5/10372t.webp"
+            }
+          },
+          "mal_id": 1109,
+          "title": "Monster Extra: Hottan",
+          "url": "https://myanimelist.net/anime/1109/Monster_Extra__Hottan"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/6/29247.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29247l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29247t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/6/29247.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/6/29247l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/6/29247t.webp"
+            }
+          },
+          "mal_id": 10629,
+          "title": "Tibet Inu Monogatari",
+          "url": "https://myanimelist.net/anime/10629/Tibet_Inu_Monogatari"
+        },
+        "position": "Original Character Design"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1/2125.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2125l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2125t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1/2125.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1/2125l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1/2125t.webp"
+            }
+          },
+          "mal_id": 2009,
+          "title": "Yawara!: Zutto Kimi no Koto ga...",
+          "url": "https://myanimelist.net/anime/2009/Yawara___Zutto_Kimi_no_Koto_ga"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1226/99268.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1226/99268.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1226/99268t.webp"
+            }
+          },
+          "mal_id": 39332,
+          "title": "Monster Special Edition",
+          "url": "https://myanimelist.net/anime/39332/Monster_Special_Edition"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1188/111846.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1188/111846l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1188/111846t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1188/111846.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1188/111846l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1188/111846t.webp"
+            }
+          },
+          "mal_id": 2008,
+          "title": "Yawara! Sore Yuke Koshinuke Kids!!",
+          "url": "https://myanimelist.net/anime/2008/Yawara_Sore_Yuke_Koshinuke_Kids"
+        },
+        "position": "Original Creator"
+      },
+      {
+        "anime": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1520/150350.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/150350l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/150350t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/anime/1520/150350.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/anime/1520/150350l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/anime/1520/150350t.webp"
+            }
+          },
+          "mal_id": 48439,
+          "title": "Boy",
+          "url": "https://myanimelist.net/anime/48439/Boy"
+        },
+        "position": "Director"
+      }
+    ],
+    "birthday": "1960-01-02T00:00:00+00:00",
+    "family_name": "浦沢",
+    "favorites": 24412,
+    "given_name": "直樹",
+    "images": {
+      "jpg": {
+        "image_url": "https://cdn.myanimelist.net/images/voiceactors/2/83481.jpg"
+      }
+    },
+    "mal_id": 1867,
+    "manga": [
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/5/260006.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260006l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260006t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/5/260006.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/5/260006l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/5/260006t.webp"
+            }
+          },
+          "mal_id": 3,
+          "title": "20th Century Boys",
+          "url": "https://myanimelist.net/manga/3/20th_Century_Boys"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/258224.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258224l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258224t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/258224.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/258224l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/258224t.webp"
+            }
+          },
+          "mal_id": 1,
+          "title": "Monster",
+          "url": "https://myanimelist.net/manga/1/Monster"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/264496.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264496l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264496t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/264496.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/264496l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/264496t.webp"
+            }
+          },
+          "mal_id": 745,
+          "title": "Pluto",
+          "url": "https://myanimelist.net/manga/745/Pluto"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/263856.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263856l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263856t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/263856.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/263856l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/263856t.webp"
+            }
+          },
+          "mal_id": 743,
+          "title": "21st Century Boys",
+          "url": "https://myanimelist.net/manga/743/21st_Century_Boys"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/181197.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181197l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181197t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/181197.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/181197l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/181197t.webp"
+            }
+          },
+          "mal_id": 11054,
+          "title": "Billy Bat",
+          "url": "https://myanimelist.net/manga/11054/Billy_Bat"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/265880.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265880l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265880t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/265880.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/265880l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/265880t.webp"
+            }
+          },
+          "mal_id": 116000,
+          "title": "Asadora!",
+          "url": "https://myanimelist.net/manga/116000/Asadora"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/200911.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200911l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200911t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/200911.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/200911l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/200911t.webp"
+            }
+          },
+          "mal_id": 848,
+          "title": "Master Keaton",
+          "url": "https://myanimelist.net/manga/848/Master_Keaton"
+        },
+        "position": "Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/210713.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210713l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210713t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/210713.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/210713l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/210713t.webp"
+            }
+          },
+          "mal_id": 110313,
+          "title": "Mujirushi",
+          "url": "https://myanimelist.net/manga/110313/Mujirushi"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/148293.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/148293l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/148293t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/148293.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/148293l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/148293t.webp"
+            }
+          },
+          "mal_id": 845,
+          "title": "Happy!",
+          "url": "https://myanimelist.net/manga/845/Happy"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/280146.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280146l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280146t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/280146.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/280146l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/280146t.webp"
+            }
+          },
+          "mal_id": 853,
+          "title": "Yawara!",
+          "url": "https://myanimelist.net/manga/853/Yawara"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/232632.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/232632l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/232632t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/232632.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/232632l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/232632t.webp"
+            }
+          },
+          "mal_id": 128620,
+          "title": "Kushami: Urasawa Naoki Tanpenshuu",
+          "url": "https://myanimelist.net/manga/128620/Kushami__Urasawa_Naoki_Tanpenshuu"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/14776.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14776l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14776t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/14776.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/14776l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/14776t.webp"
+            }
+          },
+          "mal_id": 10968,
+          "title": "Mou Hitotsu no Monster: The Investigative Report",
+          "url": "https://myanimelist.net/manga/10968/Mou_Hitotsu_no_Monster__The_Investigative_Report"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/54433.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54433l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54433t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/54433.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/54433l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/54433t.webp"
+            }
+          },
+          "mal_id": 15691,
+          "title": "20 Seiki Shounen: Ujiko Ujio Sakuhinshuu",
+          "url": "https://myanimelist.net/manga/15691/20_Seiki_Shounen__Ujiko_Ujio_Sakuhinshuu"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/45553.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/45553l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/45553t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/45553.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/45553l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/45553t.webp"
+            }
+          },
+          "mal_id": 23765,
+          "title": "NASA",
+          "url": "https://myanimelist.net/manga/23765/NASA"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/35200.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/35200l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/35200t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/35200.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/35200l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/35200t.webp"
+            }
+          },
+          "mal_id": 859,
+          "title": "Pineapple Army",
+          "url": "https://myanimelist.net/manga/859/Pineapple_Army"
+        },
+        "position": "Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/87159.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/87159l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/87159t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/87159.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/87159l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/87159t.webp"
+            }
+          },
+          "mal_id": 49511,
+          "title": "Dancing Policeman",
+          "url": "https://myanimelist.net/manga/49511/Dancing_Policeman"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/286787.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/286787l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/286787t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/286787.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/286787l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/286787t.webp"
+            }
+          },
+          "mal_id": 856,
+          "title": "Jigoro!",
+          "url": "https://myanimelist.net/manga/856/Jigoro"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/148191.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/148191l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/148191t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/1/148191.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/1/148191l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/1/148191t.webp"
+            }
+          },
+          "mal_id": 37289,
+          "title": "Master Keaton Remaster",
+          "url": "https://myanimelist.net/manga/37289/Master_Keaton_Remaster"
+        },
+        "position": "Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/286789.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/286789l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/286789t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/286789.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/286789l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/286789t.webp"
+            }
+          },
+          "mal_id": 25508,
+          "title": "Shoki no Urasawa",
+          "url": "https://myanimelist.net/manga/25508/Shoki_no_Urasawa"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/173398.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173398l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173398t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/173398.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/173398l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/173398t.webp"
+            }
+          },
+          "mal_id": 96896,
+          "title": "Tensai-tachi no Kyouen",
+          "url": "https://myanimelist.net/manga/96896/Tensai-tachi_no_Kyouen"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/348888.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/348888l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/348888t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/348888.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/348888l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/348888t.webp"
+            }
+          },
+          "mal_id": 195664,
+          "title": "Saigo no Manga Kyoushitsu",
+          "url": "https://myanimelist.net/manga/195664/Saigo_no_Manga_Kyoushitsu"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/294539.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/294539l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/294539t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/294539.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/294539l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/294539t.webp"
+            }
+          },
+          "mal_id": 165873,
+          "title": "The Rock 'n Roll Band",
+          "url": "https://myanimelist.net/manga/165873/The_Rock_n_Roll_Band"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/278582.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/278582l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/278582t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/2/278582.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/2/278582l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/2/278582t.webp"
+            }
+          },
+          "mal_id": 156950,
+          "title": "Shousa yori Ai wo Komete",
+          "url": "https://myanimelist.net/manga/156950/Shousa_yori_Ai_wo_Komete"
+        },
+        "position": "Story & Artist"
+      },
+      {
+        "manga": {
+          "images": {
+            "jpg": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/309314.jpg",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/309314l.jpg",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/309314t.jpg"
+            },
+            "webp": {
+              "image_url": "https://cdn.myanimelist.net/images/manga/3/309314.webp",
+              "large_image_url": "https://cdn.myanimelist.net/images/manga/3/309314l.webp",
+              "small_image_url": "https://cdn.myanimelist.net/images/manga/3/309314t.webp"
+            }
+          },
+          "mal_id": 173030,
+          "title": "Dr. Toguro Dokuro no Saigo",
+          "url": "https://myanimelist.net/manga/173030/Dr_Toguro_Dokuro_no_Saigo"
+        },
+        "position": "Story & Artist"
+      }
+    ],
+    "name": "Urasawa, Naoki",
+    "url": "https://myanimelist.net/people/1867/Naoki_Urasawa",
+    "voices": [],
+    "website_url": "http://twitter.com/urasawa_naoki"
+  }
+}
